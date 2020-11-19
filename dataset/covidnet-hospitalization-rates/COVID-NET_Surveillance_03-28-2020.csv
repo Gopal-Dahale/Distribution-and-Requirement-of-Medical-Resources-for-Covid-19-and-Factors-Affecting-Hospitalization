@@ -1,0 +1,4321 @@
+CATCHMENT,NETWORK,YEAR,MMWR-YEAR,MMWR-WEEK,AGE_CATEGORY,CUMULATIVE_RATE,WEEKLY_RATE
+Entire Network,COVID-NET,2020,2020,10,0-4 yr,0,0
+Entire Network,COVID-NET,2020,2020,11,0-4 yr,0,0
+Entire Network,COVID-NET,2020,2020,12,0-4 yr,0,0
+Entire Network,COVID-NET,2020,2020,13,0-4 yr,0.2,0.2
+Entire Network,COVID-NET,2020,2020,14,0-4 yr,null,null
+Entire Network,COVID-NET,2020,2020,15,0-4 yr,null,null
+Entire Network,COVID-NET,2020,2020,16,0-4 yr,null,null
+Entire Network,COVID-NET,2020,2020,17,0-4 yr,null,null
+Entire Network,COVID-NET,2020,2020,18,0-4 yr,null,null
+Entire Network,COVID-NET,2020,2020,19,0-4 yr,null,null
+Entire Network,COVID-NET,2020,2020,20,0-4 yr,null,null
+Entire Network,COVID-NET,2020,2020,21,0-4 yr,null,null
+Entire Network,COVID-NET,2020,2020,22,0-4 yr,null,null
+Entire Network,COVID-NET,2020,2020,23,0-4 yr,null,null
+Entire Network,COVID-NET,2020,2020,24,0-4 yr,null,null
+Entire Network,COVID-NET,2020,2020,25,0-4 yr,null,null
+Entire Network,COVID-NET,2020,2020,26,0-4 yr,null,null
+Entire Network,COVID-NET,2020,2020,27,0-4 yr,null,null
+Entire Network,COVID-NET,2020,2020,28,0-4 yr,null,null
+Entire Network,COVID-NET,2020,2020,29,0-4 yr,null,null
+Entire Network,COVID-NET,2020,2020,30,0-4 yr,null,null
+Entire Network,COVID-NET,2020,2020,31,0-4 yr,null,null
+Entire Network,COVID-NET,2020,2020,32,0-4 yr,null,null
+Entire Network,COVID-NET,2020,2020,33,0-4 yr,null,null
+Entire Network,COVID-NET,2020,2020,34,0-4 yr,null,null
+Entire Network,COVID-NET,2020,2020,35,0-4 yr,null,null
+Entire Network,COVID-NET,2020,2020,36,0-4 yr,null,null
+Entire Network,COVID-NET,2020,2020,37,0-4 yr,null,null
+Entire Network,COVID-NET,2020,2020,38,0-4 yr,null,null
+Entire Network,COVID-NET,2020,2020,39,0-4 yr,null,null
+Entire Network,COVID-NET,2020,2020,10,5-17 yr,0,0
+Entire Network,COVID-NET,2020,2020,11,5-17 yr,0,0
+Entire Network,COVID-NET,2020,2020,12,5-17 yr,0.1,0.1
+Entire Network,COVID-NET,2020,2020,13,5-17 yr,0.1,0
+Entire Network,COVID-NET,2020,2020,14,5-17 yr,null,null
+Entire Network,COVID-NET,2020,2020,15,5-17 yr,null,null
+Entire Network,COVID-NET,2020,2020,16,5-17 yr,null,null
+Entire Network,COVID-NET,2020,2020,17,5-17 yr,null,null
+Entire Network,COVID-NET,2020,2020,18,5-17 yr,null,null
+Entire Network,COVID-NET,2020,2020,19,5-17 yr,null,null
+Entire Network,COVID-NET,2020,2020,20,5-17 yr,null,null
+Entire Network,COVID-NET,2020,2020,21,5-17 yr,null,null
+Entire Network,COVID-NET,2020,2020,22,5-17 yr,null,null
+Entire Network,COVID-NET,2020,2020,23,5-17 yr,null,null
+Entire Network,COVID-NET,2020,2020,24,5-17 yr,null,null
+Entire Network,COVID-NET,2020,2020,25,5-17 yr,null,null
+Entire Network,COVID-NET,2020,2020,26,5-17 yr,null,null
+Entire Network,COVID-NET,2020,2020,27,5-17 yr,null,null
+Entire Network,COVID-NET,2020,2020,28,5-17 yr,null,null
+Entire Network,COVID-NET,2020,2020,29,5-17 yr,null,null
+Entire Network,COVID-NET,2020,2020,30,5-17 yr,null,null
+Entire Network,COVID-NET,2020,2020,31,5-17 yr,null,null
+Entire Network,COVID-NET,2020,2020,32,5-17 yr,null,null
+Entire Network,COVID-NET,2020,2020,33,5-17 yr,null,null
+Entire Network,COVID-NET,2020,2020,34,5-17 yr,null,null
+Entire Network,COVID-NET,2020,2020,35,5-17 yr,null,null
+Entire Network,COVID-NET,2020,2020,36,5-17 yr,null,null
+Entire Network,COVID-NET,2020,2020,37,5-17 yr,null,null
+Entire Network,COVID-NET,2020,2020,38,5-17 yr,null,null
+Entire Network,COVID-NET,2020,2020,39,5-17 yr,null,null
+Entire Network,COVID-NET,2020,2020,10,18-49 yr,0,0
+Entire Network,COVID-NET,2020,2020,11,18-49 yr,0.3,0.3
+Entire Network,COVID-NET,2020,2020,12,18-49 yr,1.1,0.7
+Entire Network,COVID-NET,2020,2020,13,18-49 yr,2.5,1.5
+Entire Network,COVID-NET,2020,2020,14,18-49 yr,null,null
+Entire Network,COVID-NET,2020,2020,15,18-49 yr,null,null
+Entire Network,COVID-NET,2020,2020,16,18-49 yr,null,null
+Entire Network,COVID-NET,2020,2020,17,18-49 yr,null,null
+Entire Network,COVID-NET,2020,2020,18,18-49 yr,null,null
+Entire Network,COVID-NET,2020,2020,19,18-49 yr,null,null
+Entire Network,COVID-NET,2020,2020,20,18-49 yr,null,null
+Entire Network,COVID-NET,2020,2020,21,18-49 yr,null,null
+Entire Network,COVID-NET,2020,2020,22,18-49 yr,null,null
+Entire Network,COVID-NET,2020,2020,23,18-49 yr,null,null
+Entire Network,COVID-NET,2020,2020,24,18-49 yr,null,null
+Entire Network,COVID-NET,2020,2020,25,18-49 yr,null,null
+Entire Network,COVID-NET,2020,2020,26,18-49 yr,null,null
+Entire Network,COVID-NET,2020,2020,27,18-49 yr,null,null
+Entire Network,COVID-NET,2020,2020,28,18-49 yr,null,null
+Entire Network,COVID-NET,2020,2020,29,18-49 yr,null,null
+Entire Network,COVID-NET,2020,2020,30,18-49 yr,null,null
+Entire Network,COVID-NET,2020,2020,31,18-49 yr,null,null
+Entire Network,COVID-NET,2020,2020,32,18-49 yr,null,null
+Entire Network,COVID-NET,2020,2020,33,18-49 yr,null,null
+Entire Network,COVID-NET,2020,2020,34,18-49 yr,null,null
+Entire Network,COVID-NET,2020,2020,35,18-49 yr,null,null
+Entire Network,COVID-NET,2020,2020,36,18-49 yr,null,null
+Entire Network,COVID-NET,2020,2020,37,18-49 yr,null,null
+Entire Network,COVID-NET,2020,2020,38,18-49 yr,null,null
+Entire Network,COVID-NET,2020,2020,39,18-49 yr,null,null
+Entire Network,COVID-NET,2020,2020,10,50-64 yr,0.1,0.1
+Entire Network,COVID-NET,2020,2020,11,50-64 yr,0.9,0.8
+Entire Network,COVID-NET,2020,2020,12,50-64 yr,3.2,2.3
+Entire Network,COVID-NET,2020,2020,13,50-64 yr,7.4,4.2
+Entire Network,COVID-NET,2020,2020,14,50-64 yr,null,null
+Entire Network,COVID-NET,2020,2020,15,50-64 yr,null,null
+Entire Network,COVID-NET,2020,2020,16,50-64 yr,null,null
+Entire Network,COVID-NET,2020,2020,17,50-64 yr,null,null
+Entire Network,COVID-NET,2020,2020,18,50-64 yr,null,null
+Entire Network,COVID-NET,2020,2020,19,50-64 yr,null,null
+Entire Network,COVID-NET,2020,2020,20,50-64 yr,null,null
+Entire Network,COVID-NET,2020,2020,21,50-64 yr,null,null
+Entire Network,COVID-NET,2020,2020,22,50-64 yr,null,null
+Entire Network,COVID-NET,2020,2020,23,50-64 yr,null,null
+Entire Network,COVID-NET,2020,2020,24,50-64 yr,null,null
+Entire Network,COVID-NET,2020,2020,25,50-64 yr,null,null
+Entire Network,COVID-NET,2020,2020,26,50-64 yr,null,null
+Entire Network,COVID-NET,2020,2020,27,50-64 yr,null,null
+Entire Network,COVID-NET,2020,2020,28,50-64 yr,null,null
+Entire Network,COVID-NET,2020,2020,29,50-64 yr,null,null
+Entire Network,COVID-NET,2020,2020,30,50-64 yr,null,null
+Entire Network,COVID-NET,2020,2020,31,50-64 yr,null,null
+Entire Network,COVID-NET,2020,2020,32,50-64 yr,null,null
+Entire Network,COVID-NET,2020,2020,33,50-64 yr,null,null
+Entire Network,COVID-NET,2020,2020,34,50-64 yr,null,null
+Entire Network,COVID-NET,2020,2020,35,50-64 yr,null,null
+Entire Network,COVID-NET,2020,2020,36,50-64 yr,null,null
+Entire Network,COVID-NET,2020,2020,37,50-64 yr,null,null
+Entire Network,COVID-NET,2020,2020,38,50-64 yr,null,null
+Entire Network,COVID-NET,2020,2020,39,50-64 yr,null,null
+Entire Network,COVID-NET,2020,2020,10,65+ yr,0.3,0.3
+Entire Network,COVID-NET,2020,2020,11,65+ yr,1.6,1.3
+Entire Network,COVID-NET,2020,2020,12,65+ yr,5.9,4.3
+Entire Network,COVID-NET,2020,2020,13,65+ yr,13.8,7.9
+Entire Network,COVID-NET,2020,2020,14,65+ yr,null,null
+Entire Network,COVID-NET,2020,2020,15,65+ yr,null,null
+Entire Network,COVID-NET,2020,2020,16,65+ yr,null,null
+Entire Network,COVID-NET,2020,2020,17,65+ yr,null,null
+Entire Network,COVID-NET,2020,2020,18,65+ yr,null,null
+Entire Network,COVID-NET,2020,2020,19,65+ yr,null,null
+Entire Network,COVID-NET,2020,2020,20,65+ yr,null,null
+Entire Network,COVID-NET,2020,2020,21,65+ yr,null,null
+Entire Network,COVID-NET,2020,2020,22,65+ yr,null,null
+Entire Network,COVID-NET,2020,2020,23,65+ yr,null,null
+Entire Network,COVID-NET,2020,2020,24,65+ yr,null,null
+Entire Network,COVID-NET,2020,2020,25,65+ yr,null,null
+Entire Network,COVID-NET,2020,2020,26,65+ yr,null,null
+Entire Network,COVID-NET,2020,2020,27,65+ yr,null,null
+Entire Network,COVID-NET,2020,2020,28,65+ yr,null,null
+Entire Network,COVID-NET,2020,2020,29,65+ yr,null,null
+Entire Network,COVID-NET,2020,2020,30,65+ yr,null,null
+Entire Network,COVID-NET,2020,2020,31,65+ yr,null,null
+Entire Network,COVID-NET,2020,2020,32,65+ yr,null,null
+Entire Network,COVID-NET,2020,2020,33,65+ yr,null,null
+Entire Network,COVID-NET,2020,2020,34,65+ yr,null,null
+Entire Network,COVID-NET,2020,2020,35,65+ yr,null,null
+Entire Network,COVID-NET,2020,2020,36,65+ yr,null,null
+Entire Network,COVID-NET,2020,2020,37,65+ yr,null,null
+Entire Network,COVID-NET,2020,2020,38,65+ yr,null,null
+Entire Network,COVID-NET,2020,2020,39,65+ yr,null,null
+Entire Network,COVID-NET,2020,2020,10,Overall,0.1,0.1
+Entire Network,COVID-NET,2020,2020,11,Overall,0.5,0.5
+Entire Network,COVID-NET,2020,2020,12,Overall,1.9,1.4
+Entire Network,COVID-NET,2020,2020,13,Overall,4.6,2.6
+Entire Network,COVID-NET,2020,2020,14,Overall,null,null
+Entire Network,COVID-NET,2020,2020,15,Overall,null,null
+Entire Network,COVID-NET,2020,2020,16,Overall,null,null
+Entire Network,COVID-NET,2020,2020,17,Overall,null,null
+Entire Network,COVID-NET,2020,2020,18,Overall,null,null
+Entire Network,COVID-NET,2020,2020,19,Overall,null,null
+Entire Network,COVID-NET,2020,2020,20,Overall,null,null
+Entire Network,COVID-NET,2020,2020,21,Overall,null,null
+Entire Network,COVID-NET,2020,2020,22,Overall,null,null
+Entire Network,COVID-NET,2020,2020,23,Overall,null,null
+Entire Network,COVID-NET,2020,2020,24,Overall,null,null
+Entire Network,COVID-NET,2020,2020,25,Overall,null,null
+Entire Network,COVID-NET,2020,2020,26,Overall,null,null
+Entire Network,COVID-NET,2020,2020,27,Overall,null,null
+Entire Network,COVID-NET,2020,2020,28,Overall,null,null
+Entire Network,COVID-NET,2020,2020,29,Overall,null,null
+Entire Network,COVID-NET,2020,2020,30,Overall,null,null
+Entire Network,COVID-NET,2020,2020,31,Overall,null,null
+Entire Network,COVID-NET,2020,2020,32,Overall,null,null
+Entire Network,COVID-NET,2020,2020,33,Overall,null,null
+Entire Network,COVID-NET,2020,2020,34,Overall,null,null
+Entire Network,COVID-NET,2020,2020,35,Overall,null,null
+Entire Network,COVID-NET,2020,2020,36,Overall,null,null
+Entire Network,COVID-NET,2020,2020,37,Overall,null,null
+Entire Network,COVID-NET,2020,2020,38,Overall,null,null
+Entire Network,COVID-NET,2020,2020,39,Overall,null,null
+Entire Network,COVID-NET,2020,2020,10,65-74 yr,0.4,0.4
+Entire Network,COVID-NET,2020,2020,11,65-74 yr,1.7,1.3
+Entire Network,COVID-NET,2020,2020,12,65-74 yr,5.3,3.6
+Entire Network,COVID-NET,2020,2020,13,65-74 yr,12.2,6.9
+Entire Network,COVID-NET,2020,2020,14,65-74 yr,null,null
+Entire Network,COVID-NET,2020,2020,15,65-74 yr,null,null
+Entire Network,COVID-NET,2020,2020,16,65-74 yr,null,null
+Entire Network,COVID-NET,2020,2020,17,65-74 yr,null,null
+Entire Network,COVID-NET,2020,2020,18,65-74 yr,null,null
+Entire Network,COVID-NET,2020,2020,19,65-74 yr,null,null
+Entire Network,COVID-NET,2020,2020,20,65-74 yr,null,null
+Entire Network,COVID-NET,2020,2020,21,65-74 yr,null,null
+Entire Network,COVID-NET,2020,2020,22,65-74 yr,null,null
+Entire Network,COVID-NET,2020,2020,23,65-74 yr,null,null
+Entire Network,COVID-NET,2020,2020,24,65-74 yr,null,null
+Entire Network,COVID-NET,2020,2020,25,65-74 yr,null,null
+Entire Network,COVID-NET,2020,2020,26,65-74 yr,null,null
+Entire Network,COVID-NET,2020,2020,27,65-74 yr,null,null
+Entire Network,COVID-NET,2020,2020,28,65-74 yr,null,null
+Entire Network,COVID-NET,2020,2020,29,65-74 yr,null,null
+Entire Network,COVID-NET,2020,2020,30,65-74 yr,null,null
+Entire Network,COVID-NET,2020,2020,31,65-74 yr,null,null
+Entire Network,COVID-NET,2020,2020,32,65-74 yr,null,null
+Entire Network,COVID-NET,2020,2020,33,65-74 yr,null,null
+Entire Network,COVID-NET,2020,2020,34,65-74 yr,null,null
+Entire Network,COVID-NET,2020,2020,35,65-74 yr,null,null
+Entire Network,COVID-NET,2020,2020,36,65-74 yr,null,null
+Entire Network,COVID-NET,2020,2020,37,65-74 yr,null,null
+Entire Network,COVID-NET,2020,2020,38,65-74 yr,null,null
+Entire Network,COVID-NET,2020,2020,39,65-74 yr,null,null
+Entire Network,COVID-NET,2020,2020,10,75-84 yr,0.3,0.3
+Entire Network,COVID-NET,2020,2020,11,75-84 yr,1.2,0.8
+Entire Network,COVID-NET,2020,2020,12,75-84 yr,6.4,5.3
+Entire Network,COVID-NET,2020,2020,13,75-84 yr,15.8,9.4
+Entire Network,COVID-NET,2020,2020,14,75-84 yr,null,null
+Entire Network,COVID-NET,2020,2020,15,75-84 yr,null,null
+Entire Network,COVID-NET,2020,2020,16,75-84 yr,null,null
+Entire Network,COVID-NET,2020,2020,17,75-84 yr,null,null
+Entire Network,COVID-NET,2020,2020,18,75-84 yr,null,null
+Entire Network,COVID-NET,2020,2020,19,75-84 yr,null,null
+Entire Network,COVID-NET,2020,2020,20,75-84 yr,null,null
+Entire Network,COVID-NET,2020,2020,21,75-84 yr,null,null
+Entire Network,COVID-NET,2020,2020,22,75-84 yr,null,null
+Entire Network,COVID-NET,2020,2020,23,75-84 yr,null,null
+Entire Network,COVID-NET,2020,2020,24,75-84 yr,null,null
+Entire Network,COVID-NET,2020,2020,25,75-84 yr,null,null
+Entire Network,COVID-NET,2020,2020,26,75-84 yr,null,null
+Entire Network,COVID-NET,2020,2020,27,75-84 yr,null,null
+Entire Network,COVID-NET,2020,2020,28,75-84 yr,null,null
+Entire Network,COVID-NET,2020,2020,29,75-84 yr,null,null
+Entire Network,COVID-NET,2020,2020,30,75-84 yr,null,null
+Entire Network,COVID-NET,2020,2020,31,75-84 yr,null,null
+Entire Network,COVID-NET,2020,2020,32,75-84 yr,null,null
+Entire Network,COVID-NET,2020,2020,33,75-84 yr,null,null
+Entire Network,COVID-NET,2020,2020,34,75-84 yr,null,null
+Entire Network,COVID-NET,2020,2020,35,75-84 yr,null,null
+Entire Network,COVID-NET,2020,2020,36,75-84 yr,null,null
+Entire Network,COVID-NET,2020,2020,37,75-84 yr,null,null
+Entire Network,COVID-NET,2020,2020,38,75-84 yr,null,null
+Entire Network,COVID-NET,2020,2020,39,75-84 yr,null,null
+Entire Network,COVID-NET,2020,2020,10,85+,0.2,0.2
+Entire Network,COVID-NET,2020,2020,11,85+,2.3,2.1
+Entire Network,COVID-NET,2020,2020,12,85+,7.5,5.3
+Entire Network,COVID-NET,2020,2020,13,85+,17.2,9.7
+Entire Network,COVID-NET,2020,2020,14,85+,null,null
+Entire Network,COVID-NET,2020,2020,15,85+,null,null
+Entire Network,COVID-NET,2020,2020,16,85+,null,null
+Entire Network,COVID-NET,2020,2020,17,85+,null,null
+Entire Network,COVID-NET,2020,2020,18,85+,null,null
+Entire Network,COVID-NET,2020,2020,19,85+,null,null
+Entire Network,COVID-NET,2020,2020,20,85+,null,null
+Entire Network,COVID-NET,2020,2020,21,85+,null,null
+Entire Network,COVID-NET,2020,2020,22,85+,null,null
+Entire Network,COVID-NET,2020,2020,23,85+,null,null
+Entire Network,COVID-NET,2020,2020,24,85+,null,null
+Entire Network,COVID-NET,2020,2020,25,85+,null,null
+Entire Network,COVID-NET,2020,2020,26,85+,null,null
+Entire Network,COVID-NET,2020,2020,27,85+,null,null
+Entire Network,COVID-NET,2020,2020,28,85+,null,null
+Entire Network,COVID-NET,2020,2020,29,85+,null,null
+Entire Network,COVID-NET,2020,2020,30,85+,null,null
+Entire Network,COVID-NET,2020,2020,31,85+,null,null
+Entire Network,COVID-NET,2020,2020,32,85+,null,null
+Entire Network,COVID-NET,2020,2020,33,85+,null,null
+Entire Network,COVID-NET,2020,2020,34,85+,null,null
+Entire Network,COVID-NET,2020,2020,35,85+,null,null
+Entire Network,COVID-NET,2020,2020,36,85+,null,null
+Entire Network,COVID-NET,2020,2020,37,85+,null,null
+Entire Network,COVID-NET,2020,2020,38,85+,null,null
+Entire Network,COVID-NET,2020,2020,39,85+,null,null
+Entire Network,EIP,2020,2020,10,0-4 yr,0,0
+Entire Network,EIP,2020,2020,11,0-4 yr,0,0
+Entire Network,EIP,2020,2020,12,0-4 yr,0,0
+Entire Network,EIP,2020,2020,13,0-4 yr,0.2,0.2
+Entire Network,EIP,2020,2020,14,0-4 yr,null,null
+Entire Network,EIP,2020,2020,15,0-4 yr,null,null
+Entire Network,EIP,2020,2020,16,0-4 yr,null,null
+Entire Network,EIP,2020,2020,17,0-4 yr,null,null
+Entire Network,EIP,2020,2020,18,0-4 yr,null,null
+Entire Network,EIP,2020,2020,19,0-4 yr,null,null
+Entire Network,EIP,2020,2020,20,0-4 yr,null,null
+Entire Network,EIP,2020,2020,21,0-4 yr,null,null
+Entire Network,EIP,2020,2020,22,0-4 yr,null,null
+Entire Network,EIP,2020,2020,23,0-4 yr,null,null
+Entire Network,EIP,2020,2020,24,0-4 yr,null,null
+Entire Network,EIP,2020,2020,25,0-4 yr,null,null
+Entire Network,EIP,2020,2020,26,0-4 yr,null,null
+Entire Network,EIP,2020,2020,27,0-4 yr,null,null
+Entire Network,EIP,2020,2020,28,0-4 yr,null,null
+Entire Network,EIP,2020,2020,29,0-4 yr,null,null
+Entire Network,EIP,2020,2020,30,0-4 yr,null,null
+Entire Network,EIP,2020,2020,31,0-4 yr,null,null
+Entire Network,EIP,2020,2020,32,0-4 yr,null,null
+Entire Network,EIP,2020,2020,33,0-4 yr,null,null
+Entire Network,EIP,2020,2020,34,0-4 yr,null,null
+Entire Network,EIP,2020,2020,35,0-4 yr,null,null
+Entire Network,EIP,2020,2020,36,0-4 yr,null,null
+Entire Network,EIP,2020,2020,37,0-4 yr,null,null
+Entire Network,EIP,2020,2020,38,0-4 yr,null,null
+Entire Network,EIP,2020,2020,39,0-4 yr,null,null
+Entire Network,EIP,2020,2020,10,5-17 yr,0,0
+Entire Network,EIP,2020,2020,11,5-17 yr,0,0
+Entire Network,EIP,2020,2020,12,5-17 yr,0.1,0.1
+Entire Network,EIP,2020,2020,13,5-17 yr,0.1,0
+Entire Network,EIP,2020,2020,14,5-17 yr,null,null
+Entire Network,EIP,2020,2020,15,5-17 yr,null,null
+Entire Network,EIP,2020,2020,16,5-17 yr,null,null
+Entire Network,EIP,2020,2020,17,5-17 yr,null,null
+Entire Network,EIP,2020,2020,18,5-17 yr,null,null
+Entire Network,EIP,2020,2020,19,5-17 yr,null,null
+Entire Network,EIP,2020,2020,20,5-17 yr,null,null
+Entire Network,EIP,2020,2020,21,5-17 yr,null,null
+Entire Network,EIP,2020,2020,22,5-17 yr,null,null
+Entire Network,EIP,2020,2020,23,5-17 yr,null,null
+Entire Network,EIP,2020,2020,24,5-17 yr,null,null
+Entire Network,EIP,2020,2020,25,5-17 yr,null,null
+Entire Network,EIP,2020,2020,26,5-17 yr,null,null
+Entire Network,EIP,2020,2020,27,5-17 yr,null,null
+Entire Network,EIP,2020,2020,28,5-17 yr,null,null
+Entire Network,EIP,2020,2020,29,5-17 yr,null,null
+Entire Network,EIP,2020,2020,30,5-17 yr,null,null
+Entire Network,EIP,2020,2020,31,5-17 yr,null,null
+Entire Network,EIP,2020,2020,32,5-17 yr,null,null
+Entire Network,EIP,2020,2020,33,5-17 yr,null,null
+Entire Network,EIP,2020,2020,34,5-17 yr,null,null
+Entire Network,EIP,2020,2020,35,5-17 yr,null,null
+Entire Network,EIP,2020,2020,36,5-17 yr,null,null
+Entire Network,EIP,2020,2020,37,5-17 yr,null,null
+Entire Network,EIP,2020,2020,38,5-17 yr,null,null
+Entire Network,EIP,2020,2020,39,5-17 yr,null,null
+Entire Network,EIP,2020,2020,10,18-49 yr,0.1,0.1
+Entire Network,EIP,2020,2020,11,18-49 yr,0.4,0.3
+Entire Network,EIP,2020,2020,12,18-49 yr,1.1,0.8
+Entire Network,EIP,2020,2020,13,18-49 yr,2.6,1.5
+Entire Network,EIP,2020,2020,14,18-49 yr,null,null
+Entire Network,EIP,2020,2020,15,18-49 yr,null,null
+Entire Network,EIP,2020,2020,16,18-49 yr,null,null
+Entire Network,EIP,2020,2020,17,18-49 yr,null,null
+Entire Network,EIP,2020,2020,18,18-49 yr,null,null
+Entire Network,EIP,2020,2020,19,18-49 yr,null,null
+Entire Network,EIP,2020,2020,20,18-49 yr,null,null
+Entire Network,EIP,2020,2020,21,18-49 yr,null,null
+Entire Network,EIP,2020,2020,22,18-49 yr,null,null
+Entire Network,EIP,2020,2020,23,18-49 yr,null,null
+Entire Network,EIP,2020,2020,24,18-49 yr,null,null
+Entire Network,EIP,2020,2020,25,18-49 yr,null,null
+Entire Network,EIP,2020,2020,26,18-49 yr,null,null
+Entire Network,EIP,2020,2020,27,18-49 yr,null,null
+Entire Network,EIP,2020,2020,28,18-49 yr,null,null
+Entire Network,EIP,2020,2020,29,18-49 yr,null,null
+Entire Network,EIP,2020,2020,30,18-49 yr,null,null
+Entire Network,EIP,2020,2020,31,18-49 yr,null,null
+Entire Network,EIP,2020,2020,32,18-49 yr,null,null
+Entire Network,EIP,2020,2020,33,18-49 yr,null,null
+Entire Network,EIP,2020,2020,34,18-49 yr,null,null
+Entire Network,EIP,2020,2020,35,18-49 yr,null,null
+Entire Network,EIP,2020,2020,36,18-49 yr,null,null
+Entire Network,EIP,2020,2020,37,18-49 yr,null,null
+Entire Network,EIP,2020,2020,38,18-49 yr,null,null
+Entire Network,EIP,2020,2020,39,18-49 yr,null,null
+Entire Network,EIP,2020,2020,10,50-64 yr,0.1,0.1
+Entire Network,EIP,2020,2020,11,50-64 yr,1,0.9
+Entire Network,EIP,2020,2020,12,50-64 yr,3.3,2.3
+Entire Network,EIP,2020,2020,13,50-64 yr,7.5,4.2
+Entire Network,EIP,2020,2020,14,50-64 yr,null,null
+Entire Network,EIP,2020,2020,15,50-64 yr,null,null
+Entire Network,EIP,2020,2020,16,50-64 yr,null,null
+Entire Network,EIP,2020,2020,17,50-64 yr,null,null
+Entire Network,EIP,2020,2020,18,50-64 yr,null,null
+Entire Network,EIP,2020,2020,19,50-64 yr,null,null
+Entire Network,EIP,2020,2020,20,50-64 yr,null,null
+Entire Network,EIP,2020,2020,21,50-64 yr,null,null
+Entire Network,EIP,2020,2020,22,50-64 yr,null,null
+Entire Network,EIP,2020,2020,23,50-64 yr,null,null
+Entire Network,EIP,2020,2020,24,50-64 yr,null,null
+Entire Network,EIP,2020,2020,25,50-64 yr,null,null
+Entire Network,EIP,2020,2020,26,50-64 yr,null,null
+Entire Network,EIP,2020,2020,27,50-64 yr,null,null
+Entire Network,EIP,2020,2020,28,50-64 yr,null,null
+Entire Network,EIP,2020,2020,29,50-64 yr,null,null
+Entire Network,EIP,2020,2020,30,50-64 yr,null,null
+Entire Network,EIP,2020,2020,31,50-64 yr,null,null
+Entire Network,EIP,2020,2020,32,50-64 yr,null,null
+Entire Network,EIP,2020,2020,33,50-64 yr,null,null
+Entire Network,EIP,2020,2020,34,50-64 yr,null,null
+Entire Network,EIP,2020,2020,35,50-64 yr,null,null
+Entire Network,EIP,2020,2020,36,50-64 yr,null,null
+Entire Network,EIP,2020,2020,37,50-64 yr,null,null
+Entire Network,EIP,2020,2020,38,50-64 yr,null,null
+Entire Network,EIP,2020,2020,39,50-64 yr,null,null
+Entire Network,EIP,2020,2020,10,65+ yr,0.4,0.4
+Entire Network,EIP,2020,2020,11,65+ yr,1.8,1.4
+Entire Network,EIP,2020,2020,12,65+ yr,5.9,4.1
+Entire Network,EIP,2020,2020,13,65+ yr,13.8,7.9
+Entire Network,EIP,2020,2020,14,65+ yr,null,null
+Entire Network,EIP,2020,2020,15,65+ yr,null,null
+Entire Network,EIP,2020,2020,16,65+ yr,null,null
+Entire Network,EIP,2020,2020,17,65+ yr,null,null
+Entire Network,EIP,2020,2020,18,65+ yr,null,null
+Entire Network,EIP,2020,2020,19,65+ yr,null,null
+Entire Network,EIP,2020,2020,20,65+ yr,null,null
+Entire Network,EIP,2020,2020,21,65+ yr,null,null
+Entire Network,EIP,2020,2020,22,65+ yr,null,null
+Entire Network,EIP,2020,2020,23,65+ yr,null,null
+Entire Network,EIP,2020,2020,24,65+ yr,null,null
+Entire Network,EIP,2020,2020,25,65+ yr,null,null
+Entire Network,EIP,2020,2020,26,65+ yr,null,null
+Entire Network,EIP,2020,2020,27,65+ yr,null,null
+Entire Network,EIP,2020,2020,28,65+ yr,null,null
+Entire Network,EIP,2020,2020,29,65+ yr,null,null
+Entire Network,EIP,2020,2020,30,65+ yr,null,null
+Entire Network,EIP,2020,2020,31,65+ yr,null,null
+Entire Network,EIP,2020,2020,32,65+ yr,null,null
+Entire Network,EIP,2020,2020,33,65+ yr,null,null
+Entire Network,EIP,2020,2020,34,65+ yr,null,null
+Entire Network,EIP,2020,2020,35,65+ yr,null,null
+Entire Network,EIP,2020,2020,36,65+ yr,null,null
+Entire Network,EIP,2020,2020,37,65+ yr,null,null
+Entire Network,EIP,2020,2020,38,65+ yr,null,null
+Entire Network,EIP,2020,2020,39,65+ yr,null,null
+Entire Network,EIP,2020,2020,10,Overall,0.1,0.1
+Entire Network,EIP,2020,2020,11,Overall,0.6,0.5
+Entire Network,EIP,2020,2020,12,Overall,2,1.4
+Entire Network,EIP,2020,2020,13,Overall,4.6,2.6
+Entire Network,EIP,2020,2020,14,Overall,null,null
+Entire Network,EIP,2020,2020,15,Overall,null,null
+Entire Network,EIP,2020,2020,16,Overall,null,null
+Entire Network,EIP,2020,2020,17,Overall,null,null
+Entire Network,EIP,2020,2020,18,Overall,null,null
+Entire Network,EIP,2020,2020,19,Overall,null,null
+Entire Network,EIP,2020,2020,20,Overall,null,null
+Entire Network,EIP,2020,2020,21,Overall,null,null
+Entire Network,EIP,2020,2020,22,Overall,null,null
+Entire Network,EIP,2020,2020,23,Overall,null,null
+Entire Network,EIP,2020,2020,24,Overall,null,null
+Entire Network,EIP,2020,2020,25,Overall,null,null
+Entire Network,EIP,2020,2020,26,Overall,null,null
+Entire Network,EIP,2020,2020,27,Overall,null,null
+Entire Network,EIP,2020,2020,28,Overall,null,null
+Entire Network,EIP,2020,2020,29,Overall,null,null
+Entire Network,EIP,2020,2020,30,Overall,null,null
+Entire Network,EIP,2020,2020,31,Overall,null,null
+Entire Network,EIP,2020,2020,32,Overall,null,null
+Entire Network,EIP,2020,2020,33,Overall,null,null
+Entire Network,EIP,2020,2020,34,Overall,null,null
+Entire Network,EIP,2020,2020,35,Overall,null,null
+Entire Network,EIP,2020,2020,36,Overall,null,null
+Entire Network,EIP,2020,2020,37,Overall,null,null
+Entire Network,EIP,2020,2020,38,Overall,null,null
+Entire Network,EIP,2020,2020,39,Overall,null,null
+Entire Network,EIP,2020,2020,10,65-74 yr,0.4,0.4
+Entire Network,EIP,2020,2020,11,65-74 yr,1.9,1.5
+Entire Network,EIP,2020,2020,12,65-74 yr,5.3,3.4
+Entire Network,EIP,2020,2020,13,65-74 yr,12.5,7.2
+Entire Network,EIP,2020,2020,14,65-74 yr,null,null
+Entire Network,EIP,2020,2020,15,65-74 yr,null,null
+Entire Network,EIP,2020,2020,16,65-74 yr,null,null
+Entire Network,EIP,2020,2020,17,65-74 yr,null,null
+Entire Network,EIP,2020,2020,18,65-74 yr,null,null
+Entire Network,EIP,2020,2020,19,65-74 yr,null,null
+Entire Network,EIP,2020,2020,20,65-74 yr,null,null
+Entire Network,EIP,2020,2020,21,65-74 yr,null,null
+Entire Network,EIP,2020,2020,22,65-74 yr,null,null
+Entire Network,EIP,2020,2020,23,65-74 yr,null,null
+Entire Network,EIP,2020,2020,24,65-74 yr,null,null
+Entire Network,EIP,2020,2020,25,65-74 yr,null,null
+Entire Network,EIP,2020,2020,26,65-74 yr,null,null
+Entire Network,EIP,2020,2020,27,65-74 yr,null,null
+Entire Network,EIP,2020,2020,28,65-74 yr,null,null
+Entire Network,EIP,2020,2020,29,65-74 yr,null,null
+Entire Network,EIP,2020,2020,30,65-74 yr,null,null
+Entire Network,EIP,2020,2020,31,65-74 yr,null,null
+Entire Network,EIP,2020,2020,32,65-74 yr,null,null
+Entire Network,EIP,2020,2020,33,65-74 yr,null,null
+Entire Network,EIP,2020,2020,34,65-74 yr,null,null
+Entire Network,EIP,2020,2020,35,65-74 yr,null,null
+Entire Network,EIP,2020,2020,36,65-74 yr,null,null
+Entire Network,EIP,2020,2020,37,65-74 yr,null,null
+Entire Network,EIP,2020,2020,38,65-74 yr,null,null
+Entire Network,EIP,2020,2020,39,65-74 yr,null,null
+Entire Network,EIP,2020,2020,10,75-84 yr,0.4,0.4
+Entire Network,EIP,2020,2020,11,75-84 yr,1.3,1
+Entire Network,EIP,2020,2020,12,75-84 yr,6.4,5.1
+Entire Network,EIP,2020,2020,13,75-84 yr,15.1,8.7
+Entire Network,EIP,2020,2020,14,75-84 yr,null,null
+Entire Network,EIP,2020,2020,15,75-84 yr,null,null
+Entire Network,EIP,2020,2020,16,75-84 yr,null,null
+Entire Network,EIP,2020,2020,17,75-84 yr,null,null
+Entire Network,EIP,2020,2020,18,75-84 yr,null,null
+Entire Network,EIP,2020,2020,19,75-84 yr,null,null
+Entire Network,EIP,2020,2020,20,75-84 yr,null,null
+Entire Network,EIP,2020,2020,21,75-84 yr,null,null
+Entire Network,EIP,2020,2020,22,75-84 yr,null,null
+Entire Network,EIP,2020,2020,23,75-84 yr,null,null
+Entire Network,EIP,2020,2020,24,75-84 yr,null,null
+Entire Network,EIP,2020,2020,25,75-84 yr,null,null
+Entire Network,EIP,2020,2020,26,75-84 yr,null,null
+Entire Network,EIP,2020,2020,27,75-84 yr,null,null
+Entire Network,EIP,2020,2020,28,75-84 yr,null,null
+Entire Network,EIP,2020,2020,29,75-84 yr,null,null
+Entire Network,EIP,2020,2020,30,75-84 yr,null,null
+Entire Network,EIP,2020,2020,31,75-84 yr,null,null
+Entire Network,EIP,2020,2020,32,75-84 yr,null,null
+Entire Network,EIP,2020,2020,33,75-84 yr,null,null
+Entire Network,EIP,2020,2020,34,75-84 yr,null,null
+Entire Network,EIP,2020,2020,35,75-84 yr,null,null
+Entire Network,EIP,2020,2020,36,75-84 yr,null,null
+Entire Network,EIP,2020,2020,37,75-84 yr,null,null
+Entire Network,EIP,2020,2020,38,75-84 yr,null,null
+Entire Network,EIP,2020,2020,39,75-84 yr,null,null
+Entire Network,EIP,2020,2020,10,85+,0.2,0.2
+Entire Network,EIP,2020,2020,11,85+,2.6,2.4
+Entire Network,EIP,2020,2020,12,85+,7.6,5
+Entire Network,EIP,2020,2020,13,85+,17,9.4
+Entire Network,EIP,2020,2020,14,85+,null,null
+Entire Network,EIP,2020,2020,15,85+,null,null
+Entire Network,EIP,2020,2020,16,85+,null,null
+Entire Network,EIP,2020,2020,17,85+,null,null
+Entire Network,EIP,2020,2020,18,85+,null,null
+Entire Network,EIP,2020,2020,19,85+,null,null
+Entire Network,EIP,2020,2020,20,85+,null,null
+Entire Network,EIP,2020,2020,21,85+,null,null
+Entire Network,EIP,2020,2020,22,85+,null,null
+Entire Network,EIP,2020,2020,23,85+,null,null
+Entire Network,EIP,2020,2020,24,85+,null,null
+Entire Network,EIP,2020,2020,25,85+,null,null
+Entire Network,EIP,2020,2020,26,85+,null,null
+Entire Network,EIP,2020,2020,27,85+,null,null
+Entire Network,EIP,2020,2020,28,85+,null,null
+Entire Network,EIP,2020,2020,29,85+,null,null
+Entire Network,EIP,2020,2020,30,85+,null,null
+Entire Network,EIP,2020,2020,31,85+,null,null
+Entire Network,EIP,2020,2020,32,85+,null,null
+Entire Network,EIP,2020,2020,33,85+,null,null
+Entire Network,EIP,2020,2020,34,85+,null,null
+Entire Network,EIP,2020,2020,35,85+,null,null
+Entire Network,EIP,2020,2020,36,85+,null,null
+Entire Network,EIP,2020,2020,37,85+,null,null
+Entire Network,EIP,2020,2020,38,85+,null,null
+Entire Network,EIP,2020,2020,39,85+,null,null
+California,EIP,2020,2020,10,0-4 yr,0,0
+California,EIP,2020,2020,11,0-4 yr,0,0
+California,EIP,2020,2020,12,0-4 yr,0,0
+California,EIP,2020,2020,13,0-4 yr,0,0
+California,EIP,2020,2020,14,0-4 yr,null,null
+California,EIP,2020,2020,15,0-4 yr,null,null
+California,EIP,2020,2020,16,0-4 yr,null,null
+California,EIP,2020,2020,17,0-4 yr,null,null
+California,EIP,2020,2020,18,0-4 yr,null,null
+California,EIP,2020,2020,19,0-4 yr,null,null
+California,EIP,2020,2020,20,0-4 yr,null,null
+California,EIP,2020,2020,21,0-4 yr,null,null
+California,EIP,2020,2020,22,0-4 yr,null,null
+California,EIP,2020,2020,23,0-4 yr,null,null
+California,EIP,2020,2020,24,0-4 yr,null,null
+California,EIP,2020,2020,25,0-4 yr,null,null
+California,EIP,2020,2020,26,0-4 yr,null,null
+California,EIP,2020,2020,27,0-4 yr,null,null
+California,EIP,2020,2020,28,0-4 yr,null,null
+California,EIP,2020,2020,29,0-4 yr,null,null
+California,EIP,2020,2020,30,0-4 yr,null,null
+California,EIP,2020,2020,31,0-4 yr,null,null
+California,EIP,2020,2020,32,0-4 yr,null,null
+California,EIP,2020,2020,33,0-4 yr,null,null
+California,EIP,2020,2020,34,0-4 yr,null,null
+California,EIP,2020,2020,35,0-4 yr,null,null
+California,EIP,2020,2020,36,0-4 yr,null,null
+California,EIP,2020,2020,37,0-4 yr,null,null
+California,EIP,2020,2020,38,0-4 yr,null,null
+California,EIP,2020,2020,39,0-4 yr,null,null
+California,EIP,2020,2020,10,5-17 yr,0,0
+California,EIP,2020,2020,11,5-17 yr,0,0
+California,EIP,2020,2020,12,5-17 yr,0,0
+California,EIP,2020,2020,13,5-17 yr,0,0
+California,EIP,2020,2020,14,5-17 yr,null,null
+California,EIP,2020,2020,15,5-17 yr,null,null
+California,EIP,2020,2020,16,5-17 yr,null,null
+California,EIP,2020,2020,17,5-17 yr,null,null
+California,EIP,2020,2020,18,5-17 yr,null,null
+California,EIP,2020,2020,19,5-17 yr,null,null
+California,EIP,2020,2020,20,5-17 yr,null,null
+California,EIP,2020,2020,21,5-17 yr,null,null
+California,EIP,2020,2020,22,5-17 yr,null,null
+California,EIP,2020,2020,23,5-17 yr,null,null
+California,EIP,2020,2020,24,5-17 yr,null,null
+California,EIP,2020,2020,25,5-17 yr,null,null
+California,EIP,2020,2020,26,5-17 yr,null,null
+California,EIP,2020,2020,27,5-17 yr,null,null
+California,EIP,2020,2020,28,5-17 yr,null,null
+California,EIP,2020,2020,29,5-17 yr,null,null
+California,EIP,2020,2020,30,5-17 yr,null,null
+California,EIP,2020,2020,31,5-17 yr,null,null
+California,EIP,2020,2020,32,5-17 yr,null,null
+California,EIP,2020,2020,33,5-17 yr,null,null
+California,EIP,2020,2020,34,5-17 yr,null,null
+California,EIP,2020,2020,35,5-17 yr,null,null
+California,EIP,2020,2020,36,5-17 yr,null,null
+California,EIP,2020,2020,37,5-17 yr,null,null
+California,EIP,2020,2020,38,5-17 yr,null,null
+California,EIP,2020,2020,39,5-17 yr,null,null
+California,EIP,2020,2020,10,18-49 yr,0.2,0.2
+California,EIP,2020,2020,11,18-49 yr,0.5,0.3
+California,EIP,2020,2020,12,18-49 yr,0.8,0.3
+California,EIP,2020,2020,13,18-49 yr,0.9,0.1
+California,EIP,2020,2020,14,18-49 yr,null,null
+California,EIP,2020,2020,15,18-49 yr,null,null
+California,EIP,2020,2020,16,18-49 yr,null,null
+California,EIP,2020,2020,17,18-49 yr,null,null
+California,EIP,2020,2020,18,18-49 yr,null,null
+California,EIP,2020,2020,19,18-49 yr,null,null
+California,EIP,2020,2020,20,18-49 yr,null,null
+California,EIP,2020,2020,21,18-49 yr,null,null
+California,EIP,2020,2020,22,18-49 yr,null,null
+California,EIP,2020,2020,23,18-49 yr,null,null
+California,EIP,2020,2020,24,18-49 yr,null,null
+California,EIP,2020,2020,25,18-49 yr,null,null
+California,EIP,2020,2020,26,18-49 yr,null,null
+California,EIP,2020,2020,27,18-49 yr,null,null
+California,EIP,2020,2020,28,18-49 yr,null,null
+California,EIP,2020,2020,29,18-49 yr,null,null
+California,EIP,2020,2020,30,18-49 yr,null,null
+California,EIP,2020,2020,31,18-49 yr,null,null
+California,EIP,2020,2020,32,18-49 yr,null,null
+California,EIP,2020,2020,33,18-49 yr,null,null
+California,EIP,2020,2020,34,18-49 yr,null,null
+California,EIP,2020,2020,35,18-49 yr,null,null
+California,EIP,2020,2020,36,18-49 yr,null,null
+California,EIP,2020,2020,37,18-49 yr,null,null
+California,EIP,2020,2020,38,18-49 yr,null,null
+California,EIP,2020,2020,39,18-49 yr,null,null
+California,EIP,2020,2020,10,50-64 yr,0,0
+California,EIP,2020,2020,11,50-64 yr,1.3,1.3
+California,EIP,2020,2020,12,50-64 yr,2.7,1.4
+California,EIP,2020,2020,13,50-64 yr,3.9,1.1
+California,EIP,2020,2020,14,50-64 yr,null,null
+California,EIP,2020,2020,15,50-64 yr,null,null
+California,EIP,2020,2020,16,50-64 yr,null,null
+California,EIP,2020,2020,17,50-64 yr,null,null
+California,EIP,2020,2020,18,50-64 yr,null,null
+California,EIP,2020,2020,19,50-64 yr,null,null
+California,EIP,2020,2020,20,50-64 yr,null,null
+California,EIP,2020,2020,21,50-64 yr,null,null
+California,EIP,2020,2020,22,50-64 yr,null,null
+California,EIP,2020,2020,23,50-64 yr,null,null
+California,EIP,2020,2020,24,50-64 yr,null,null
+California,EIP,2020,2020,25,50-64 yr,null,null
+California,EIP,2020,2020,26,50-64 yr,null,null
+California,EIP,2020,2020,27,50-64 yr,null,null
+California,EIP,2020,2020,28,50-64 yr,null,null
+California,EIP,2020,2020,29,50-64 yr,null,null
+California,EIP,2020,2020,30,50-64 yr,null,null
+California,EIP,2020,2020,31,50-64 yr,null,null
+California,EIP,2020,2020,32,50-64 yr,null,null
+California,EIP,2020,2020,33,50-64 yr,null,null
+California,EIP,2020,2020,34,50-64 yr,null,null
+California,EIP,2020,2020,35,50-64 yr,null,null
+California,EIP,2020,2020,36,50-64 yr,null,null
+California,EIP,2020,2020,37,50-64 yr,null,null
+California,EIP,2020,2020,38,50-64 yr,null,null
+California,EIP,2020,2020,39,50-64 yr,null,null
+California,EIP,2020,2020,10,65+ yr,0.5,0.5
+California,EIP,2020,2020,11,65+ yr,2,1.5
+California,EIP,2020,2020,12,65+ yr,4.9,2.9
+California,EIP,2020,2020,13,65+ yr,5.6,0.7
+California,EIP,2020,2020,14,65+ yr,null,null
+California,EIP,2020,2020,15,65+ yr,null,null
+California,EIP,2020,2020,16,65+ yr,null,null
+California,EIP,2020,2020,17,65+ yr,null,null
+California,EIP,2020,2020,18,65+ yr,null,null
+California,EIP,2020,2020,19,65+ yr,null,null
+California,EIP,2020,2020,20,65+ yr,null,null
+California,EIP,2020,2020,21,65+ yr,null,null
+California,EIP,2020,2020,22,65+ yr,null,null
+California,EIP,2020,2020,23,65+ yr,null,null
+California,EIP,2020,2020,24,65+ yr,null,null
+California,EIP,2020,2020,25,65+ yr,null,null
+California,EIP,2020,2020,26,65+ yr,null,null
+California,EIP,2020,2020,27,65+ yr,null,null
+California,EIP,2020,2020,28,65+ yr,null,null
+California,EIP,2020,2020,29,65+ yr,null,null
+California,EIP,2020,2020,30,65+ yr,null,null
+California,EIP,2020,2020,31,65+ yr,null,null
+California,EIP,2020,2020,32,65+ yr,null,null
+California,EIP,2020,2020,33,65+ yr,null,null
+California,EIP,2020,2020,34,65+ yr,null,null
+California,EIP,2020,2020,35,65+ yr,null,null
+California,EIP,2020,2020,36,65+ yr,null,null
+California,EIP,2020,2020,37,65+ yr,null,null
+California,EIP,2020,2020,38,65+ yr,null,null
+California,EIP,2020,2020,39,65+ yr,null,null
+California,EIP,2020,2020,10,Overall,0.2,0.2
+California,EIP,2020,2020,11,Overall,0.8,0.6
+California,EIP,2020,2020,12,Overall,1.6,0.8
+California,EIP,2020,2020,13,Overall,2,0.4
+California,EIP,2020,2020,14,Overall,null,null
+California,EIP,2020,2020,15,Overall,null,null
+California,EIP,2020,2020,16,Overall,null,null
+California,EIP,2020,2020,17,Overall,null,null
+California,EIP,2020,2020,18,Overall,null,null
+California,EIP,2020,2020,19,Overall,null,null
+California,EIP,2020,2020,20,Overall,null,null
+California,EIP,2020,2020,21,Overall,null,null
+California,EIP,2020,2020,22,Overall,null,null
+California,EIP,2020,2020,23,Overall,null,null
+California,EIP,2020,2020,24,Overall,null,null
+California,EIP,2020,2020,25,Overall,null,null
+California,EIP,2020,2020,26,Overall,null,null
+California,EIP,2020,2020,27,Overall,null,null
+California,EIP,2020,2020,28,Overall,null,null
+California,EIP,2020,2020,29,Overall,null,null
+California,EIP,2020,2020,30,Overall,null,null
+California,EIP,2020,2020,31,Overall,null,null
+California,EIP,2020,2020,32,Overall,null,null
+California,EIP,2020,2020,33,Overall,null,null
+California,EIP,2020,2020,34,Overall,null,null
+California,EIP,2020,2020,35,Overall,null,null
+California,EIP,2020,2020,36,Overall,null,null
+California,EIP,2020,2020,37,Overall,null,null
+California,EIP,2020,2020,38,Overall,null,null
+California,EIP,2020,2020,39,Overall,null,null
+California,EIP,2020,2020,10,65-74 yr,0.6,0.6
+California,EIP,2020,2020,11,65-74 yr,1.9,1.3
+California,EIP,2020,2020,12,65-74 yr,3.8,1.9
+California,EIP,2020,2020,13,65-74 yr,4.7,0.9
+California,EIP,2020,2020,14,65-74 yr,null,null
+California,EIP,2020,2020,15,65-74 yr,null,null
+California,EIP,2020,2020,16,65-74 yr,null,null
+California,EIP,2020,2020,17,65-74 yr,null,null
+California,EIP,2020,2020,18,65-74 yr,null,null
+California,EIP,2020,2020,19,65-74 yr,null,null
+California,EIP,2020,2020,20,65-74 yr,null,null
+California,EIP,2020,2020,21,65-74 yr,null,null
+California,EIP,2020,2020,22,65-74 yr,null,null
+California,EIP,2020,2020,23,65-74 yr,null,null
+California,EIP,2020,2020,24,65-74 yr,null,null
+California,EIP,2020,2020,25,65-74 yr,null,null
+California,EIP,2020,2020,26,65-74 yr,null,null
+California,EIP,2020,2020,27,65-74 yr,null,null
+California,EIP,2020,2020,28,65-74 yr,null,null
+California,EIP,2020,2020,29,65-74 yr,null,null
+California,EIP,2020,2020,30,65-74 yr,null,null
+California,EIP,2020,2020,31,65-74 yr,null,null
+California,EIP,2020,2020,32,65-74 yr,null,null
+California,EIP,2020,2020,33,65-74 yr,null,null
+California,EIP,2020,2020,34,65-74 yr,null,null
+California,EIP,2020,2020,35,65-74 yr,null,null
+California,EIP,2020,2020,36,65-74 yr,null,null
+California,EIP,2020,2020,37,65-74 yr,null,null
+California,EIP,2020,2020,38,65-74 yr,null,null
+California,EIP,2020,2020,39,65-74 yr,null,null
+California,EIP,2020,2020,10,75-84 yr,0.6,0.6
+California,EIP,2020,2020,11,75-84 yr,1.3,0.6
+California,EIP,2020,2020,12,75-84 yr,7.1,5.8
+California,EIP,2020,2020,13,75-84 yr,7.7,0.6
+California,EIP,2020,2020,14,75-84 yr,null,null
+California,EIP,2020,2020,15,75-84 yr,null,null
+California,EIP,2020,2020,16,75-84 yr,null,null
+California,EIP,2020,2020,17,75-84 yr,null,null
+California,EIP,2020,2020,18,75-84 yr,null,null
+California,EIP,2020,2020,19,75-84 yr,null,null
+California,EIP,2020,2020,20,75-84 yr,null,null
+California,EIP,2020,2020,21,75-84 yr,null,null
+California,EIP,2020,2020,22,75-84 yr,null,null
+California,EIP,2020,2020,23,75-84 yr,null,null
+California,EIP,2020,2020,24,75-84 yr,null,null
+California,EIP,2020,2020,25,75-84 yr,null,null
+California,EIP,2020,2020,26,75-84 yr,null,null
+California,EIP,2020,2020,27,75-84 yr,null,null
+California,EIP,2020,2020,28,75-84 yr,null,null
+California,EIP,2020,2020,29,75-84 yr,null,null
+California,EIP,2020,2020,30,75-84 yr,null,null
+California,EIP,2020,2020,31,75-84 yr,null,null
+California,EIP,2020,2020,32,75-84 yr,null,null
+California,EIP,2020,2020,33,75-84 yr,null,null
+California,EIP,2020,2020,34,75-84 yr,null,null
+California,EIP,2020,2020,35,75-84 yr,null,null
+California,EIP,2020,2020,36,75-84 yr,null,null
+California,EIP,2020,2020,37,75-84 yr,null,null
+California,EIP,2020,2020,38,75-84 yr,null,null
+California,EIP,2020,2020,39,75-84 yr,null,null
+California,EIP,2020,2020,10,85+,0,0
+California,EIP,2020,2020,11,85+,4,4
+California,EIP,2020,2020,12,85+,5.3,1.3
+California,EIP,2020,2020,13,85+,5.3,0
+California,EIP,2020,2020,14,85+,null,null
+California,EIP,2020,2020,15,85+,null,null
+California,EIP,2020,2020,16,85+,null,null
+California,EIP,2020,2020,17,85+,null,null
+California,EIP,2020,2020,18,85+,null,null
+California,EIP,2020,2020,19,85+,null,null
+California,EIP,2020,2020,20,85+,null,null
+California,EIP,2020,2020,21,85+,null,null
+California,EIP,2020,2020,22,85+,null,null
+California,EIP,2020,2020,23,85+,null,null
+California,EIP,2020,2020,24,85+,null,null
+California,EIP,2020,2020,25,85+,null,null
+California,EIP,2020,2020,26,85+,null,null
+California,EIP,2020,2020,27,85+,null,null
+California,EIP,2020,2020,28,85+,null,null
+California,EIP,2020,2020,29,85+,null,null
+California,EIP,2020,2020,30,85+,null,null
+California,EIP,2020,2020,31,85+,null,null
+California,EIP,2020,2020,32,85+,null,null
+California,EIP,2020,2020,33,85+,null,null
+California,EIP,2020,2020,34,85+,null,null
+California,EIP,2020,2020,35,85+,null,null
+California,EIP,2020,2020,36,85+,null,null
+California,EIP,2020,2020,37,85+,null,null
+California,EIP,2020,2020,38,85+,null,null
+California,EIP,2020,2020,39,85+,null,null
+Colorado,EIP,2020,2020,10,0-4 yr,0,0
+Colorado,EIP,2020,2020,11,0-4 yr,0,0
+Colorado,EIP,2020,2020,12,0-4 yr,0,0
+Colorado,EIP,2020,2020,13,0-4 yr,0,0
+Colorado,EIP,2020,2020,14,0-4 yr,null,null
+Colorado,EIP,2020,2020,15,0-4 yr,null,null
+Colorado,EIP,2020,2020,16,0-4 yr,null,null
+Colorado,EIP,2020,2020,17,0-4 yr,null,null
+Colorado,EIP,2020,2020,18,0-4 yr,null,null
+Colorado,EIP,2020,2020,19,0-4 yr,null,null
+Colorado,EIP,2020,2020,20,0-4 yr,null,null
+Colorado,EIP,2020,2020,21,0-4 yr,null,null
+Colorado,EIP,2020,2020,22,0-4 yr,null,null
+Colorado,EIP,2020,2020,23,0-4 yr,null,null
+Colorado,EIP,2020,2020,24,0-4 yr,null,null
+Colorado,EIP,2020,2020,25,0-4 yr,null,null
+Colorado,EIP,2020,2020,26,0-4 yr,null,null
+Colorado,EIP,2020,2020,27,0-4 yr,null,null
+Colorado,EIP,2020,2020,28,0-4 yr,null,null
+Colorado,EIP,2020,2020,29,0-4 yr,null,null
+Colorado,EIP,2020,2020,30,0-4 yr,null,null
+Colorado,EIP,2020,2020,31,0-4 yr,null,null
+Colorado,EIP,2020,2020,32,0-4 yr,null,null
+Colorado,EIP,2020,2020,33,0-4 yr,null,null
+Colorado,EIP,2020,2020,34,0-4 yr,null,null
+Colorado,EIP,2020,2020,35,0-4 yr,null,null
+Colorado,EIP,2020,2020,36,0-4 yr,null,null
+Colorado,EIP,2020,2020,37,0-4 yr,null,null
+Colorado,EIP,2020,2020,38,0-4 yr,null,null
+Colorado,EIP,2020,2020,39,0-4 yr,null,null
+Colorado,EIP,2020,2020,10,5-17 yr,0,0
+Colorado,EIP,2020,2020,11,5-17 yr,0,0
+Colorado,EIP,2020,2020,12,5-17 yr,0,0
+Colorado,EIP,2020,2020,13,5-17 yr,0,0
+Colorado,EIP,2020,2020,14,5-17 yr,null,null
+Colorado,EIP,2020,2020,15,5-17 yr,null,null
+Colorado,EIP,2020,2020,16,5-17 yr,null,null
+Colorado,EIP,2020,2020,17,5-17 yr,null,null
+Colorado,EIP,2020,2020,18,5-17 yr,null,null
+Colorado,EIP,2020,2020,19,5-17 yr,null,null
+Colorado,EIP,2020,2020,20,5-17 yr,null,null
+Colorado,EIP,2020,2020,21,5-17 yr,null,null
+Colorado,EIP,2020,2020,22,5-17 yr,null,null
+Colorado,EIP,2020,2020,23,5-17 yr,null,null
+Colorado,EIP,2020,2020,24,5-17 yr,null,null
+Colorado,EIP,2020,2020,25,5-17 yr,null,null
+Colorado,EIP,2020,2020,26,5-17 yr,null,null
+Colorado,EIP,2020,2020,27,5-17 yr,null,null
+Colorado,EIP,2020,2020,28,5-17 yr,null,null
+Colorado,EIP,2020,2020,29,5-17 yr,null,null
+Colorado,EIP,2020,2020,30,5-17 yr,null,null
+Colorado,EIP,2020,2020,31,5-17 yr,null,null
+Colorado,EIP,2020,2020,32,5-17 yr,null,null
+Colorado,EIP,2020,2020,33,5-17 yr,null,null
+Colorado,EIP,2020,2020,34,5-17 yr,null,null
+Colorado,EIP,2020,2020,35,5-17 yr,null,null
+Colorado,EIP,2020,2020,36,5-17 yr,null,null
+Colorado,EIP,2020,2020,37,5-17 yr,null,null
+Colorado,EIP,2020,2020,38,5-17 yr,null,null
+Colorado,EIP,2020,2020,39,5-17 yr,null,null
+Colorado,EIP,2020,2020,10,18-49 yr,0.1,0.1
+Colorado,EIP,2020,2020,11,18-49 yr,0.2,0.1
+Colorado,EIP,2020,2020,12,18-49 yr,0.4,0.2
+Colorado,EIP,2020,2020,13,18-49 yr,0.4,0
+Colorado,EIP,2020,2020,14,18-49 yr,null,null
+Colorado,EIP,2020,2020,15,18-49 yr,null,null
+Colorado,EIP,2020,2020,16,18-49 yr,null,null
+Colorado,EIP,2020,2020,17,18-49 yr,null,null
+Colorado,EIP,2020,2020,18,18-49 yr,null,null
+Colorado,EIP,2020,2020,19,18-49 yr,null,null
+Colorado,EIP,2020,2020,20,18-49 yr,null,null
+Colorado,EIP,2020,2020,21,18-49 yr,null,null
+Colorado,EIP,2020,2020,22,18-49 yr,null,null
+Colorado,EIP,2020,2020,23,18-49 yr,null,null
+Colorado,EIP,2020,2020,24,18-49 yr,null,null
+Colorado,EIP,2020,2020,25,18-49 yr,null,null
+Colorado,EIP,2020,2020,26,18-49 yr,null,null
+Colorado,EIP,2020,2020,27,18-49 yr,null,null
+Colorado,EIP,2020,2020,28,18-49 yr,null,null
+Colorado,EIP,2020,2020,29,18-49 yr,null,null
+Colorado,EIP,2020,2020,30,18-49 yr,null,null
+Colorado,EIP,2020,2020,31,18-49 yr,null,null
+Colorado,EIP,2020,2020,32,18-49 yr,null,null
+Colorado,EIP,2020,2020,33,18-49 yr,null,null
+Colorado,EIP,2020,2020,34,18-49 yr,null,null
+Colorado,EIP,2020,2020,35,18-49 yr,null,null
+Colorado,EIP,2020,2020,36,18-49 yr,null,null
+Colorado,EIP,2020,2020,37,18-49 yr,null,null
+Colorado,EIP,2020,2020,38,18-49 yr,null,null
+Colorado,EIP,2020,2020,39,18-49 yr,null,null
+Colorado,EIP,2020,2020,10,50-64 yr,0,0
+Colorado,EIP,2020,2020,11,50-64 yr,0.4,0.4
+Colorado,EIP,2020,2020,12,50-64 yr,0.4,0
+Colorado,EIP,2020,2020,13,50-64 yr,0.4,0
+Colorado,EIP,2020,2020,14,50-64 yr,null,null
+Colorado,EIP,2020,2020,15,50-64 yr,null,null
+Colorado,EIP,2020,2020,16,50-64 yr,null,null
+Colorado,EIP,2020,2020,17,50-64 yr,null,null
+Colorado,EIP,2020,2020,18,50-64 yr,null,null
+Colorado,EIP,2020,2020,19,50-64 yr,null,null
+Colorado,EIP,2020,2020,20,50-64 yr,null,null
+Colorado,EIP,2020,2020,21,50-64 yr,null,null
+Colorado,EIP,2020,2020,22,50-64 yr,null,null
+Colorado,EIP,2020,2020,23,50-64 yr,null,null
+Colorado,EIP,2020,2020,24,50-64 yr,null,null
+Colorado,EIP,2020,2020,25,50-64 yr,null,null
+Colorado,EIP,2020,2020,26,50-64 yr,null,null
+Colorado,EIP,2020,2020,27,50-64 yr,null,null
+Colorado,EIP,2020,2020,28,50-64 yr,null,null
+Colorado,EIP,2020,2020,29,50-64 yr,null,null
+Colorado,EIP,2020,2020,30,50-64 yr,null,null
+Colorado,EIP,2020,2020,31,50-64 yr,null,null
+Colorado,EIP,2020,2020,32,50-64 yr,null,null
+Colorado,EIP,2020,2020,33,50-64 yr,null,null
+Colorado,EIP,2020,2020,34,50-64 yr,null,null
+Colorado,EIP,2020,2020,35,50-64 yr,null,null
+Colorado,EIP,2020,2020,36,50-64 yr,null,null
+Colorado,EIP,2020,2020,37,50-64 yr,null,null
+Colorado,EIP,2020,2020,38,50-64 yr,null,null
+Colorado,EIP,2020,2020,39,50-64 yr,null,null
+Colorado,EIP,2020,2020,10,65+ yr,0,0
+Colorado,EIP,2020,2020,11,65+ yr,0.6,0.6
+Colorado,EIP,2020,2020,12,65+ yr,0.6,0
+Colorado,EIP,2020,2020,13,65+ yr,0.8,0.3
+Colorado,EIP,2020,2020,14,65+ yr,null,null
+Colorado,EIP,2020,2020,15,65+ yr,null,null
+Colorado,EIP,2020,2020,16,65+ yr,null,null
+Colorado,EIP,2020,2020,17,65+ yr,null,null
+Colorado,EIP,2020,2020,18,65+ yr,null,null
+Colorado,EIP,2020,2020,19,65+ yr,null,null
+Colorado,EIP,2020,2020,20,65+ yr,null,null
+Colorado,EIP,2020,2020,21,65+ yr,null,null
+Colorado,EIP,2020,2020,22,65+ yr,null,null
+Colorado,EIP,2020,2020,23,65+ yr,null,null
+Colorado,EIP,2020,2020,24,65+ yr,null,null
+Colorado,EIP,2020,2020,25,65+ yr,null,null
+Colorado,EIP,2020,2020,26,65+ yr,null,null
+Colorado,EIP,2020,2020,27,65+ yr,null,null
+Colorado,EIP,2020,2020,28,65+ yr,null,null
+Colorado,EIP,2020,2020,29,65+ yr,null,null
+Colorado,EIP,2020,2020,30,65+ yr,null,null
+Colorado,EIP,2020,2020,31,65+ yr,null,null
+Colorado,EIP,2020,2020,32,65+ yr,null,null
+Colorado,EIP,2020,2020,33,65+ yr,null,null
+Colorado,EIP,2020,2020,34,65+ yr,null,null
+Colorado,EIP,2020,2020,35,65+ yr,null,null
+Colorado,EIP,2020,2020,36,65+ yr,null,null
+Colorado,EIP,2020,2020,37,65+ yr,null,null
+Colorado,EIP,2020,2020,38,65+ yr,null,null
+Colorado,EIP,2020,2020,39,65+ yr,null,null
+Colorado,EIP,2020,2020,10,Overall,0,0
+Colorado,EIP,2020,2020,11,Overall,0.2,0.2
+Colorado,EIP,2020,2020,12,Overall,0.3,0.1
+Colorado,EIP,2020,2020,13,Overall,0.4,0
+Colorado,EIP,2020,2020,14,Overall,null,null
+Colorado,EIP,2020,2020,15,Overall,null,null
+Colorado,EIP,2020,2020,16,Overall,null,null
+Colorado,EIP,2020,2020,17,Overall,null,null
+Colorado,EIP,2020,2020,18,Overall,null,null
+Colorado,EIP,2020,2020,19,Overall,null,null
+Colorado,EIP,2020,2020,20,Overall,null,null
+Colorado,EIP,2020,2020,21,Overall,null,null
+Colorado,EIP,2020,2020,22,Overall,null,null
+Colorado,EIP,2020,2020,23,Overall,null,null
+Colorado,EIP,2020,2020,24,Overall,null,null
+Colorado,EIP,2020,2020,25,Overall,null,null
+Colorado,EIP,2020,2020,26,Overall,null,null
+Colorado,EIP,2020,2020,27,Overall,null,null
+Colorado,EIP,2020,2020,28,Overall,null,null
+Colorado,EIP,2020,2020,29,Overall,null,null
+Colorado,EIP,2020,2020,30,Overall,null,null
+Colorado,EIP,2020,2020,31,Overall,null,null
+Colorado,EIP,2020,2020,32,Overall,null,null
+Colorado,EIP,2020,2020,33,Overall,null,null
+Colorado,EIP,2020,2020,34,Overall,null,null
+Colorado,EIP,2020,2020,35,Overall,null,null
+Colorado,EIP,2020,2020,36,Overall,null,null
+Colorado,EIP,2020,2020,37,Overall,null,null
+Colorado,EIP,2020,2020,38,Overall,null,null
+Colorado,EIP,2020,2020,39,Overall,null,null
+Colorado,EIP,2020,2020,10,65-74 yr,0,0
+Colorado,EIP,2020,2020,11,65-74 yr,0.4,0.4
+Colorado,EIP,2020,2020,12,65-74 yr,0.4,0
+Colorado,EIP,2020,2020,13,65-74 yr,0.4,0
+Colorado,EIP,2020,2020,14,65-74 yr,null,null
+Colorado,EIP,2020,2020,15,65-74 yr,null,null
+Colorado,EIP,2020,2020,16,65-74 yr,null,null
+Colorado,EIP,2020,2020,17,65-74 yr,null,null
+Colorado,EIP,2020,2020,18,65-74 yr,null,null
+Colorado,EIP,2020,2020,19,65-74 yr,null,null
+Colorado,EIP,2020,2020,20,65-74 yr,null,null
+Colorado,EIP,2020,2020,21,65-74 yr,null,null
+Colorado,EIP,2020,2020,22,65-74 yr,null,null
+Colorado,EIP,2020,2020,23,65-74 yr,null,null
+Colorado,EIP,2020,2020,24,65-74 yr,null,null
+Colorado,EIP,2020,2020,25,65-74 yr,null,null
+Colorado,EIP,2020,2020,26,65-74 yr,null,null
+Colorado,EIP,2020,2020,27,65-74 yr,null,null
+Colorado,EIP,2020,2020,28,65-74 yr,null,null
+Colorado,EIP,2020,2020,29,65-74 yr,null,null
+Colorado,EIP,2020,2020,30,65-74 yr,null,null
+Colorado,EIP,2020,2020,31,65-74 yr,null,null
+Colorado,EIP,2020,2020,32,65-74 yr,null,null
+Colorado,EIP,2020,2020,33,65-74 yr,null,null
+Colorado,EIP,2020,2020,34,65-74 yr,null,null
+Colorado,EIP,2020,2020,35,65-74 yr,null,null
+Colorado,EIP,2020,2020,36,65-74 yr,null,null
+Colorado,EIP,2020,2020,37,65-74 yr,null,null
+Colorado,EIP,2020,2020,38,65-74 yr,null,null
+Colorado,EIP,2020,2020,39,65-74 yr,null,null
+Colorado,EIP,2020,2020,10,75-84 yr,0,0
+Colorado,EIP,2020,2020,11,75-84 yr,0,0
+Colorado,EIP,2020,2020,12,75-84 yr,0,0
+Colorado,EIP,2020,2020,13,75-84 yr,0,0
+Colorado,EIP,2020,2020,14,75-84 yr,null,null
+Colorado,EIP,2020,2020,15,75-84 yr,null,null
+Colorado,EIP,2020,2020,16,75-84 yr,null,null
+Colorado,EIP,2020,2020,17,75-84 yr,null,null
+Colorado,EIP,2020,2020,18,75-84 yr,null,null
+Colorado,EIP,2020,2020,19,75-84 yr,null,null
+Colorado,EIP,2020,2020,20,75-84 yr,null,null
+Colorado,EIP,2020,2020,21,75-84 yr,null,null
+Colorado,EIP,2020,2020,22,75-84 yr,null,null
+Colorado,EIP,2020,2020,23,75-84 yr,null,null
+Colorado,EIP,2020,2020,24,75-84 yr,null,null
+Colorado,EIP,2020,2020,25,75-84 yr,null,null
+Colorado,EIP,2020,2020,26,75-84 yr,null,null
+Colorado,EIP,2020,2020,27,75-84 yr,null,null
+Colorado,EIP,2020,2020,28,75-84 yr,null,null
+Colorado,EIP,2020,2020,29,75-84 yr,null,null
+Colorado,EIP,2020,2020,30,75-84 yr,null,null
+Colorado,EIP,2020,2020,31,75-84 yr,null,null
+Colorado,EIP,2020,2020,32,75-84 yr,null,null
+Colorado,EIP,2020,2020,33,75-84 yr,null,null
+Colorado,EIP,2020,2020,34,75-84 yr,null,null
+Colorado,EIP,2020,2020,35,75-84 yr,null,null
+Colorado,EIP,2020,2020,36,75-84 yr,null,null
+Colorado,EIP,2020,2020,37,75-84 yr,null,null
+Colorado,EIP,2020,2020,38,75-84 yr,null,null
+Colorado,EIP,2020,2020,39,75-84 yr,null,null
+Colorado,EIP,2020,2020,10,85+,0,0
+Colorado,EIP,2020,2020,11,85+,2.5,2.5
+Colorado,EIP,2020,2020,12,85+,2.5,0
+Colorado,EIP,2020,2020,13,85+,5,2.5
+Colorado,EIP,2020,2020,14,85+,null,null
+Colorado,EIP,2020,2020,15,85+,null,null
+Colorado,EIP,2020,2020,16,85+,null,null
+Colorado,EIP,2020,2020,17,85+,null,null
+Colorado,EIP,2020,2020,18,85+,null,null
+Colorado,EIP,2020,2020,19,85+,null,null
+Colorado,EIP,2020,2020,20,85+,null,null
+Colorado,EIP,2020,2020,21,85+,null,null
+Colorado,EIP,2020,2020,22,85+,null,null
+Colorado,EIP,2020,2020,23,85+,null,null
+Colorado,EIP,2020,2020,24,85+,null,null
+Colorado,EIP,2020,2020,25,85+,null,null
+Colorado,EIP,2020,2020,26,85+,null,null
+Colorado,EIP,2020,2020,27,85+,null,null
+Colorado,EIP,2020,2020,28,85+,null,null
+Colorado,EIP,2020,2020,29,85+,null,null
+Colorado,EIP,2020,2020,30,85+,null,null
+Colorado,EIP,2020,2020,31,85+,null,null
+Colorado,EIP,2020,2020,32,85+,null,null
+Colorado,EIP,2020,2020,33,85+,null,null
+Colorado,EIP,2020,2020,34,85+,null,null
+Colorado,EIP,2020,2020,35,85+,null,null
+Colorado,EIP,2020,2020,36,85+,null,null
+Colorado,EIP,2020,2020,37,85+,null,null
+Colorado,EIP,2020,2020,38,85+,null,null
+Colorado,EIP,2020,2020,39,85+,null,null
+Connecticut,EIP,2020,2020,10,0-4 yr,0,0
+Connecticut,EIP,2020,2020,11,0-4 yr,0,0
+Connecticut,EIP,2020,2020,12,0-4 yr,0,0
+Connecticut,EIP,2020,2020,13,0-4 yr,0,0
+Connecticut,EIP,2020,2020,14,0-4 yr,null,null
+Connecticut,EIP,2020,2020,15,0-4 yr,null,null
+Connecticut,EIP,2020,2020,16,0-4 yr,null,null
+Connecticut,EIP,2020,2020,17,0-4 yr,null,null
+Connecticut,EIP,2020,2020,18,0-4 yr,null,null
+Connecticut,EIP,2020,2020,19,0-4 yr,null,null
+Connecticut,EIP,2020,2020,20,0-4 yr,null,null
+Connecticut,EIP,2020,2020,21,0-4 yr,null,null
+Connecticut,EIP,2020,2020,22,0-4 yr,null,null
+Connecticut,EIP,2020,2020,23,0-4 yr,null,null
+Connecticut,EIP,2020,2020,24,0-4 yr,null,null
+Connecticut,EIP,2020,2020,25,0-4 yr,null,null
+Connecticut,EIP,2020,2020,26,0-4 yr,null,null
+Connecticut,EIP,2020,2020,27,0-4 yr,null,null
+Connecticut,EIP,2020,2020,28,0-4 yr,null,null
+Connecticut,EIP,2020,2020,29,0-4 yr,null,null
+Connecticut,EIP,2020,2020,30,0-4 yr,null,null
+Connecticut,EIP,2020,2020,31,0-4 yr,null,null
+Connecticut,EIP,2020,2020,32,0-4 yr,null,null
+Connecticut,EIP,2020,2020,33,0-4 yr,null,null
+Connecticut,EIP,2020,2020,34,0-4 yr,null,null
+Connecticut,EIP,2020,2020,35,0-4 yr,null,null
+Connecticut,EIP,2020,2020,36,0-4 yr,null,null
+Connecticut,EIP,2020,2020,37,0-4 yr,null,null
+Connecticut,EIP,2020,2020,38,0-4 yr,null,null
+Connecticut,EIP,2020,2020,39,0-4 yr,null,null
+Connecticut,EIP,2020,2020,10,5-17 yr,0,0
+Connecticut,EIP,2020,2020,11,5-17 yr,0,0
+Connecticut,EIP,2020,2020,12,5-17 yr,0.7,0.7
+Connecticut,EIP,2020,2020,13,5-17 yr,0.7,0
+Connecticut,EIP,2020,2020,14,5-17 yr,null,null
+Connecticut,EIP,2020,2020,15,5-17 yr,null,null
+Connecticut,EIP,2020,2020,16,5-17 yr,null,null
+Connecticut,EIP,2020,2020,17,5-17 yr,null,null
+Connecticut,EIP,2020,2020,18,5-17 yr,null,null
+Connecticut,EIP,2020,2020,19,5-17 yr,null,null
+Connecticut,EIP,2020,2020,20,5-17 yr,null,null
+Connecticut,EIP,2020,2020,21,5-17 yr,null,null
+Connecticut,EIP,2020,2020,22,5-17 yr,null,null
+Connecticut,EIP,2020,2020,23,5-17 yr,null,null
+Connecticut,EIP,2020,2020,24,5-17 yr,null,null
+Connecticut,EIP,2020,2020,25,5-17 yr,null,null
+Connecticut,EIP,2020,2020,26,5-17 yr,null,null
+Connecticut,EIP,2020,2020,27,5-17 yr,null,null
+Connecticut,EIP,2020,2020,28,5-17 yr,null,null
+Connecticut,EIP,2020,2020,29,5-17 yr,null,null
+Connecticut,EIP,2020,2020,30,5-17 yr,null,null
+Connecticut,EIP,2020,2020,31,5-17 yr,null,null
+Connecticut,EIP,2020,2020,32,5-17 yr,null,null
+Connecticut,EIP,2020,2020,33,5-17 yr,null,null
+Connecticut,EIP,2020,2020,34,5-17 yr,null,null
+Connecticut,EIP,2020,2020,35,5-17 yr,null,null
+Connecticut,EIP,2020,2020,36,5-17 yr,null,null
+Connecticut,EIP,2020,2020,37,5-17 yr,null,null
+Connecticut,EIP,2020,2020,38,5-17 yr,null,null
+Connecticut,EIP,2020,2020,39,5-17 yr,null,null
+Connecticut,EIP,2020,2020,10,18-49 yr,0,0
+Connecticut,EIP,2020,2020,11,18-49 yr,0.5,0.5
+Connecticut,EIP,2020,2020,12,18-49 yr,1.9,1.4
+Connecticut,EIP,2020,2020,13,18-49 yr,7.4,5.5
+Connecticut,EIP,2020,2020,14,18-49 yr,null,null
+Connecticut,EIP,2020,2020,15,18-49 yr,null,null
+Connecticut,EIP,2020,2020,16,18-49 yr,null,null
+Connecticut,EIP,2020,2020,17,18-49 yr,null,null
+Connecticut,EIP,2020,2020,18,18-49 yr,null,null
+Connecticut,EIP,2020,2020,19,18-49 yr,null,null
+Connecticut,EIP,2020,2020,20,18-49 yr,null,null
+Connecticut,EIP,2020,2020,21,18-49 yr,null,null
+Connecticut,EIP,2020,2020,22,18-49 yr,null,null
+Connecticut,EIP,2020,2020,23,18-49 yr,null,null
+Connecticut,EIP,2020,2020,24,18-49 yr,null,null
+Connecticut,EIP,2020,2020,25,18-49 yr,null,null
+Connecticut,EIP,2020,2020,26,18-49 yr,null,null
+Connecticut,EIP,2020,2020,27,18-49 yr,null,null
+Connecticut,EIP,2020,2020,28,18-49 yr,null,null
+Connecticut,EIP,2020,2020,29,18-49 yr,null,null
+Connecticut,EIP,2020,2020,30,18-49 yr,null,null
+Connecticut,EIP,2020,2020,31,18-49 yr,null,null
+Connecticut,EIP,2020,2020,32,18-49 yr,null,null
+Connecticut,EIP,2020,2020,33,18-49 yr,null,null
+Connecticut,EIP,2020,2020,34,18-49 yr,null,null
+Connecticut,EIP,2020,2020,35,18-49 yr,null,null
+Connecticut,EIP,2020,2020,36,18-49 yr,null,null
+Connecticut,EIP,2020,2020,37,18-49 yr,null,null
+Connecticut,EIP,2020,2020,38,18-49 yr,null,null
+Connecticut,EIP,2020,2020,39,18-49 yr,null,null
+Connecticut,EIP,2020,2020,10,50-64 yr,0,0
+Connecticut,EIP,2020,2020,11,50-64 yr,0.5,0.5
+Connecticut,EIP,2020,2020,12,50-64 yr,3.7,3.2
+Connecticut,EIP,2020,2020,13,50-64 yr,16.5,12.8
+Connecticut,EIP,2020,2020,14,50-64 yr,null,null
+Connecticut,EIP,2020,2020,15,50-64 yr,null,null
+Connecticut,EIP,2020,2020,16,50-64 yr,null,null
+Connecticut,EIP,2020,2020,17,50-64 yr,null,null
+Connecticut,EIP,2020,2020,18,50-64 yr,null,null
+Connecticut,EIP,2020,2020,19,50-64 yr,null,null
+Connecticut,EIP,2020,2020,20,50-64 yr,null,null
+Connecticut,EIP,2020,2020,21,50-64 yr,null,null
+Connecticut,EIP,2020,2020,22,50-64 yr,null,null
+Connecticut,EIP,2020,2020,23,50-64 yr,null,null
+Connecticut,EIP,2020,2020,24,50-64 yr,null,null
+Connecticut,EIP,2020,2020,25,50-64 yr,null,null
+Connecticut,EIP,2020,2020,26,50-64 yr,null,null
+Connecticut,EIP,2020,2020,27,50-64 yr,null,null
+Connecticut,EIP,2020,2020,28,50-64 yr,null,null
+Connecticut,EIP,2020,2020,29,50-64 yr,null,null
+Connecticut,EIP,2020,2020,30,50-64 yr,null,null
+Connecticut,EIP,2020,2020,31,50-64 yr,null,null
+Connecticut,EIP,2020,2020,32,50-64 yr,null,null
+Connecticut,EIP,2020,2020,33,50-64 yr,null,null
+Connecticut,EIP,2020,2020,34,50-64 yr,null,null
+Connecticut,EIP,2020,2020,35,50-64 yr,null,null
+Connecticut,EIP,2020,2020,36,50-64 yr,null,null
+Connecticut,EIP,2020,2020,37,50-64 yr,null,null
+Connecticut,EIP,2020,2020,38,50-64 yr,null,null
+Connecticut,EIP,2020,2020,39,50-64 yr,null,null
+Connecticut,EIP,2020,2020,10,65+ yr,0,0
+Connecticut,EIP,2020,2020,11,65+ yr,2.2,2.2
+Connecticut,EIP,2020,2020,12,65+ yr,11.5,9.3
+Connecticut,EIP,2020,2020,13,65+ yr,45.6,34.1
+Connecticut,EIP,2020,2020,14,65+ yr,null,null
+Connecticut,EIP,2020,2020,15,65+ yr,null,null
+Connecticut,EIP,2020,2020,16,65+ yr,null,null
+Connecticut,EIP,2020,2020,17,65+ yr,null,null
+Connecticut,EIP,2020,2020,18,65+ yr,null,null
+Connecticut,EIP,2020,2020,19,65+ yr,null,null
+Connecticut,EIP,2020,2020,20,65+ yr,null,null
+Connecticut,EIP,2020,2020,21,65+ yr,null,null
+Connecticut,EIP,2020,2020,22,65+ yr,null,null
+Connecticut,EIP,2020,2020,23,65+ yr,null,null
+Connecticut,EIP,2020,2020,24,65+ yr,null,null
+Connecticut,EIP,2020,2020,25,65+ yr,null,null
+Connecticut,EIP,2020,2020,26,65+ yr,null,null
+Connecticut,EIP,2020,2020,27,65+ yr,null,null
+Connecticut,EIP,2020,2020,28,65+ yr,null,null
+Connecticut,EIP,2020,2020,29,65+ yr,null,null
+Connecticut,EIP,2020,2020,30,65+ yr,null,null
+Connecticut,EIP,2020,2020,31,65+ yr,null,null
+Connecticut,EIP,2020,2020,32,65+ yr,null,null
+Connecticut,EIP,2020,2020,33,65+ yr,null,null
+Connecticut,EIP,2020,2020,34,65+ yr,null,null
+Connecticut,EIP,2020,2020,35,65+ yr,null,null
+Connecticut,EIP,2020,2020,36,65+ yr,null,null
+Connecticut,EIP,2020,2020,37,65+ yr,null,null
+Connecticut,EIP,2020,2020,38,65+ yr,null,null
+Connecticut,EIP,2020,2020,39,65+ yr,null,null
+Connecticut,EIP,2020,2020,10,Overall,0,0
+Connecticut,EIP,2020,2020,11,Overall,0.7,0.7
+Connecticut,EIP,2020,2020,12,Overall,3.7,3
+Connecticut,EIP,2020,2020,13,Overall,14.8,11.1
+Connecticut,EIP,2020,2020,14,Overall,null,null
+Connecticut,EIP,2020,2020,15,Overall,null,null
+Connecticut,EIP,2020,2020,16,Overall,null,null
+Connecticut,EIP,2020,2020,17,Overall,null,null
+Connecticut,EIP,2020,2020,18,Overall,null,null
+Connecticut,EIP,2020,2020,19,Overall,null,null
+Connecticut,EIP,2020,2020,20,Overall,null,null
+Connecticut,EIP,2020,2020,21,Overall,null,null
+Connecticut,EIP,2020,2020,22,Overall,null,null
+Connecticut,EIP,2020,2020,23,Overall,null,null
+Connecticut,EIP,2020,2020,24,Overall,null,null
+Connecticut,EIP,2020,2020,25,Overall,null,null
+Connecticut,EIP,2020,2020,26,Overall,null,null
+Connecticut,EIP,2020,2020,27,Overall,null,null
+Connecticut,EIP,2020,2020,28,Overall,null,null
+Connecticut,EIP,2020,2020,29,Overall,null,null
+Connecticut,EIP,2020,2020,30,Overall,null,null
+Connecticut,EIP,2020,2020,31,Overall,null,null
+Connecticut,EIP,2020,2020,32,Overall,null,null
+Connecticut,EIP,2020,2020,33,Overall,null,null
+Connecticut,EIP,2020,2020,34,Overall,null,null
+Connecticut,EIP,2020,2020,35,Overall,null,null
+Connecticut,EIP,2020,2020,36,Overall,null,null
+Connecticut,EIP,2020,2020,37,Overall,null,null
+Connecticut,EIP,2020,2020,38,Overall,null,null
+Connecticut,EIP,2020,2020,39,Overall,null,null
+Connecticut,EIP,2020,2020,10,65-74 yr,0,0
+Connecticut,EIP,2020,2020,11,65-74 yr,2,2
+Connecticut,EIP,2020,2020,12,65-74 yr,8.8,6.9
+Connecticut,EIP,2020,2020,13,65-74 yr,41.2,32.4
+Connecticut,EIP,2020,2020,14,65-74 yr,null,null
+Connecticut,EIP,2020,2020,15,65-74 yr,null,null
+Connecticut,EIP,2020,2020,16,65-74 yr,null,null
+Connecticut,EIP,2020,2020,17,65-74 yr,null,null
+Connecticut,EIP,2020,2020,18,65-74 yr,null,null
+Connecticut,EIP,2020,2020,19,65-74 yr,null,null
+Connecticut,EIP,2020,2020,20,65-74 yr,null,null
+Connecticut,EIP,2020,2020,21,65-74 yr,null,null
+Connecticut,EIP,2020,2020,22,65-74 yr,null,null
+Connecticut,EIP,2020,2020,23,65-74 yr,null,null
+Connecticut,EIP,2020,2020,24,65-74 yr,null,null
+Connecticut,EIP,2020,2020,25,65-74 yr,null,null
+Connecticut,EIP,2020,2020,26,65-74 yr,null,null
+Connecticut,EIP,2020,2020,27,65-74 yr,null,null
+Connecticut,EIP,2020,2020,28,65-74 yr,null,null
+Connecticut,EIP,2020,2020,29,65-74 yr,null,null
+Connecticut,EIP,2020,2020,30,65-74 yr,null,null
+Connecticut,EIP,2020,2020,31,65-74 yr,null,null
+Connecticut,EIP,2020,2020,32,65-74 yr,null,null
+Connecticut,EIP,2020,2020,33,65-74 yr,null,null
+Connecticut,EIP,2020,2020,34,65-74 yr,null,null
+Connecticut,EIP,2020,2020,35,65-74 yr,null,null
+Connecticut,EIP,2020,2020,36,65-74 yr,null,null
+Connecticut,EIP,2020,2020,37,65-74 yr,null,null
+Connecticut,EIP,2020,2020,38,65-74 yr,null,null
+Connecticut,EIP,2020,2020,39,65-74 yr,null,null
+Connecticut,EIP,2020,2020,10,75-84 yr,0,0
+Connecticut,EIP,2020,2020,11,75-84 yr,1.9,1.9
+Connecticut,EIP,2020,2020,12,75-84 yr,11.4,9.5
+Connecticut,EIP,2020,2020,13,75-84 yr,43.8,32.4
+Connecticut,EIP,2020,2020,14,75-84 yr,null,null
+Connecticut,EIP,2020,2020,15,75-84 yr,null,null
+Connecticut,EIP,2020,2020,16,75-84 yr,null,null
+Connecticut,EIP,2020,2020,17,75-84 yr,null,null
+Connecticut,EIP,2020,2020,18,75-84 yr,null,null
+Connecticut,EIP,2020,2020,19,75-84 yr,null,null
+Connecticut,EIP,2020,2020,20,75-84 yr,null,null
+Connecticut,EIP,2020,2020,21,75-84 yr,null,null
+Connecticut,EIP,2020,2020,22,75-84 yr,null,null
+Connecticut,EIP,2020,2020,23,75-84 yr,null,null
+Connecticut,EIP,2020,2020,24,75-84 yr,null,null
+Connecticut,EIP,2020,2020,25,75-84 yr,null,null
+Connecticut,EIP,2020,2020,26,75-84 yr,null,null
+Connecticut,EIP,2020,2020,27,75-84 yr,null,null
+Connecticut,EIP,2020,2020,28,75-84 yr,null,null
+Connecticut,EIP,2020,2020,29,75-84 yr,null,null
+Connecticut,EIP,2020,2020,30,75-84 yr,null,null
+Connecticut,EIP,2020,2020,31,75-84 yr,null,null
+Connecticut,EIP,2020,2020,32,75-84 yr,null,null
+Connecticut,EIP,2020,2020,33,75-84 yr,null,null
+Connecticut,EIP,2020,2020,34,75-84 yr,null,null
+Connecticut,EIP,2020,2020,35,75-84 yr,null,null
+Connecticut,EIP,2020,2020,36,75-84 yr,null,null
+Connecticut,EIP,2020,2020,37,75-84 yr,null,null
+Connecticut,EIP,2020,2020,38,75-84 yr,null,null
+Connecticut,EIP,2020,2020,39,75-84 yr,null,null
+Connecticut,EIP,2020,2020,10,85+,0,0
+Connecticut,EIP,2020,2020,11,85+,3.6,3.6
+Connecticut,EIP,2020,2020,12,85+,21.8,18.2
+Connecticut,EIP,2020,2020,13,85+,65.5,43.6
+Connecticut,EIP,2020,2020,14,85+,null,null
+Connecticut,EIP,2020,2020,15,85+,null,null
+Connecticut,EIP,2020,2020,16,85+,null,null
+Connecticut,EIP,2020,2020,17,85+,null,null
+Connecticut,EIP,2020,2020,18,85+,null,null
+Connecticut,EIP,2020,2020,19,85+,null,null
+Connecticut,EIP,2020,2020,20,85+,null,null
+Connecticut,EIP,2020,2020,21,85+,null,null
+Connecticut,EIP,2020,2020,22,85+,null,null
+Connecticut,EIP,2020,2020,23,85+,null,null
+Connecticut,EIP,2020,2020,24,85+,null,null
+Connecticut,EIP,2020,2020,25,85+,null,null
+Connecticut,EIP,2020,2020,26,85+,null,null
+Connecticut,EIP,2020,2020,27,85+,null,null
+Connecticut,EIP,2020,2020,28,85+,null,null
+Connecticut,EIP,2020,2020,29,85+,null,null
+Connecticut,EIP,2020,2020,30,85+,null,null
+Connecticut,EIP,2020,2020,31,85+,null,null
+Connecticut,EIP,2020,2020,32,85+,null,null
+Connecticut,EIP,2020,2020,33,85+,null,null
+Connecticut,EIP,2020,2020,34,85+,null,null
+Connecticut,EIP,2020,2020,35,85+,null,null
+Connecticut,EIP,2020,2020,36,85+,null,null
+Connecticut,EIP,2020,2020,37,85+,null,null
+Connecticut,EIP,2020,2020,38,85+,null,null
+Connecticut,EIP,2020,2020,39,85+,null,null
+Georgia,EIP,2020,2020,10,0-4 yr,0,0
+Georgia,EIP,2020,2020,11,0-4 yr,0,0
+Georgia,EIP,2020,2020,12,0-4 yr,0,0
+Georgia,EIP,2020,2020,13,0-4 yr,0,0
+Georgia,EIP,2020,2020,14,0-4 yr,null,null
+Georgia,EIP,2020,2020,15,0-4 yr,null,null
+Georgia,EIP,2020,2020,16,0-4 yr,null,null
+Georgia,EIP,2020,2020,17,0-4 yr,null,null
+Georgia,EIP,2020,2020,18,0-4 yr,null,null
+Georgia,EIP,2020,2020,19,0-4 yr,null,null
+Georgia,EIP,2020,2020,20,0-4 yr,null,null
+Georgia,EIP,2020,2020,21,0-4 yr,null,null
+Georgia,EIP,2020,2020,22,0-4 yr,null,null
+Georgia,EIP,2020,2020,23,0-4 yr,null,null
+Georgia,EIP,2020,2020,24,0-4 yr,null,null
+Georgia,EIP,2020,2020,25,0-4 yr,null,null
+Georgia,EIP,2020,2020,26,0-4 yr,null,null
+Georgia,EIP,2020,2020,27,0-4 yr,null,null
+Georgia,EIP,2020,2020,28,0-4 yr,null,null
+Georgia,EIP,2020,2020,29,0-4 yr,null,null
+Georgia,EIP,2020,2020,30,0-4 yr,null,null
+Georgia,EIP,2020,2020,31,0-4 yr,null,null
+Georgia,EIP,2020,2020,32,0-4 yr,null,null
+Georgia,EIP,2020,2020,33,0-4 yr,null,null
+Georgia,EIP,2020,2020,34,0-4 yr,null,null
+Georgia,EIP,2020,2020,35,0-4 yr,null,null
+Georgia,EIP,2020,2020,36,0-4 yr,null,null
+Georgia,EIP,2020,2020,37,0-4 yr,null,null
+Georgia,EIP,2020,2020,38,0-4 yr,null,null
+Georgia,EIP,2020,2020,39,0-4 yr,null,null
+Georgia,EIP,2020,2020,10,5-17 yr,0,0
+Georgia,EIP,2020,2020,11,5-17 yr,0,0
+Georgia,EIP,2020,2020,12,5-17 yr,0.1,0.1
+Georgia,EIP,2020,2020,13,5-17 yr,0.1,0
+Georgia,EIP,2020,2020,14,5-17 yr,null,null
+Georgia,EIP,2020,2020,15,5-17 yr,null,null
+Georgia,EIP,2020,2020,16,5-17 yr,null,null
+Georgia,EIP,2020,2020,17,5-17 yr,null,null
+Georgia,EIP,2020,2020,18,5-17 yr,null,null
+Georgia,EIP,2020,2020,19,5-17 yr,null,null
+Georgia,EIP,2020,2020,20,5-17 yr,null,null
+Georgia,EIP,2020,2020,21,5-17 yr,null,null
+Georgia,EIP,2020,2020,22,5-17 yr,null,null
+Georgia,EIP,2020,2020,23,5-17 yr,null,null
+Georgia,EIP,2020,2020,24,5-17 yr,null,null
+Georgia,EIP,2020,2020,25,5-17 yr,null,null
+Georgia,EIP,2020,2020,26,5-17 yr,null,null
+Georgia,EIP,2020,2020,27,5-17 yr,null,null
+Georgia,EIP,2020,2020,28,5-17 yr,null,null
+Georgia,EIP,2020,2020,29,5-17 yr,null,null
+Georgia,EIP,2020,2020,30,5-17 yr,null,null
+Georgia,EIP,2020,2020,31,5-17 yr,null,null
+Georgia,EIP,2020,2020,32,5-17 yr,null,null
+Georgia,EIP,2020,2020,33,5-17 yr,null,null
+Georgia,EIP,2020,2020,34,5-17 yr,null,null
+Georgia,EIP,2020,2020,35,5-17 yr,null,null
+Georgia,EIP,2020,2020,36,5-17 yr,null,null
+Georgia,EIP,2020,2020,37,5-17 yr,null,null
+Georgia,EIP,2020,2020,38,5-17 yr,null,null
+Georgia,EIP,2020,2020,39,5-17 yr,null,null
+Georgia,EIP,2020,2020,10,18-49 yr,0.1,0.1
+Georgia,EIP,2020,2020,11,18-49 yr,0.9,0.8
+Georgia,EIP,2020,2020,12,18-49 yr,2.3,1.4
+Georgia,EIP,2020,2020,13,18-49 yr,3.3,1
+Georgia,EIP,2020,2020,14,18-49 yr,null,null
+Georgia,EIP,2020,2020,15,18-49 yr,null,null
+Georgia,EIP,2020,2020,16,18-49 yr,null,null
+Georgia,EIP,2020,2020,17,18-49 yr,null,null
+Georgia,EIP,2020,2020,18,18-49 yr,null,null
+Georgia,EIP,2020,2020,19,18-49 yr,null,null
+Georgia,EIP,2020,2020,20,18-49 yr,null,null
+Georgia,EIP,2020,2020,21,18-49 yr,null,null
+Georgia,EIP,2020,2020,22,18-49 yr,null,null
+Georgia,EIP,2020,2020,23,18-49 yr,null,null
+Georgia,EIP,2020,2020,24,18-49 yr,null,null
+Georgia,EIP,2020,2020,25,18-49 yr,null,null
+Georgia,EIP,2020,2020,26,18-49 yr,null,null
+Georgia,EIP,2020,2020,27,18-49 yr,null,null
+Georgia,EIP,2020,2020,28,18-49 yr,null,null
+Georgia,EIP,2020,2020,29,18-49 yr,null,null
+Georgia,EIP,2020,2020,30,18-49 yr,null,null
+Georgia,EIP,2020,2020,31,18-49 yr,null,null
+Georgia,EIP,2020,2020,32,18-49 yr,null,null
+Georgia,EIP,2020,2020,33,18-49 yr,null,null
+Georgia,EIP,2020,2020,34,18-49 yr,null,null
+Georgia,EIP,2020,2020,35,18-49 yr,null,null
+Georgia,EIP,2020,2020,36,18-49 yr,null,null
+Georgia,EIP,2020,2020,37,18-49 yr,null,null
+Georgia,EIP,2020,2020,38,18-49 yr,null,null
+Georgia,EIP,2020,2020,39,18-49 yr,null,null
+Georgia,EIP,2020,2020,10,50-64 yr,0.5,0.5
+Georgia,EIP,2020,2020,11,50-64 yr,3.8,3.3
+Georgia,EIP,2020,2020,12,50-64 yr,8.9,5.1
+Georgia,EIP,2020,2020,13,50-64 yr,11.3,2.4
+Georgia,EIP,2020,2020,14,50-64 yr,null,null
+Georgia,EIP,2020,2020,15,50-64 yr,null,null
+Georgia,EIP,2020,2020,16,50-64 yr,null,null
+Georgia,EIP,2020,2020,17,50-64 yr,null,null
+Georgia,EIP,2020,2020,18,50-64 yr,null,null
+Georgia,EIP,2020,2020,19,50-64 yr,null,null
+Georgia,EIP,2020,2020,20,50-64 yr,null,null
+Georgia,EIP,2020,2020,21,50-64 yr,null,null
+Georgia,EIP,2020,2020,22,50-64 yr,null,null
+Georgia,EIP,2020,2020,23,50-64 yr,null,null
+Georgia,EIP,2020,2020,24,50-64 yr,null,null
+Georgia,EIP,2020,2020,25,50-64 yr,null,null
+Georgia,EIP,2020,2020,26,50-64 yr,null,null
+Georgia,EIP,2020,2020,27,50-64 yr,null,null
+Georgia,EIP,2020,2020,28,50-64 yr,null,null
+Georgia,EIP,2020,2020,29,50-64 yr,null,null
+Georgia,EIP,2020,2020,30,50-64 yr,null,null
+Georgia,EIP,2020,2020,31,50-64 yr,null,null
+Georgia,EIP,2020,2020,32,50-64 yr,null,null
+Georgia,EIP,2020,2020,33,50-64 yr,null,null
+Georgia,EIP,2020,2020,34,50-64 yr,null,null
+Georgia,EIP,2020,2020,35,50-64 yr,null,null
+Georgia,EIP,2020,2020,36,50-64 yr,null,null
+Georgia,EIP,2020,2020,37,50-64 yr,null,null
+Georgia,EIP,2020,2020,38,50-64 yr,null,null
+Georgia,EIP,2020,2020,39,50-64 yr,null,null
+Georgia,EIP,2020,2020,10,65+ yr,1.3,1.3
+Georgia,EIP,2020,2020,11,65+ yr,5.5,4.2
+Georgia,EIP,2020,2020,12,65+ yr,15.4,9.9
+Georgia,EIP,2020,2020,13,65+ yr,21.5,6.1
+Georgia,EIP,2020,2020,14,65+ yr,null,null
+Georgia,EIP,2020,2020,15,65+ yr,null,null
+Georgia,EIP,2020,2020,16,65+ yr,null,null
+Georgia,EIP,2020,2020,17,65+ yr,null,null
+Georgia,EIP,2020,2020,18,65+ yr,null,null
+Georgia,EIP,2020,2020,19,65+ yr,null,null
+Georgia,EIP,2020,2020,20,65+ yr,null,null
+Georgia,EIP,2020,2020,21,65+ yr,null,null
+Georgia,EIP,2020,2020,22,65+ yr,null,null
+Georgia,EIP,2020,2020,23,65+ yr,null,null
+Georgia,EIP,2020,2020,24,65+ yr,null,null
+Georgia,EIP,2020,2020,25,65+ yr,null,null
+Georgia,EIP,2020,2020,26,65+ yr,null,null
+Georgia,EIP,2020,2020,27,65+ yr,null,null
+Georgia,EIP,2020,2020,28,65+ yr,null,null
+Georgia,EIP,2020,2020,29,65+ yr,null,null
+Georgia,EIP,2020,2020,30,65+ yr,null,null
+Georgia,EIP,2020,2020,31,65+ yr,null,null
+Georgia,EIP,2020,2020,32,65+ yr,null,null
+Georgia,EIP,2020,2020,33,65+ yr,null,null
+Georgia,EIP,2020,2020,34,65+ yr,null,null
+Georgia,EIP,2020,2020,35,65+ yr,null,null
+Georgia,EIP,2020,2020,36,65+ yr,null,null
+Georgia,EIP,2020,2020,37,65+ yr,null,null
+Georgia,EIP,2020,2020,38,65+ yr,null,null
+Georgia,EIP,2020,2020,39,65+ yr,null,null
+Georgia,EIP,2020,2020,10,Overall,0.3,0.3
+Georgia,EIP,2020,2020,11,Overall,1.7,1.5
+Georgia,EIP,2020,2020,12,Overall,4.5,2.8
+Georgia,EIP,2020,2020,13,Overall,6.1,1.6
+Georgia,EIP,2020,2020,14,Overall,null,null
+Georgia,EIP,2020,2020,15,Overall,null,null
+Georgia,EIP,2020,2020,16,Overall,null,null
+Georgia,EIP,2020,2020,17,Overall,null,null
+Georgia,EIP,2020,2020,18,Overall,null,null
+Georgia,EIP,2020,2020,19,Overall,null,null
+Georgia,EIP,2020,2020,20,Overall,null,null
+Georgia,EIP,2020,2020,21,Overall,null,null
+Georgia,EIP,2020,2020,22,Overall,null,null
+Georgia,EIP,2020,2020,23,Overall,null,null
+Georgia,EIP,2020,2020,24,Overall,null,null
+Georgia,EIP,2020,2020,25,Overall,null,null
+Georgia,EIP,2020,2020,26,Overall,null,null
+Georgia,EIP,2020,2020,27,Overall,null,null
+Georgia,EIP,2020,2020,28,Overall,null,null
+Georgia,EIP,2020,2020,29,Overall,null,null
+Georgia,EIP,2020,2020,30,Overall,null,null
+Georgia,EIP,2020,2020,31,Overall,null,null
+Georgia,EIP,2020,2020,32,Overall,null,null
+Georgia,EIP,2020,2020,33,Overall,null,null
+Georgia,EIP,2020,2020,34,Overall,null,null
+Georgia,EIP,2020,2020,35,Overall,null,null
+Georgia,EIP,2020,2020,36,Overall,null,null
+Georgia,EIP,2020,2020,37,Overall,null,null
+Georgia,EIP,2020,2020,38,Overall,null,null
+Georgia,EIP,2020,2020,39,Overall,null,null
+Georgia,EIP,2020,2020,10,65-74 yr,1.3,1.3
+Georgia,EIP,2020,2020,11,65-74 yr,4.7,3.3
+Georgia,EIP,2020,2020,12,65-74 yr,12.6,8
+Georgia,EIP,2020,2020,13,65-74 yr,19,6.3
+Georgia,EIP,2020,2020,14,65-74 yr,null,null
+Georgia,EIP,2020,2020,15,65-74 yr,null,null
+Georgia,EIP,2020,2020,16,65-74 yr,null,null
+Georgia,EIP,2020,2020,17,65-74 yr,null,null
+Georgia,EIP,2020,2020,18,65-74 yr,null,null
+Georgia,EIP,2020,2020,19,65-74 yr,null,null
+Georgia,EIP,2020,2020,20,65-74 yr,null,null
+Georgia,EIP,2020,2020,21,65-74 yr,null,null
+Georgia,EIP,2020,2020,22,65-74 yr,null,null
+Georgia,EIP,2020,2020,23,65-74 yr,null,null
+Georgia,EIP,2020,2020,24,65-74 yr,null,null
+Georgia,EIP,2020,2020,25,65-74 yr,null,null
+Georgia,EIP,2020,2020,26,65-74 yr,null,null
+Georgia,EIP,2020,2020,27,65-74 yr,null,null
+Georgia,EIP,2020,2020,28,65-74 yr,null,null
+Georgia,EIP,2020,2020,29,65-74 yr,null,null
+Georgia,EIP,2020,2020,30,65-74 yr,null,null
+Georgia,EIP,2020,2020,31,65-74 yr,null,null
+Georgia,EIP,2020,2020,32,65-74 yr,null,null
+Georgia,EIP,2020,2020,33,65-74 yr,null,null
+Georgia,EIP,2020,2020,34,65-74 yr,null,null
+Georgia,EIP,2020,2020,35,65-74 yr,null,null
+Georgia,EIP,2020,2020,36,65-74 yr,null,null
+Georgia,EIP,2020,2020,37,65-74 yr,null,null
+Georgia,EIP,2020,2020,38,65-74 yr,null,null
+Georgia,EIP,2020,2020,39,65-74 yr,null,null
+Georgia,EIP,2020,2020,10,75-84 yr,1.6,1.6
+Georgia,EIP,2020,2020,11,75-84 yr,5.5,4
+Georgia,EIP,2020,2020,12,75-84 yr,18.2,12.7
+Georgia,EIP,2020,2020,13,75-84 yr,22.2,4
+Georgia,EIP,2020,2020,14,75-84 yr,null,null
+Georgia,EIP,2020,2020,15,75-84 yr,null,null
+Georgia,EIP,2020,2020,16,75-84 yr,null,null
+Georgia,EIP,2020,2020,17,75-84 yr,null,null
+Georgia,EIP,2020,2020,18,75-84 yr,null,null
+Georgia,EIP,2020,2020,19,75-84 yr,null,null
+Georgia,EIP,2020,2020,20,75-84 yr,null,null
+Georgia,EIP,2020,2020,21,75-84 yr,null,null
+Georgia,EIP,2020,2020,22,75-84 yr,null,null
+Georgia,EIP,2020,2020,23,75-84 yr,null,null
+Georgia,EIP,2020,2020,24,75-84 yr,null,null
+Georgia,EIP,2020,2020,25,75-84 yr,null,null
+Georgia,EIP,2020,2020,26,75-84 yr,null,null
+Georgia,EIP,2020,2020,27,75-84 yr,null,null
+Georgia,EIP,2020,2020,28,75-84 yr,null,null
+Georgia,EIP,2020,2020,29,75-84 yr,null,null
+Georgia,EIP,2020,2020,30,75-84 yr,null,null
+Georgia,EIP,2020,2020,31,75-84 yr,null,null
+Georgia,EIP,2020,2020,32,75-84 yr,null,null
+Georgia,EIP,2020,2020,33,75-84 yr,null,null
+Georgia,EIP,2020,2020,34,75-84 yr,null,null
+Georgia,EIP,2020,2020,35,75-84 yr,null,null
+Georgia,EIP,2020,2020,36,75-84 yr,null,null
+Georgia,EIP,2020,2020,37,75-84 yr,null,null
+Georgia,EIP,2020,2020,38,75-84 yr,null,null
+Georgia,EIP,2020,2020,39,75-84 yr,null,null
+Georgia,EIP,2020,2020,10,85+,0,0
+Georgia,EIP,2020,2020,11,85+,10.5,10.5
+Georgia,EIP,2020,2020,12,85+,25.3,14.8
+Georgia,EIP,2020,2020,13,85+,35.9,10.5
+Georgia,EIP,2020,2020,14,85+,null,null
+Georgia,EIP,2020,2020,15,85+,null,null
+Georgia,EIP,2020,2020,16,85+,null,null
+Georgia,EIP,2020,2020,17,85+,null,null
+Georgia,EIP,2020,2020,18,85+,null,null
+Georgia,EIP,2020,2020,19,85+,null,null
+Georgia,EIP,2020,2020,20,85+,null,null
+Georgia,EIP,2020,2020,21,85+,null,null
+Georgia,EIP,2020,2020,22,85+,null,null
+Georgia,EIP,2020,2020,23,85+,null,null
+Georgia,EIP,2020,2020,24,85+,null,null
+Georgia,EIP,2020,2020,25,85+,null,null
+Georgia,EIP,2020,2020,26,85+,null,null
+Georgia,EIP,2020,2020,27,85+,null,null
+Georgia,EIP,2020,2020,28,85+,null,null
+Georgia,EIP,2020,2020,29,85+,null,null
+Georgia,EIP,2020,2020,30,85+,null,null
+Georgia,EIP,2020,2020,31,85+,null,null
+Georgia,EIP,2020,2020,32,85+,null,null
+Georgia,EIP,2020,2020,33,85+,null,null
+Georgia,EIP,2020,2020,34,85+,null,null
+Georgia,EIP,2020,2020,35,85+,null,null
+Georgia,EIP,2020,2020,36,85+,null,null
+Georgia,EIP,2020,2020,37,85+,null,null
+Georgia,EIP,2020,2020,38,85+,null,null
+Georgia,EIP,2020,2020,39,85+,null,null
+Maryland,EIP,2020,2020,10,0-4 yr,0,0
+Maryland,EIP,2020,2020,11,0-4 yr,0,0
+Maryland,EIP,2020,2020,12,0-4 yr,0,0
+Maryland,EIP,2020,2020,13,0-4 yr,0.5,0.5
+Maryland,EIP,2020,2020,14,0-4 yr,null,null
+Maryland,EIP,2020,2020,15,0-4 yr,null,null
+Maryland,EIP,2020,2020,16,0-4 yr,null,null
+Maryland,EIP,2020,2020,17,0-4 yr,null,null
+Maryland,EIP,2020,2020,18,0-4 yr,null,null
+Maryland,EIP,2020,2020,19,0-4 yr,null,null
+Maryland,EIP,2020,2020,20,0-4 yr,null,null
+Maryland,EIP,2020,2020,21,0-4 yr,null,null
+Maryland,EIP,2020,2020,22,0-4 yr,null,null
+Maryland,EIP,2020,2020,23,0-4 yr,null,null
+Maryland,EIP,2020,2020,24,0-4 yr,null,null
+Maryland,EIP,2020,2020,25,0-4 yr,null,null
+Maryland,EIP,2020,2020,26,0-4 yr,null,null
+Maryland,EIP,2020,2020,27,0-4 yr,null,null
+Maryland,EIP,2020,2020,28,0-4 yr,null,null
+Maryland,EIP,2020,2020,29,0-4 yr,null,null
+Maryland,EIP,2020,2020,30,0-4 yr,null,null
+Maryland,EIP,2020,2020,31,0-4 yr,null,null
+Maryland,EIP,2020,2020,32,0-4 yr,null,null
+Maryland,EIP,2020,2020,33,0-4 yr,null,null
+Maryland,EIP,2020,2020,34,0-4 yr,null,null
+Maryland,EIP,2020,2020,35,0-4 yr,null,null
+Maryland,EIP,2020,2020,36,0-4 yr,null,null
+Maryland,EIP,2020,2020,37,0-4 yr,null,null
+Maryland,EIP,2020,2020,38,0-4 yr,null,null
+Maryland,EIP,2020,2020,39,0-4 yr,null,null
+Maryland,EIP,2020,2020,10,5-17 yr,0,0
+Maryland,EIP,2020,2020,11,5-17 yr,0,0
+Maryland,EIP,2020,2020,12,5-17 yr,0.2,0.2
+Maryland,EIP,2020,2020,13,5-17 yr,0.2,0
+Maryland,EIP,2020,2020,14,5-17 yr,null,null
+Maryland,EIP,2020,2020,15,5-17 yr,null,null
+Maryland,EIP,2020,2020,16,5-17 yr,null,null
+Maryland,EIP,2020,2020,17,5-17 yr,null,null
+Maryland,EIP,2020,2020,18,5-17 yr,null,null
+Maryland,EIP,2020,2020,19,5-17 yr,null,null
+Maryland,EIP,2020,2020,20,5-17 yr,null,null
+Maryland,EIP,2020,2020,21,5-17 yr,null,null
+Maryland,EIP,2020,2020,22,5-17 yr,null,null
+Maryland,EIP,2020,2020,23,5-17 yr,null,null
+Maryland,EIP,2020,2020,24,5-17 yr,null,null
+Maryland,EIP,2020,2020,25,5-17 yr,null,null
+Maryland,EIP,2020,2020,26,5-17 yr,null,null
+Maryland,EIP,2020,2020,27,5-17 yr,null,null
+Maryland,EIP,2020,2020,28,5-17 yr,null,null
+Maryland,EIP,2020,2020,29,5-17 yr,null,null
+Maryland,EIP,2020,2020,30,5-17 yr,null,null
+Maryland,EIP,2020,2020,31,5-17 yr,null,null
+Maryland,EIP,2020,2020,32,5-17 yr,null,null
+Maryland,EIP,2020,2020,33,5-17 yr,null,null
+Maryland,EIP,2020,2020,34,5-17 yr,null,null
+Maryland,EIP,2020,2020,35,5-17 yr,null,null
+Maryland,EIP,2020,2020,36,5-17 yr,null,null
+Maryland,EIP,2020,2020,37,5-17 yr,null,null
+Maryland,EIP,2020,2020,38,5-17 yr,null,null
+Maryland,EIP,2020,2020,39,5-17 yr,null,null
+Maryland,EIP,2020,2020,10,18-49 yr,0,0
+Maryland,EIP,2020,2020,11,18-49 yr,0.3,0.3
+Maryland,EIP,2020,2020,12,18-49 yr,1.4,1.1
+Maryland,EIP,2020,2020,13,18-49 yr,4.6,3.2
+Maryland,EIP,2020,2020,14,18-49 yr,null,null
+Maryland,EIP,2020,2020,15,18-49 yr,null,null
+Maryland,EIP,2020,2020,16,18-49 yr,null,null
+Maryland,EIP,2020,2020,17,18-49 yr,null,null
+Maryland,EIP,2020,2020,18,18-49 yr,null,null
+Maryland,EIP,2020,2020,19,18-49 yr,null,null
+Maryland,EIP,2020,2020,20,18-49 yr,null,null
+Maryland,EIP,2020,2020,21,18-49 yr,null,null
+Maryland,EIP,2020,2020,22,18-49 yr,null,null
+Maryland,EIP,2020,2020,23,18-49 yr,null,null
+Maryland,EIP,2020,2020,24,18-49 yr,null,null
+Maryland,EIP,2020,2020,25,18-49 yr,null,null
+Maryland,EIP,2020,2020,26,18-49 yr,null,null
+Maryland,EIP,2020,2020,27,18-49 yr,null,null
+Maryland,EIP,2020,2020,28,18-49 yr,null,null
+Maryland,EIP,2020,2020,29,18-49 yr,null,null
+Maryland,EIP,2020,2020,30,18-49 yr,null,null
+Maryland,EIP,2020,2020,31,18-49 yr,null,null
+Maryland,EIP,2020,2020,32,18-49 yr,null,null
+Maryland,EIP,2020,2020,33,18-49 yr,null,null
+Maryland,EIP,2020,2020,34,18-49 yr,null,null
+Maryland,EIP,2020,2020,35,18-49 yr,null,null
+Maryland,EIP,2020,2020,36,18-49 yr,null,null
+Maryland,EIP,2020,2020,37,18-49 yr,null,null
+Maryland,EIP,2020,2020,38,18-49 yr,null,null
+Maryland,EIP,2020,2020,39,18-49 yr,null,null
+Maryland,EIP,2020,2020,10,50-64 yr,0.1,0.1
+Maryland,EIP,2020,2020,11,50-64 yr,0.4,0.3
+Maryland,EIP,2020,2020,12,50-64 yr,3.2,2.8
+Maryland,EIP,2020,2020,13,50-64 yr,10.7,7.5
+Maryland,EIP,2020,2020,14,50-64 yr,null,null
+Maryland,EIP,2020,2020,15,50-64 yr,null,null
+Maryland,EIP,2020,2020,16,50-64 yr,null,null
+Maryland,EIP,2020,2020,17,50-64 yr,null,null
+Maryland,EIP,2020,2020,18,50-64 yr,null,null
+Maryland,EIP,2020,2020,19,50-64 yr,null,null
+Maryland,EIP,2020,2020,20,50-64 yr,null,null
+Maryland,EIP,2020,2020,21,50-64 yr,null,null
+Maryland,EIP,2020,2020,22,50-64 yr,null,null
+Maryland,EIP,2020,2020,23,50-64 yr,null,null
+Maryland,EIP,2020,2020,24,50-64 yr,null,null
+Maryland,EIP,2020,2020,25,50-64 yr,null,null
+Maryland,EIP,2020,2020,26,50-64 yr,null,null
+Maryland,EIP,2020,2020,27,50-64 yr,null,null
+Maryland,EIP,2020,2020,28,50-64 yr,null,null
+Maryland,EIP,2020,2020,29,50-64 yr,null,null
+Maryland,EIP,2020,2020,30,50-64 yr,null,null
+Maryland,EIP,2020,2020,31,50-64 yr,null,null
+Maryland,EIP,2020,2020,32,50-64 yr,null,null
+Maryland,EIP,2020,2020,33,50-64 yr,null,null
+Maryland,EIP,2020,2020,34,50-64 yr,null,null
+Maryland,EIP,2020,2020,35,50-64 yr,null,null
+Maryland,EIP,2020,2020,36,50-64 yr,null,null
+Maryland,EIP,2020,2020,37,50-64 yr,null,null
+Maryland,EIP,2020,2020,38,50-64 yr,null,null
+Maryland,EIP,2020,2020,39,50-64 yr,null,null
+Maryland,EIP,2020,2020,10,65+ yr,0.4,0.4
+Maryland,EIP,2020,2020,11,65+ yr,1.2,0.8
+Maryland,EIP,2020,2020,12,65+ yr,5.2,4
+Maryland,EIP,2020,2020,13,65+ yr,16.8,11.6
+Maryland,EIP,2020,2020,14,65+ yr,null,null
+Maryland,EIP,2020,2020,15,65+ yr,null,null
+Maryland,EIP,2020,2020,16,65+ yr,null,null
+Maryland,EIP,2020,2020,17,65+ yr,null,null
+Maryland,EIP,2020,2020,18,65+ yr,null,null
+Maryland,EIP,2020,2020,19,65+ yr,null,null
+Maryland,EIP,2020,2020,20,65+ yr,null,null
+Maryland,EIP,2020,2020,21,65+ yr,null,null
+Maryland,EIP,2020,2020,22,65+ yr,null,null
+Maryland,EIP,2020,2020,23,65+ yr,null,null
+Maryland,EIP,2020,2020,24,65+ yr,null,null
+Maryland,EIP,2020,2020,25,65+ yr,null,null
+Maryland,EIP,2020,2020,26,65+ yr,null,null
+Maryland,EIP,2020,2020,27,65+ yr,null,null
+Maryland,EIP,2020,2020,28,65+ yr,null,null
+Maryland,EIP,2020,2020,29,65+ yr,null,null
+Maryland,EIP,2020,2020,30,65+ yr,null,null
+Maryland,EIP,2020,2020,31,65+ yr,null,null
+Maryland,EIP,2020,2020,32,65+ yr,null,null
+Maryland,EIP,2020,2020,33,65+ yr,null,null
+Maryland,EIP,2020,2020,34,65+ yr,null,null
+Maryland,EIP,2020,2020,35,65+ yr,null,null
+Maryland,EIP,2020,2020,36,65+ yr,null,null
+Maryland,EIP,2020,2020,37,65+ yr,null,null
+Maryland,EIP,2020,2020,38,65+ yr,null,null
+Maryland,EIP,2020,2020,39,65+ yr,null,null
+Maryland,EIP,2020,2020,10,Overall,0.1,0.1
+Maryland,EIP,2020,2020,11,Overall,0.4,0.3
+Maryland,EIP,2020,2020,12,Overall,2.1,1.7
+Maryland,EIP,2020,2020,13,Overall,6.8,4.7
+Maryland,EIP,2020,2020,14,Overall,null,null
+Maryland,EIP,2020,2020,15,Overall,null,null
+Maryland,EIP,2020,2020,16,Overall,null,null
+Maryland,EIP,2020,2020,17,Overall,null,null
+Maryland,EIP,2020,2020,18,Overall,null,null
+Maryland,EIP,2020,2020,19,Overall,null,null
+Maryland,EIP,2020,2020,20,Overall,null,null
+Maryland,EIP,2020,2020,21,Overall,null,null
+Maryland,EIP,2020,2020,22,Overall,null,null
+Maryland,EIP,2020,2020,23,Overall,null,null
+Maryland,EIP,2020,2020,24,Overall,null,null
+Maryland,EIP,2020,2020,25,Overall,null,null
+Maryland,EIP,2020,2020,26,Overall,null,null
+Maryland,EIP,2020,2020,27,Overall,null,null
+Maryland,EIP,2020,2020,28,Overall,null,null
+Maryland,EIP,2020,2020,29,Overall,null,null
+Maryland,EIP,2020,2020,30,Overall,null,null
+Maryland,EIP,2020,2020,31,Overall,null,null
+Maryland,EIP,2020,2020,32,Overall,null,null
+Maryland,EIP,2020,2020,33,Overall,null,null
+Maryland,EIP,2020,2020,34,Overall,null,null
+Maryland,EIP,2020,2020,35,Overall,null,null
+Maryland,EIP,2020,2020,36,Overall,null,null
+Maryland,EIP,2020,2020,37,Overall,null,null
+Maryland,EIP,2020,2020,38,Overall,null,null
+Maryland,EIP,2020,2020,39,Overall,null,null
+Maryland,EIP,2020,2020,10,65-74 yr,0.6,0.6
+Maryland,EIP,2020,2020,11,65-74 yr,1.5,0.9
+Maryland,EIP,2020,2020,12,65-74 yr,6.1,4.6
+Maryland,EIP,2020,2020,13,65-74 yr,16.7,10.6
+Maryland,EIP,2020,2020,14,65-74 yr,null,null
+Maryland,EIP,2020,2020,15,65-74 yr,null,null
+Maryland,EIP,2020,2020,16,65-74 yr,null,null
+Maryland,EIP,2020,2020,17,65-74 yr,null,null
+Maryland,EIP,2020,2020,18,65-74 yr,null,null
+Maryland,EIP,2020,2020,19,65-74 yr,null,null
+Maryland,EIP,2020,2020,20,65-74 yr,null,null
+Maryland,EIP,2020,2020,21,65-74 yr,null,null
+Maryland,EIP,2020,2020,22,65-74 yr,null,null
+Maryland,EIP,2020,2020,23,65-74 yr,null,null
+Maryland,EIP,2020,2020,24,65-74 yr,null,null
+Maryland,EIP,2020,2020,25,65-74 yr,null,null
+Maryland,EIP,2020,2020,26,65-74 yr,null,null
+Maryland,EIP,2020,2020,27,65-74 yr,null,null
+Maryland,EIP,2020,2020,28,65-74 yr,null,null
+Maryland,EIP,2020,2020,29,65-74 yr,null,null
+Maryland,EIP,2020,2020,30,65-74 yr,null,null
+Maryland,EIP,2020,2020,31,65-74 yr,null,null
+Maryland,EIP,2020,2020,32,65-74 yr,null,null
+Maryland,EIP,2020,2020,33,65-74 yr,null,null
+Maryland,EIP,2020,2020,34,65-74 yr,null,null
+Maryland,EIP,2020,2020,35,65-74 yr,null,null
+Maryland,EIP,2020,2020,36,65-74 yr,null,null
+Maryland,EIP,2020,2020,37,65-74 yr,null,null
+Maryland,EIP,2020,2020,38,65-74 yr,null,null
+Maryland,EIP,2020,2020,39,65-74 yr,null,null
+Maryland,EIP,2020,2020,10,75-84 yr,0,0
+Maryland,EIP,2020,2020,11,75-84 yr,0.7,0.7
+Maryland,EIP,2020,2020,12,75-84 yr,3.7,3
+Maryland,EIP,2020,2020,13,75-84 yr,17.2,13.5
+Maryland,EIP,2020,2020,14,75-84 yr,null,null
+Maryland,EIP,2020,2020,15,75-84 yr,null,null
+Maryland,EIP,2020,2020,16,75-84 yr,null,null
+Maryland,EIP,2020,2020,17,75-84 yr,null,null
+Maryland,EIP,2020,2020,18,75-84 yr,null,null
+Maryland,EIP,2020,2020,19,75-84 yr,null,null
+Maryland,EIP,2020,2020,20,75-84 yr,null,null
+Maryland,EIP,2020,2020,21,75-84 yr,null,null
+Maryland,EIP,2020,2020,22,75-84 yr,null,null
+Maryland,EIP,2020,2020,23,75-84 yr,null,null
+Maryland,EIP,2020,2020,24,75-84 yr,null,null
+Maryland,EIP,2020,2020,25,75-84 yr,null,null
+Maryland,EIP,2020,2020,26,75-84 yr,null,null
+Maryland,EIP,2020,2020,27,75-84 yr,null,null
+Maryland,EIP,2020,2020,28,75-84 yr,null,null
+Maryland,EIP,2020,2020,29,75-84 yr,null,null
+Maryland,EIP,2020,2020,30,75-84 yr,null,null
+Maryland,EIP,2020,2020,31,75-84 yr,null,null
+Maryland,EIP,2020,2020,32,75-84 yr,null,null
+Maryland,EIP,2020,2020,33,75-84 yr,null,null
+Maryland,EIP,2020,2020,34,75-84 yr,null,null
+Maryland,EIP,2020,2020,35,75-84 yr,null,null
+Maryland,EIP,2020,2020,36,75-84 yr,null,null
+Maryland,EIP,2020,2020,37,75-84 yr,null,null
+Maryland,EIP,2020,2020,38,75-84 yr,null,null
+Maryland,EIP,2020,2020,39,75-84 yr,null,null
+Maryland,EIP,2020,2020,10,85+,0.8,0.8
+Maryland,EIP,2020,2020,11,85+,0.8,0
+Maryland,EIP,2020,2020,12,85+,4.2,3.4
+Maryland,EIP,2020,2020,13,85+,16,11.8
+Maryland,EIP,2020,2020,14,85+,null,null
+Maryland,EIP,2020,2020,15,85+,null,null
+Maryland,EIP,2020,2020,16,85+,null,null
+Maryland,EIP,2020,2020,17,85+,null,null
+Maryland,EIP,2020,2020,18,85+,null,null
+Maryland,EIP,2020,2020,19,85+,null,null
+Maryland,EIP,2020,2020,20,85+,null,null
+Maryland,EIP,2020,2020,21,85+,null,null
+Maryland,EIP,2020,2020,22,85+,null,null
+Maryland,EIP,2020,2020,23,85+,null,null
+Maryland,EIP,2020,2020,24,85+,null,null
+Maryland,EIP,2020,2020,25,85+,null,null
+Maryland,EIP,2020,2020,26,85+,null,null
+Maryland,EIP,2020,2020,27,85+,null,null
+Maryland,EIP,2020,2020,28,85+,null,null
+Maryland,EIP,2020,2020,29,85+,null,null
+Maryland,EIP,2020,2020,30,85+,null,null
+Maryland,EIP,2020,2020,31,85+,null,null
+Maryland,EIP,2020,2020,32,85+,null,null
+Maryland,EIP,2020,2020,33,85+,null,null
+Maryland,EIP,2020,2020,34,85+,null,null
+Maryland,EIP,2020,2020,35,85+,null,null
+Maryland,EIP,2020,2020,36,85+,null,null
+Maryland,EIP,2020,2020,37,85+,null,null
+Maryland,EIP,2020,2020,38,85+,null,null
+Maryland,EIP,2020,2020,39,85+,null,null
+New Mexico,EIP,2020,2020,10,0-4 yr,0,0
+New Mexico,EIP,2020,2020,11,0-4 yr,0,0
+New Mexico,EIP,2020,2020,12,0-4 yr,0,0
+New Mexico,EIP,2020,2020,13,0-4 yr,0,0
+New Mexico,EIP,2020,2020,14,0-4 yr,null,null
+New Mexico,EIP,2020,2020,15,0-4 yr,null,null
+New Mexico,EIP,2020,2020,16,0-4 yr,null,null
+New Mexico,EIP,2020,2020,17,0-4 yr,null,null
+New Mexico,EIP,2020,2020,18,0-4 yr,null,null
+New Mexico,EIP,2020,2020,19,0-4 yr,null,null
+New Mexico,EIP,2020,2020,20,0-4 yr,null,null
+New Mexico,EIP,2020,2020,21,0-4 yr,null,null
+New Mexico,EIP,2020,2020,22,0-4 yr,null,null
+New Mexico,EIP,2020,2020,23,0-4 yr,null,null
+New Mexico,EIP,2020,2020,24,0-4 yr,null,null
+New Mexico,EIP,2020,2020,25,0-4 yr,null,null
+New Mexico,EIP,2020,2020,26,0-4 yr,null,null
+New Mexico,EIP,2020,2020,27,0-4 yr,null,null
+New Mexico,EIP,2020,2020,28,0-4 yr,null,null
+New Mexico,EIP,2020,2020,29,0-4 yr,null,null
+New Mexico,EIP,2020,2020,30,0-4 yr,null,null
+New Mexico,EIP,2020,2020,31,0-4 yr,null,null
+New Mexico,EIP,2020,2020,32,0-4 yr,null,null
+New Mexico,EIP,2020,2020,33,0-4 yr,null,null
+New Mexico,EIP,2020,2020,34,0-4 yr,null,null
+New Mexico,EIP,2020,2020,35,0-4 yr,null,null
+New Mexico,EIP,2020,2020,36,0-4 yr,null,null
+New Mexico,EIP,2020,2020,37,0-4 yr,null,null
+New Mexico,EIP,2020,2020,38,0-4 yr,null,null
+New Mexico,EIP,2020,2020,39,0-4 yr,null,null
+New Mexico,EIP,2020,2020,10,5-17 yr,0,0
+New Mexico,EIP,2020,2020,11,5-17 yr,0,0
+New Mexico,EIP,2020,2020,12,5-17 yr,0,0
+New Mexico,EIP,2020,2020,13,5-17 yr,0,0
+New Mexico,EIP,2020,2020,14,5-17 yr,null,null
+New Mexico,EIP,2020,2020,15,5-17 yr,null,null
+New Mexico,EIP,2020,2020,16,5-17 yr,null,null
+New Mexico,EIP,2020,2020,17,5-17 yr,null,null
+New Mexico,EIP,2020,2020,18,5-17 yr,null,null
+New Mexico,EIP,2020,2020,19,5-17 yr,null,null
+New Mexico,EIP,2020,2020,20,5-17 yr,null,null
+New Mexico,EIP,2020,2020,21,5-17 yr,null,null
+New Mexico,EIP,2020,2020,22,5-17 yr,null,null
+New Mexico,EIP,2020,2020,23,5-17 yr,null,null
+New Mexico,EIP,2020,2020,24,5-17 yr,null,null
+New Mexico,EIP,2020,2020,25,5-17 yr,null,null
+New Mexico,EIP,2020,2020,26,5-17 yr,null,null
+New Mexico,EIP,2020,2020,27,5-17 yr,null,null
+New Mexico,EIP,2020,2020,28,5-17 yr,null,null
+New Mexico,EIP,2020,2020,29,5-17 yr,null,null
+New Mexico,EIP,2020,2020,30,5-17 yr,null,null
+New Mexico,EIP,2020,2020,31,5-17 yr,null,null
+New Mexico,EIP,2020,2020,32,5-17 yr,null,null
+New Mexico,EIP,2020,2020,33,5-17 yr,null,null
+New Mexico,EIP,2020,2020,34,5-17 yr,null,null
+New Mexico,EIP,2020,2020,35,5-17 yr,null,null
+New Mexico,EIP,2020,2020,36,5-17 yr,null,null
+New Mexico,EIP,2020,2020,37,5-17 yr,null,null
+New Mexico,EIP,2020,2020,38,5-17 yr,null,null
+New Mexico,EIP,2020,2020,39,5-17 yr,null,null
+New Mexico,EIP,2020,2020,10,18-49 yr,0,0
+New Mexico,EIP,2020,2020,11,18-49 yr,0,0
+New Mexico,EIP,2020,2020,12,18-49 yr,0,0
+New Mexico,EIP,2020,2020,13,18-49 yr,0.8,0.8
+New Mexico,EIP,2020,2020,14,18-49 yr,null,null
+New Mexico,EIP,2020,2020,15,18-49 yr,null,null
+New Mexico,EIP,2020,2020,16,18-49 yr,null,null
+New Mexico,EIP,2020,2020,17,18-49 yr,null,null
+New Mexico,EIP,2020,2020,18,18-49 yr,null,null
+New Mexico,EIP,2020,2020,19,18-49 yr,null,null
+New Mexico,EIP,2020,2020,20,18-49 yr,null,null
+New Mexico,EIP,2020,2020,21,18-49 yr,null,null
+New Mexico,EIP,2020,2020,22,18-49 yr,null,null
+New Mexico,EIP,2020,2020,23,18-49 yr,null,null
+New Mexico,EIP,2020,2020,24,18-49 yr,null,null
+New Mexico,EIP,2020,2020,25,18-49 yr,null,null
+New Mexico,EIP,2020,2020,26,18-49 yr,null,null
+New Mexico,EIP,2020,2020,27,18-49 yr,null,null
+New Mexico,EIP,2020,2020,28,18-49 yr,null,null
+New Mexico,EIP,2020,2020,29,18-49 yr,null,null
+New Mexico,EIP,2020,2020,30,18-49 yr,null,null
+New Mexico,EIP,2020,2020,31,18-49 yr,null,null
+New Mexico,EIP,2020,2020,32,18-49 yr,null,null
+New Mexico,EIP,2020,2020,33,18-49 yr,null,null
+New Mexico,EIP,2020,2020,34,18-49 yr,null,null
+New Mexico,EIP,2020,2020,35,18-49 yr,null,null
+New Mexico,EIP,2020,2020,36,18-49 yr,null,null
+New Mexico,EIP,2020,2020,37,18-49 yr,null,null
+New Mexico,EIP,2020,2020,38,18-49 yr,null,null
+New Mexico,EIP,2020,2020,39,18-49 yr,null,null
+New Mexico,EIP,2020,2020,10,50-64 yr,0,0
+New Mexico,EIP,2020,2020,11,50-64 yr,0.4,0.4
+New Mexico,EIP,2020,2020,12,50-64 yr,1.2,0.8
+New Mexico,EIP,2020,2020,13,50-64 yr,3.3,2.1
+New Mexico,EIP,2020,2020,14,50-64 yr,null,null
+New Mexico,EIP,2020,2020,15,50-64 yr,null,null
+New Mexico,EIP,2020,2020,16,50-64 yr,null,null
+New Mexico,EIP,2020,2020,17,50-64 yr,null,null
+New Mexico,EIP,2020,2020,18,50-64 yr,null,null
+New Mexico,EIP,2020,2020,19,50-64 yr,null,null
+New Mexico,EIP,2020,2020,20,50-64 yr,null,null
+New Mexico,EIP,2020,2020,21,50-64 yr,null,null
+New Mexico,EIP,2020,2020,22,50-64 yr,null,null
+New Mexico,EIP,2020,2020,23,50-64 yr,null,null
+New Mexico,EIP,2020,2020,24,50-64 yr,null,null
+New Mexico,EIP,2020,2020,25,50-64 yr,null,null
+New Mexico,EIP,2020,2020,26,50-64 yr,null,null
+New Mexico,EIP,2020,2020,27,50-64 yr,null,null
+New Mexico,EIP,2020,2020,28,50-64 yr,null,null
+New Mexico,EIP,2020,2020,29,50-64 yr,null,null
+New Mexico,EIP,2020,2020,30,50-64 yr,null,null
+New Mexico,EIP,2020,2020,31,50-64 yr,null,null
+New Mexico,EIP,2020,2020,32,50-64 yr,null,null
+New Mexico,EIP,2020,2020,33,50-64 yr,null,null
+New Mexico,EIP,2020,2020,34,50-64 yr,null,null
+New Mexico,EIP,2020,2020,35,50-64 yr,null,null
+New Mexico,EIP,2020,2020,36,50-64 yr,null,null
+New Mexico,EIP,2020,2020,37,50-64 yr,null,null
+New Mexico,EIP,2020,2020,38,50-64 yr,null,null
+New Mexico,EIP,2020,2020,39,50-64 yr,null,null
+New Mexico,EIP,2020,2020,10,65+ yr,0,0
+New Mexico,EIP,2020,2020,11,65+ yr,0.9,0.9
+New Mexico,EIP,2020,2020,12,65+ yr,1.8,0.9
+New Mexico,EIP,2020,2020,13,65+ yr,4.5,2.7
+New Mexico,EIP,2020,2020,14,65+ yr,null,null
+New Mexico,EIP,2020,2020,15,65+ yr,null,null
+New Mexico,EIP,2020,2020,16,65+ yr,null,null
+New Mexico,EIP,2020,2020,17,65+ yr,null,null
+New Mexico,EIP,2020,2020,18,65+ yr,null,null
+New Mexico,EIP,2020,2020,19,65+ yr,null,null
+New Mexico,EIP,2020,2020,20,65+ yr,null,null
+New Mexico,EIP,2020,2020,21,65+ yr,null,null
+New Mexico,EIP,2020,2020,22,65+ yr,null,null
+New Mexico,EIP,2020,2020,23,65+ yr,null,null
+New Mexico,EIP,2020,2020,24,65+ yr,null,null
+New Mexico,EIP,2020,2020,25,65+ yr,null,null
+New Mexico,EIP,2020,2020,26,65+ yr,null,null
+New Mexico,EIP,2020,2020,27,65+ yr,null,null
+New Mexico,EIP,2020,2020,28,65+ yr,null,null
+New Mexico,EIP,2020,2020,29,65+ yr,null,null
+New Mexico,EIP,2020,2020,30,65+ yr,null,null
+New Mexico,EIP,2020,2020,31,65+ yr,null,null
+New Mexico,EIP,2020,2020,32,65+ yr,null,null
+New Mexico,EIP,2020,2020,33,65+ yr,null,null
+New Mexico,EIP,2020,2020,34,65+ yr,null,null
+New Mexico,EIP,2020,2020,35,65+ yr,null,null
+New Mexico,EIP,2020,2020,36,65+ yr,null,null
+New Mexico,EIP,2020,2020,37,65+ yr,null,null
+New Mexico,EIP,2020,2020,38,65+ yr,null,null
+New Mexico,EIP,2020,2020,39,65+ yr,null,null
+New Mexico,EIP,2020,2020,10,Overall,0,0
+New Mexico,EIP,2020,2020,11,Overall,0.2,0.2
+New Mexico,EIP,2020,2020,12,Overall,0.5,0.3
+New Mexico,EIP,2020,2020,13,Overall,1.7,1.2
+New Mexico,EIP,2020,2020,14,Overall,null,null
+New Mexico,EIP,2020,2020,15,Overall,null,null
+New Mexico,EIP,2020,2020,16,Overall,null,null
+New Mexico,EIP,2020,2020,17,Overall,null,null
+New Mexico,EIP,2020,2020,18,Overall,null,null
+New Mexico,EIP,2020,2020,19,Overall,null,null
+New Mexico,EIP,2020,2020,20,Overall,null,null
+New Mexico,EIP,2020,2020,21,Overall,null,null
+New Mexico,EIP,2020,2020,22,Overall,null,null
+New Mexico,EIP,2020,2020,23,Overall,null,null
+New Mexico,EIP,2020,2020,24,Overall,null,null
+New Mexico,EIP,2020,2020,25,Overall,null,null
+New Mexico,EIP,2020,2020,26,Overall,null,null
+New Mexico,EIP,2020,2020,27,Overall,null,null
+New Mexico,EIP,2020,2020,28,Overall,null,null
+New Mexico,EIP,2020,2020,29,Overall,null,null
+New Mexico,EIP,2020,2020,30,Overall,null,null
+New Mexico,EIP,2020,2020,31,Overall,null,null
+New Mexico,EIP,2020,2020,32,Overall,null,null
+New Mexico,EIP,2020,2020,33,Overall,null,null
+New Mexico,EIP,2020,2020,34,Overall,null,null
+New Mexico,EIP,2020,2020,35,Overall,null,null
+New Mexico,EIP,2020,2020,36,Overall,null,null
+New Mexico,EIP,2020,2020,37,Overall,null,null
+New Mexico,EIP,2020,2020,38,Overall,null,null
+New Mexico,EIP,2020,2020,39,Overall,null,null
+New Mexico,EIP,2020,2020,10,65-74 yr,0,0
+New Mexico,EIP,2020,2020,11,65-74 yr,0.7,0.7
+New Mexico,EIP,2020,2020,12,65-74 yr,2.2,1.5
+New Mexico,EIP,2020,2020,13,65-74 yr,5.2,3
+New Mexico,EIP,2020,2020,14,65-74 yr,null,null
+New Mexico,EIP,2020,2020,15,65-74 yr,null,null
+New Mexico,EIP,2020,2020,16,65-74 yr,null,null
+New Mexico,EIP,2020,2020,17,65-74 yr,null,null
+New Mexico,EIP,2020,2020,18,65-74 yr,null,null
+New Mexico,EIP,2020,2020,19,65-74 yr,null,null
+New Mexico,EIP,2020,2020,20,65-74 yr,null,null
+New Mexico,EIP,2020,2020,21,65-74 yr,null,null
+New Mexico,EIP,2020,2020,22,65-74 yr,null,null
+New Mexico,EIP,2020,2020,23,65-74 yr,null,null
+New Mexico,EIP,2020,2020,24,65-74 yr,null,null
+New Mexico,EIP,2020,2020,25,65-74 yr,null,null
+New Mexico,EIP,2020,2020,26,65-74 yr,null,null
+New Mexico,EIP,2020,2020,27,65-74 yr,null,null
+New Mexico,EIP,2020,2020,28,65-74 yr,null,null
+New Mexico,EIP,2020,2020,29,65-74 yr,null,null
+New Mexico,EIP,2020,2020,30,65-74 yr,null,null
+New Mexico,EIP,2020,2020,31,65-74 yr,null,null
+New Mexico,EIP,2020,2020,32,65-74 yr,null,null
+New Mexico,EIP,2020,2020,33,65-74 yr,null,null
+New Mexico,EIP,2020,2020,34,65-74 yr,null,null
+New Mexico,EIP,2020,2020,35,65-74 yr,null,null
+New Mexico,EIP,2020,2020,36,65-74 yr,null,null
+New Mexico,EIP,2020,2020,37,65-74 yr,null,null
+New Mexico,EIP,2020,2020,38,65-74 yr,null,null
+New Mexico,EIP,2020,2020,39,65-74 yr,null,null
+New Mexico,EIP,2020,2020,10,75-84 yr,0,0
+New Mexico,EIP,2020,2020,11,75-84 yr,1.5,1.5
+New Mexico,EIP,2020,2020,12,75-84 yr,1.5,0
+New Mexico,EIP,2020,2020,13,75-84 yr,3.1,1.5
+New Mexico,EIP,2020,2020,14,75-84 yr,null,null
+New Mexico,EIP,2020,2020,15,75-84 yr,null,null
+New Mexico,EIP,2020,2020,16,75-84 yr,null,null
+New Mexico,EIP,2020,2020,17,75-84 yr,null,null
+New Mexico,EIP,2020,2020,18,75-84 yr,null,null
+New Mexico,EIP,2020,2020,19,75-84 yr,null,null
+New Mexico,EIP,2020,2020,20,75-84 yr,null,null
+New Mexico,EIP,2020,2020,21,75-84 yr,null,null
+New Mexico,EIP,2020,2020,22,75-84 yr,null,null
+New Mexico,EIP,2020,2020,23,75-84 yr,null,null
+New Mexico,EIP,2020,2020,24,75-84 yr,null,null
+New Mexico,EIP,2020,2020,25,75-84 yr,null,null
+New Mexico,EIP,2020,2020,26,75-84 yr,null,null
+New Mexico,EIP,2020,2020,27,75-84 yr,null,null
+New Mexico,EIP,2020,2020,28,75-84 yr,null,null
+New Mexico,EIP,2020,2020,29,75-84 yr,null,null
+New Mexico,EIP,2020,2020,30,75-84 yr,null,null
+New Mexico,EIP,2020,2020,31,75-84 yr,null,null
+New Mexico,EIP,2020,2020,32,75-84 yr,null,null
+New Mexico,EIP,2020,2020,33,75-84 yr,null,null
+New Mexico,EIP,2020,2020,34,75-84 yr,null,null
+New Mexico,EIP,2020,2020,35,75-84 yr,null,null
+New Mexico,EIP,2020,2020,36,75-84 yr,null,null
+New Mexico,EIP,2020,2020,37,75-84 yr,null,null
+New Mexico,EIP,2020,2020,38,75-84 yr,null,null
+New Mexico,EIP,2020,2020,39,75-84 yr,null,null
+New Mexico,EIP,2020,2020,10,85+,0,0
+New Mexico,EIP,2020,2020,11,85+,0,0
+New Mexico,EIP,2020,2020,12,85+,0,0
+New Mexico,EIP,2020,2020,13,85+,3.9,3.9
+New Mexico,EIP,2020,2020,14,85+,null,null
+New Mexico,EIP,2020,2020,15,85+,null,null
+New Mexico,EIP,2020,2020,16,85+,null,null
+New Mexico,EIP,2020,2020,17,85+,null,null
+New Mexico,EIP,2020,2020,18,85+,null,null
+New Mexico,EIP,2020,2020,19,85+,null,null
+New Mexico,EIP,2020,2020,20,85+,null,null
+New Mexico,EIP,2020,2020,21,85+,null,null
+New Mexico,EIP,2020,2020,22,85+,null,null
+New Mexico,EIP,2020,2020,23,85+,null,null
+New Mexico,EIP,2020,2020,24,85+,null,null
+New Mexico,EIP,2020,2020,25,85+,null,null
+New Mexico,EIP,2020,2020,26,85+,null,null
+New Mexico,EIP,2020,2020,27,85+,null,null
+New Mexico,EIP,2020,2020,28,85+,null,null
+New Mexico,EIP,2020,2020,29,85+,null,null
+New Mexico,EIP,2020,2020,30,85+,null,null
+New Mexico,EIP,2020,2020,31,85+,null,null
+New Mexico,EIP,2020,2020,32,85+,null,null
+New Mexico,EIP,2020,2020,33,85+,null,null
+New Mexico,EIP,2020,2020,34,85+,null,null
+New Mexico,EIP,2020,2020,35,85+,null,null
+New Mexico,EIP,2020,2020,36,85+,null,null
+New Mexico,EIP,2020,2020,37,85+,null,null
+New Mexico,EIP,2020,2020,38,85+,null,null
+New Mexico,EIP,2020,2020,39,85+,null,null
+New York,EIP,2020,2020,10,0-4 yr,0,0
+New York,EIP,2020,2020,11,0-4 yr,0,0
+New York,EIP,2020,2020,12,0-4 yr,0,0
+New York,EIP,2020,2020,13,0-4 yr,0.9,0.9
+New York,EIP,2020,2020,14,0-4 yr,null,null
+New York,EIP,2020,2020,15,0-4 yr,null,null
+New York,EIP,2020,2020,16,0-4 yr,null,null
+New York,EIP,2020,2020,17,0-4 yr,null,null
+New York,EIP,2020,2020,18,0-4 yr,null,null
+New York,EIP,2020,2020,19,0-4 yr,null,null
+New York,EIP,2020,2020,20,0-4 yr,null,null
+New York,EIP,2020,2020,21,0-4 yr,null,null
+New York,EIP,2020,2020,22,0-4 yr,null,null
+New York,EIP,2020,2020,23,0-4 yr,null,null
+New York,EIP,2020,2020,24,0-4 yr,null,null
+New York,EIP,2020,2020,25,0-4 yr,null,null
+New York,EIP,2020,2020,26,0-4 yr,null,null
+New York,EIP,2020,2020,27,0-4 yr,null,null
+New York,EIP,2020,2020,28,0-4 yr,null,null
+New York,EIP,2020,2020,29,0-4 yr,null,null
+New York,EIP,2020,2020,30,0-4 yr,null,null
+New York,EIP,2020,2020,31,0-4 yr,null,null
+New York,EIP,2020,2020,32,0-4 yr,null,null
+New York,EIP,2020,2020,33,0-4 yr,null,null
+New York,EIP,2020,2020,34,0-4 yr,null,null
+New York,EIP,2020,2020,35,0-4 yr,null,null
+New York,EIP,2020,2020,36,0-4 yr,null,null
+New York,EIP,2020,2020,37,0-4 yr,null,null
+New York,EIP,2020,2020,38,0-4 yr,null,null
+New York,EIP,2020,2020,39,0-4 yr,null,null
+New York,EIP,2020,2020,10,5-17 yr,0,0
+New York,EIP,2020,2020,11,5-17 yr,0,0
+New York,EIP,2020,2020,12,5-17 yr,0,0
+New York,EIP,2020,2020,13,5-17 yr,0,0
+New York,EIP,2020,2020,14,5-17 yr,null,null
+New York,EIP,2020,2020,15,5-17 yr,null,null
+New York,EIP,2020,2020,16,5-17 yr,null,null
+New York,EIP,2020,2020,17,5-17 yr,null,null
+New York,EIP,2020,2020,18,5-17 yr,null,null
+New York,EIP,2020,2020,19,5-17 yr,null,null
+New York,EIP,2020,2020,20,5-17 yr,null,null
+New York,EIP,2020,2020,21,5-17 yr,null,null
+New York,EIP,2020,2020,22,5-17 yr,null,null
+New York,EIP,2020,2020,23,5-17 yr,null,null
+New York,EIP,2020,2020,24,5-17 yr,null,null
+New York,EIP,2020,2020,25,5-17 yr,null,null
+New York,EIP,2020,2020,26,5-17 yr,null,null
+New York,EIP,2020,2020,27,5-17 yr,null,null
+New York,EIP,2020,2020,28,5-17 yr,null,null
+New York,EIP,2020,2020,29,5-17 yr,null,null
+New York,EIP,2020,2020,30,5-17 yr,null,null
+New York,EIP,2020,2020,31,5-17 yr,null,null
+New York,EIP,2020,2020,32,5-17 yr,null,null
+New York,EIP,2020,2020,33,5-17 yr,null,null
+New York,EIP,2020,2020,34,5-17 yr,null,null
+New York,EIP,2020,2020,35,5-17 yr,null,null
+New York,EIP,2020,2020,36,5-17 yr,null,null
+New York,EIP,2020,2020,37,5-17 yr,null,null
+New York,EIP,2020,2020,38,5-17 yr,null,null
+New York,EIP,2020,2020,39,5-17 yr,null,null
+New York,EIP,2020,2020,10,18-49 yr,0,0
+New York,EIP,2020,2020,11,18-49 yr,0,0
+New York,EIP,2020,2020,12,18-49 yr,0.7,0.7
+New York,EIP,2020,2020,13,18-49 yr,2.9,2.3
+New York,EIP,2020,2020,14,18-49 yr,null,null
+New York,EIP,2020,2020,15,18-49 yr,null,null
+New York,EIP,2020,2020,16,18-49 yr,null,null
+New York,EIP,2020,2020,17,18-49 yr,null,null
+New York,EIP,2020,2020,18,18-49 yr,null,null
+New York,EIP,2020,2020,19,18-49 yr,null,null
+New York,EIP,2020,2020,20,18-49 yr,null,null
+New York,EIP,2020,2020,21,18-49 yr,null,null
+New York,EIP,2020,2020,22,18-49 yr,null,null
+New York,EIP,2020,2020,23,18-49 yr,null,null
+New York,EIP,2020,2020,24,18-49 yr,null,null
+New York,EIP,2020,2020,25,18-49 yr,null,null
+New York,EIP,2020,2020,26,18-49 yr,null,null
+New York,EIP,2020,2020,27,18-49 yr,null,null
+New York,EIP,2020,2020,28,18-49 yr,null,null
+New York,EIP,2020,2020,29,18-49 yr,null,null
+New York,EIP,2020,2020,30,18-49 yr,null,null
+New York,EIP,2020,2020,31,18-49 yr,null,null
+New York,EIP,2020,2020,32,18-49 yr,null,null
+New York,EIP,2020,2020,33,18-49 yr,null,null
+New York,EIP,2020,2020,34,18-49 yr,null,null
+New York,EIP,2020,2020,35,18-49 yr,null,null
+New York,EIP,2020,2020,36,18-49 yr,null,null
+New York,EIP,2020,2020,37,18-49 yr,null,null
+New York,EIP,2020,2020,38,18-49 yr,null,null
+New York,EIP,2020,2020,39,18-49 yr,null,null
+New York,EIP,2020,2020,10,50-64 yr,0,0
+New York,EIP,2020,2020,11,50-64 yr,0.4,0.4
+New York,EIP,2020,2020,12,50-64 yr,2.8,2.4
+New York,EIP,2020,2020,13,50-64 yr,9.8,7
+New York,EIP,2020,2020,14,50-64 yr,null,null
+New York,EIP,2020,2020,15,50-64 yr,null,null
+New York,EIP,2020,2020,16,50-64 yr,null,null
+New York,EIP,2020,2020,17,50-64 yr,null,null
+New York,EIP,2020,2020,18,50-64 yr,null,null
+New York,EIP,2020,2020,19,50-64 yr,null,null
+New York,EIP,2020,2020,20,50-64 yr,null,null
+New York,EIP,2020,2020,21,50-64 yr,null,null
+New York,EIP,2020,2020,22,50-64 yr,null,null
+New York,EIP,2020,2020,23,50-64 yr,null,null
+New York,EIP,2020,2020,24,50-64 yr,null,null
+New York,EIP,2020,2020,25,50-64 yr,null,null
+New York,EIP,2020,2020,26,50-64 yr,null,null
+New York,EIP,2020,2020,27,50-64 yr,null,null
+New York,EIP,2020,2020,28,50-64 yr,null,null
+New York,EIP,2020,2020,29,50-64 yr,null,null
+New York,EIP,2020,2020,30,50-64 yr,null,null
+New York,EIP,2020,2020,31,50-64 yr,null,null
+New York,EIP,2020,2020,32,50-64 yr,null,null
+New York,EIP,2020,2020,33,50-64 yr,null,null
+New York,EIP,2020,2020,34,50-64 yr,null,null
+New York,EIP,2020,2020,35,50-64 yr,null,null
+New York,EIP,2020,2020,36,50-64 yr,null,null
+New York,EIP,2020,2020,37,50-64 yr,null,null
+New York,EIP,2020,2020,38,50-64 yr,null,null
+New York,EIP,2020,2020,39,50-64 yr,null,null
+New York,EIP,2020,2020,10,65+ yr,0.3,0.3
+New York,EIP,2020,2020,11,65+ yr,2.1,1.8
+New York,EIP,2020,2020,12,65+ yr,8,5.9
+New York,EIP,2020,2020,13,65+ yr,23.6,15.7
+New York,EIP,2020,2020,14,65+ yr,null,null
+New York,EIP,2020,2020,15,65+ yr,null,null
+New York,EIP,2020,2020,16,65+ yr,null,null
+New York,EIP,2020,2020,17,65+ yr,null,null
+New York,EIP,2020,2020,18,65+ yr,null,null
+New York,EIP,2020,2020,19,65+ yr,null,null
+New York,EIP,2020,2020,20,65+ yr,null,null
+New York,EIP,2020,2020,21,65+ yr,null,null
+New York,EIP,2020,2020,22,65+ yr,null,null
+New York,EIP,2020,2020,23,65+ yr,null,null
+New York,EIP,2020,2020,24,65+ yr,null,null
+New York,EIP,2020,2020,25,65+ yr,null,null
+New York,EIP,2020,2020,26,65+ yr,null,null
+New York,EIP,2020,2020,27,65+ yr,null,null
+New York,EIP,2020,2020,28,65+ yr,null,null
+New York,EIP,2020,2020,29,65+ yr,null,null
+New York,EIP,2020,2020,30,65+ yr,null,null
+New York,EIP,2020,2020,31,65+ yr,null,null
+New York,EIP,2020,2020,32,65+ yr,null,null
+New York,EIP,2020,2020,33,65+ yr,null,null
+New York,EIP,2020,2020,34,65+ yr,null,null
+New York,EIP,2020,2020,35,65+ yr,null,null
+New York,EIP,2020,2020,36,65+ yr,null,null
+New York,EIP,2020,2020,37,65+ yr,null,null
+New York,EIP,2020,2020,38,65+ yr,null,null
+New York,EIP,2020,2020,39,65+ yr,null,null
+New York,EIP,2020,2020,10,Overall,0,0
+New York,EIP,2020,2020,11,Overall,0.5,0.4
+New York,EIP,2020,2020,12,Overall,2.3,1.8
+New York,EIP,2020,2020,13,Overall,7.6,5.3
+New York,EIP,2020,2020,14,Overall,null,null
+New York,EIP,2020,2020,15,Overall,null,null
+New York,EIP,2020,2020,16,Overall,null,null
+New York,EIP,2020,2020,17,Overall,null,null
+New York,EIP,2020,2020,18,Overall,null,null
+New York,EIP,2020,2020,19,Overall,null,null
+New York,EIP,2020,2020,20,Overall,null,null
+New York,EIP,2020,2020,21,Overall,null,null
+New York,EIP,2020,2020,22,Overall,null,null
+New York,EIP,2020,2020,23,Overall,null,null
+New York,EIP,2020,2020,24,Overall,null,null
+New York,EIP,2020,2020,25,Overall,null,null
+New York,EIP,2020,2020,26,Overall,null,null
+New York,EIP,2020,2020,27,Overall,null,null
+New York,EIP,2020,2020,28,Overall,null,null
+New York,EIP,2020,2020,29,Overall,null,null
+New York,EIP,2020,2020,30,Overall,null,null
+New York,EIP,2020,2020,31,Overall,null,null
+New York,EIP,2020,2020,32,Overall,null,null
+New York,EIP,2020,2020,33,Overall,null,null
+New York,EIP,2020,2020,34,Overall,null,null
+New York,EIP,2020,2020,35,Overall,null,null
+New York,EIP,2020,2020,36,Overall,null,null
+New York,EIP,2020,2020,37,Overall,null,null
+New York,EIP,2020,2020,38,Overall,null,null
+New York,EIP,2020,2020,39,Overall,null,null
+New York,EIP,2020,2020,10,65-74 yr,0,0
+New York,EIP,2020,2020,11,65-74 yr,3.1,3.1
+New York,EIP,2020,2020,12,65-74 yr,5.8,2.7
+New York,EIP,2020,2020,13,65-74 yr,20.9,15.1
+New York,EIP,2020,2020,14,65-74 yr,null,null
+New York,EIP,2020,2020,15,65-74 yr,null,null
+New York,EIP,2020,2020,16,65-74 yr,null,null
+New York,EIP,2020,2020,17,65-74 yr,null,null
+New York,EIP,2020,2020,18,65-74 yr,null,null
+New York,EIP,2020,2020,19,65-74 yr,null,null
+New York,EIP,2020,2020,20,65-74 yr,null,null
+New York,EIP,2020,2020,21,65-74 yr,null,null
+New York,EIP,2020,2020,22,65-74 yr,null,null
+New York,EIP,2020,2020,23,65-74 yr,null,null
+New York,EIP,2020,2020,24,65-74 yr,null,null
+New York,EIP,2020,2020,25,65-74 yr,null,null
+New York,EIP,2020,2020,26,65-74 yr,null,null
+New York,EIP,2020,2020,27,65-74 yr,null,null
+New York,EIP,2020,2020,28,65-74 yr,null,null
+New York,EIP,2020,2020,29,65-74 yr,null,null
+New York,EIP,2020,2020,30,65-74 yr,null,null
+New York,EIP,2020,2020,31,65-74 yr,null,null
+New York,EIP,2020,2020,32,65-74 yr,null,null
+New York,EIP,2020,2020,33,65-74 yr,null,null
+New York,EIP,2020,2020,34,65-74 yr,null,null
+New York,EIP,2020,2020,35,65-74 yr,null,null
+New York,EIP,2020,2020,36,65-74 yr,null,null
+New York,EIP,2020,2020,37,65-74 yr,null,null
+New York,EIP,2020,2020,38,65-74 yr,null,null
+New York,EIP,2020,2020,39,65-74 yr,null,null
+New York,EIP,2020,2020,10,75-84 yr,0.9,0.9
+New York,EIP,2020,2020,11,75-84 yr,0.9,0
+New York,EIP,2020,2020,12,75-84 yr,11.7,10.8
+New York,EIP,2020,2020,13,75-84 yr,29.6,17.9
+New York,EIP,2020,2020,14,75-84 yr,null,null
+New York,EIP,2020,2020,15,75-84 yr,null,null
+New York,EIP,2020,2020,16,75-84 yr,null,null
+New York,EIP,2020,2020,17,75-84 yr,null,null
+New York,EIP,2020,2020,18,75-84 yr,null,null
+New York,EIP,2020,2020,19,75-84 yr,null,null
+New York,EIP,2020,2020,20,75-84 yr,null,null
+New York,EIP,2020,2020,21,75-84 yr,null,null
+New York,EIP,2020,2020,22,75-84 yr,null,null
+New York,EIP,2020,2020,23,75-84 yr,null,null
+New York,EIP,2020,2020,24,75-84 yr,null,null
+New York,EIP,2020,2020,25,75-84 yr,null,null
+New York,EIP,2020,2020,26,75-84 yr,null,null
+New York,EIP,2020,2020,27,75-84 yr,null,null
+New York,EIP,2020,2020,28,75-84 yr,null,null
+New York,EIP,2020,2020,29,75-84 yr,null,null
+New York,EIP,2020,2020,30,75-84 yr,null,null
+New York,EIP,2020,2020,31,75-84 yr,null,null
+New York,EIP,2020,2020,32,75-84 yr,null,null
+New York,EIP,2020,2020,33,75-84 yr,null,null
+New York,EIP,2020,2020,34,75-84 yr,null,null
+New York,EIP,2020,2020,35,75-84 yr,null,null
+New York,EIP,2020,2020,36,75-84 yr,null,null
+New York,EIP,2020,2020,37,75-84 yr,null,null
+New York,EIP,2020,2020,38,75-84 yr,null,null
+New York,EIP,2020,2020,39,75-84 yr,null,null
+New York,EIP,2020,2020,10,85+,0,0
+New York,EIP,2020,2020,11,85+,0,0
+New York,EIP,2020,2020,12,85+,9.4,9.4
+New York,EIP,2020,2020,13,85+,22.4,13.1
+New York,EIP,2020,2020,14,85+,null,null
+New York,EIP,2020,2020,15,85+,null,null
+New York,EIP,2020,2020,16,85+,null,null
+New York,EIP,2020,2020,17,85+,null,null
+New York,EIP,2020,2020,18,85+,null,null
+New York,EIP,2020,2020,19,85+,null,null
+New York,EIP,2020,2020,20,85+,null,null
+New York,EIP,2020,2020,21,85+,null,null
+New York,EIP,2020,2020,22,85+,null,null
+New York,EIP,2020,2020,23,85+,null,null
+New York,EIP,2020,2020,24,85+,null,null
+New York,EIP,2020,2020,25,85+,null,null
+New York,EIP,2020,2020,26,85+,null,null
+New York,EIP,2020,2020,27,85+,null,null
+New York,EIP,2020,2020,28,85+,null,null
+New York,EIP,2020,2020,29,85+,null,null
+New York,EIP,2020,2020,30,85+,null,null
+New York,EIP,2020,2020,31,85+,null,null
+New York,EIP,2020,2020,32,85+,null,null
+New York,EIP,2020,2020,33,85+,null,null
+New York,EIP,2020,2020,34,85+,null,null
+New York,EIP,2020,2020,35,85+,null,null
+New York,EIP,2020,2020,36,85+,null,null
+New York,EIP,2020,2020,37,85+,null,null
+New York,EIP,2020,2020,38,85+,null,null
+New York,EIP,2020,2020,39,85+,null,null
+Oregon,EIP,2020,2020,10,0-4 yr,0,0
+Oregon,EIP,2020,2020,11,0-4 yr,0,0
+Oregon,EIP,2020,2020,12,0-4 yr,0,0
+Oregon,EIP,2020,2020,13,0-4 yr,0,0
+Oregon,EIP,2020,2020,14,0-4 yr,null,null
+Oregon,EIP,2020,2020,15,0-4 yr,null,null
+Oregon,EIP,2020,2020,16,0-4 yr,null,null
+Oregon,EIP,2020,2020,17,0-4 yr,null,null
+Oregon,EIP,2020,2020,18,0-4 yr,null,null
+Oregon,EIP,2020,2020,19,0-4 yr,null,null
+Oregon,EIP,2020,2020,20,0-4 yr,null,null
+Oregon,EIP,2020,2020,21,0-4 yr,null,null
+Oregon,EIP,2020,2020,22,0-4 yr,null,null
+Oregon,EIP,2020,2020,23,0-4 yr,null,null
+Oregon,EIP,2020,2020,24,0-4 yr,null,null
+Oregon,EIP,2020,2020,25,0-4 yr,null,null
+Oregon,EIP,2020,2020,26,0-4 yr,null,null
+Oregon,EIP,2020,2020,27,0-4 yr,null,null
+Oregon,EIP,2020,2020,28,0-4 yr,null,null
+Oregon,EIP,2020,2020,29,0-4 yr,null,null
+Oregon,EIP,2020,2020,30,0-4 yr,null,null
+Oregon,EIP,2020,2020,31,0-4 yr,null,null
+Oregon,EIP,2020,2020,32,0-4 yr,null,null
+Oregon,EIP,2020,2020,33,0-4 yr,null,null
+Oregon,EIP,2020,2020,34,0-4 yr,null,null
+Oregon,EIP,2020,2020,35,0-4 yr,null,null
+Oregon,EIP,2020,2020,36,0-4 yr,null,null
+Oregon,EIP,2020,2020,37,0-4 yr,null,null
+Oregon,EIP,2020,2020,38,0-4 yr,null,null
+Oregon,EIP,2020,2020,39,0-4 yr,null,null
+Oregon,EIP,2020,2020,10,5-17 yr,0,0
+Oregon,EIP,2020,2020,11,5-17 yr,0,0
+Oregon,EIP,2020,2020,12,5-17 yr,0,0
+Oregon,EIP,2020,2020,13,5-17 yr,0,0
+Oregon,EIP,2020,2020,14,5-17 yr,null,null
+Oregon,EIP,2020,2020,15,5-17 yr,null,null
+Oregon,EIP,2020,2020,16,5-17 yr,null,null
+Oregon,EIP,2020,2020,17,5-17 yr,null,null
+Oregon,EIP,2020,2020,18,5-17 yr,null,null
+Oregon,EIP,2020,2020,19,5-17 yr,null,null
+Oregon,EIP,2020,2020,20,5-17 yr,null,null
+Oregon,EIP,2020,2020,21,5-17 yr,null,null
+Oregon,EIP,2020,2020,22,5-17 yr,null,null
+Oregon,EIP,2020,2020,23,5-17 yr,null,null
+Oregon,EIP,2020,2020,24,5-17 yr,null,null
+Oregon,EIP,2020,2020,25,5-17 yr,null,null
+Oregon,EIP,2020,2020,26,5-17 yr,null,null
+Oregon,EIP,2020,2020,27,5-17 yr,null,null
+Oregon,EIP,2020,2020,28,5-17 yr,null,null
+Oregon,EIP,2020,2020,29,5-17 yr,null,null
+Oregon,EIP,2020,2020,30,5-17 yr,null,null
+Oregon,EIP,2020,2020,31,5-17 yr,null,null
+Oregon,EIP,2020,2020,32,5-17 yr,null,null
+Oregon,EIP,2020,2020,33,5-17 yr,null,null
+Oregon,EIP,2020,2020,34,5-17 yr,null,null
+Oregon,EIP,2020,2020,35,5-17 yr,null,null
+Oregon,EIP,2020,2020,36,5-17 yr,null,null
+Oregon,EIP,2020,2020,37,5-17 yr,null,null
+Oregon,EIP,2020,2020,38,5-17 yr,null,null
+Oregon,EIP,2020,2020,39,5-17 yr,null,null
+Oregon,EIP,2020,2020,10,18-49 yr,0,0
+Oregon,EIP,2020,2020,11,18-49 yr,0.2,0.2
+Oregon,EIP,2020,2020,12,18-49 yr,0.4,0.1
+Oregon,EIP,2020,2020,13,18-49 yr,0.4,0
+Oregon,EIP,2020,2020,14,18-49 yr,null,null
+Oregon,EIP,2020,2020,15,18-49 yr,null,null
+Oregon,EIP,2020,2020,16,18-49 yr,null,null
+Oregon,EIP,2020,2020,17,18-49 yr,null,null
+Oregon,EIP,2020,2020,18,18-49 yr,null,null
+Oregon,EIP,2020,2020,19,18-49 yr,null,null
+Oregon,EIP,2020,2020,20,18-49 yr,null,null
+Oregon,EIP,2020,2020,21,18-49 yr,null,null
+Oregon,EIP,2020,2020,22,18-49 yr,null,null
+Oregon,EIP,2020,2020,23,18-49 yr,null,null
+Oregon,EIP,2020,2020,24,18-49 yr,null,null
+Oregon,EIP,2020,2020,25,18-49 yr,null,null
+Oregon,EIP,2020,2020,26,18-49 yr,null,null
+Oregon,EIP,2020,2020,27,18-49 yr,null,null
+Oregon,EIP,2020,2020,28,18-49 yr,null,null
+Oregon,EIP,2020,2020,29,18-49 yr,null,null
+Oregon,EIP,2020,2020,30,18-49 yr,null,null
+Oregon,EIP,2020,2020,31,18-49 yr,null,null
+Oregon,EIP,2020,2020,32,18-49 yr,null,null
+Oregon,EIP,2020,2020,33,18-49 yr,null,null
+Oregon,EIP,2020,2020,34,18-49 yr,null,null
+Oregon,EIP,2020,2020,35,18-49 yr,null,null
+Oregon,EIP,2020,2020,36,18-49 yr,null,null
+Oregon,EIP,2020,2020,37,18-49 yr,null,null
+Oregon,EIP,2020,2020,38,18-49 yr,null,null
+Oregon,EIP,2020,2020,39,18-49 yr,null,null
+Oregon,EIP,2020,2020,10,50-64 yr,0,0
+Oregon,EIP,2020,2020,11,50-64 yr,0.6,0.6
+Oregon,EIP,2020,2020,12,50-64 yr,1.2,0.6
+Oregon,EIP,2020,2020,13,50-64 yr,1.2,0
+Oregon,EIP,2020,2020,14,50-64 yr,null,null
+Oregon,EIP,2020,2020,15,50-64 yr,null,null
+Oregon,EIP,2020,2020,16,50-64 yr,null,null
+Oregon,EIP,2020,2020,17,50-64 yr,null,null
+Oregon,EIP,2020,2020,18,50-64 yr,null,null
+Oregon,EIP,2020,2020,19,50-64 yr,null,null
+Oregon,EIP,2020,2020,20,50-64 yr,null,null
+Oregon,EIP,2020,2020,21,50-64 yr,null,null
+Oregon,EIP,2020,2020,22,50-64 yr,null,null
+Oregon,EIP,2020,2020,23,50-64 yr,null,null
+Oregon,EIP,2020,2020,24,50-64 yr,null,null
+Oregon,EIP,2020,2020,25,50-64 yr,null,null
+Oregon,EIP,2020,2020,26,50-64 yr,null,null
+Oregon,EIP,2020,2020,27,50-64 yr,null,null
+Oregon,EIP,2020,2020,28,50-64 yr,null,null
+Oregon,EIP,2020,2020,29,50-64 yr,null,null
+Oregon,EIP,2020,2020,30,50-64 yr,null,null
+Oregon,EIP,2020,2020,31,50-64 yr,null,null
+Oregon,EIP,2020,2020,32,50-64 yr,null,null
+Oregon,EIP,2020,2020,33,50-64 yr,null,null
+Oregon,EIP,2020,2020,34,50-64 yr,null,null
+Oregon,EIP,2020,2020,35,50-64 yr,null,null
+Oregon,EIP,2020,2020,36,50-64 yr,null,null
+Oregon,EIP,2020,2020,37,50-64 yr,null,null
+Oregon,EIP,2020,2020,38,50-64 yr,null,null
+Oregon,EIP,2020,2020,39,50-64 yr,null,null
+Oregon,EIP,2020,2020,10,65+ yr,0.4,0.4
+Oregon,EIP,2020,2020,11,65+ yr,1.5,1.1
+Oregon,EIP,2020,2020,12,65+ yr,2.3,0.8
+Oregon,EIP,2020,2020,13,65+ yr,2.3,0
+Oregon,EIP,2020,2020,14,65+ yr,null,null
+Oregon,EIP,2020,2020,15,65+ yr,null,null
+Oregon,EIP,2020,2020,16,65+ yr,null,null
+Oregon,EIP,2020,2020,17,65+ yr,null,null
+Oregon,EIP,2020,2020,18,65+ yr,null,null
+Oregon,EIP,2020,2020,19,65+ yr,null,null
+Oregon,EIP,2020,2020,20,65+ yr,null,null
+Oregon,EIP,2020,2020,21,65+ yr,null,null
+Oregon,EIP,2020,2020,22,65+ yr,null,null
+Oregon,EIP,2020,2020,23,65+ yr,null,null
+Oregon,EIP,2020,2020,24,65+ yr,null,null
+Oregon,EIP,2020,2020,25,65+ yr,null,null
+Oregon,EIP,2020,2020,26,65+ yr,null,null
+Oregon,EIP,2020,2020,27,65+ yr,null,null
+Oregon,EIP,2020,2020,28,65+ yr,null,null
+Oregon,EIP,2020,2020,29,65+ yr,null,null
+Oregon,EIP,2020,2020,30,65+ yr,null,null
+Oregon,EIP,2020,2020,31,65+ yr,null,null
+Oregon,EIP,2020,2020,32,65+ yr,null,null
+Oregon,EIP,2020,2020,33,65+ yr,null,null
+Oregon,EIP,2020,2020,34,65+ yr,null,null
+Oregon,EIP,2020,2020,35,65+ yr,null,null
+Oregon,EIP,2020,2020,36,65+ yr,null,null
+Oregon,EIP,2020,2020,37,65+ yr,null,null
+Oregon,EIP,2020,2020,38,65+ yr,null,null
+Oregon,EIP,2020,2020,39,65+ yr,null,null
+Oregon,EIP,2020,2020,10,Overall,0.1,0.1
+Oregon,EIP,2020,2020,11,Overall,0.4,0.4
+Oregon,EIP,2020,2020,12,Overall,0.7,0.3
+Oregon,EIP,2020,2020,13,Overall,0.7,0
+Oregon,EIP,2020,2020,14,Overall,null,null
+Oregon,EIP,2020,2020,15,Overall,null,null
+Oregon,EIP,2020,2020,16,Overall,null,null
+Oregon,EIP,2020,2020,17,Overall,null,null
+Oregon,EIP,2020,2020,18,Overall,null,null
+Oregon,EIP,2020,2020,19,Overall,null,null
+Oregon,EIP,2020,2020,20,Overall,null,null
+Oregon,EIP,2020,2020,21,Overall,null,null
+Oregon,EIP,2020,2020,22,Overall,null,null
+Oregon,EIP,2020,2020,23,Overall,null,null
+Oregon,EIP,2020,2020,24,Overall,null,null
+Oregon,EIP,2020,2020,25,Overall,null,null
+Oregon,EIP,2020,2020,26,Overall,null,null
+Oregon,EIP,2020,2020,27,Overall,null,null
+Oregon,EIP,2020,2020,28,Overall,null,null
+Oregon,EIP,2020,2020,29,Overall,null,null
+Oregon,EIP,2020,2020,30,Overall,null,null
+Oregon,EIP,2020,2020,31,Overall,null,null
+Oregon,EIP,2020,2020,32,Overall,null,null
+Oregon,EIP,2020,2020,33,Overall,null,null
+Oregon,EIP,2020,2020,34,Overall,null,null
+Oregon,EIP,2020,2020,35,Overall,null,null
+Oregon,EIP,2020,2020,36,Overall,null,null
+Oregon,EIP,2020,2020,37,Overall,null,null
+Oregon,EIP,2020,2020,38,Overall,null,null
+Oregon,EIP,2020,2020,39,Overall,null,null
+Oregon,EIP,2020,2020,10,65-74 yr,0.6,0.6
+Oregon,EIP,2020,2020,11,65-74 yr,2.4,1.8
+Oregon,EIP,2020,2020,12,65-74 yr,2.4,0
+Oregon,EIP,2020,2020,13,65-74 yr,2.4,0
+Oregon,EIP,2020,2020,14,65-74 yr,null,null
+Oregon,EIP,2020,2020,15,65-74 yr,null,null
+Oregon,EIP,2020,2020,16,65-74 yr,null,null
+Oregon,EIP,2020,2020,17,65-74 yr,null,null
+Oregon,EIP,2020,2020,18,65-74 yr,null,null
+Oregon,EIP,2020,2020,19,65-74 yr,null,null
+Oregon,EIP,2020,2020,20,65-74 yr,null,null
+Oregon,EIP,2020,2020,21,65-74 yr,null,null
+Oregon,EIP,2020,2020,22,65-74 yr,null,null
+Oregon,EIP,2020,2020,23,65-74 yr,null,null
+Oregon,EIP,2020,2020,24,65-74 yr,null,null
+Oregon,EIP,2020,2020,25,65-74 yr,null,null
+Oregon,EIP,2020,2020,26,65-74 yr,null,null
+Oregon,EIP,2020,2020,27,65-74 yr,null,null
+Oregon,EIP,2020,2020,28,65-74 yr,null,null
+Oregon,EIP,2020,2020,29,65-74 yr,null,null
+Oregon,EIP,2020,2020,30,65-74 yr,null,null
+Oregon,EIP,2020,2020,31,65-74 yr,null,null
+Oregon,EIP,2020,2020,32,65-74 yr,null,null
+Oregon,EIP,2020,2020,33,65-74 yr,null,null
+Oregon,EIP,2020,2020,34,65-74 yr,null,null
+Oregon,EIP,2020,2020,35,65-74 yr,null,null
+Oregon,EIP,2020,2020,36,65-74 yr,null,null
+Oregon,EIP,2020,2020,37,65-74 yr,null,null
+Oregon,EIP,2020,2020,38,65-74 yr,null,null
+Oregon,EIP,2020,2020,39,65-74 yr,null,null
+Oregon,EIP,2020,2020,10,75-84 yr,0,0
+Oregon,EIP,2020,2020,11,75-84 yr,0,0
+Oregon,EIP,2020,2020,12,75-84 yr,2.9,2.9
+Oregon,EIP,2020,2020,13,75-84 yr,2.9,0
+Oregon,EIP,2020,2020,14,75-84 yr,null,null
+Oregon,EIP,2020,2020,15,75-84 yr,null,null
+Oregon,EIP,2020,2020,16,75-84 yr,null,null
+Oregon,EIP,2020,2020,17,75-84 yr,null,null
+Oregon,EIP,2020,2020,18,75-84 yr,null,null
+Oregon,EIP,2020,2020,19,75-84 yr,null,null
+Oregon,EIP,2020,2020,20,75-84 yr,null,null
+Oregon,EIP,2020,2020,21,75-84 yr,null,null
+Oregon,EIP,2020,2020,22,75-84 yr,null,null
+Oregon,EIP,2020,2020,23,75-84 yr,null,null
+Oregon,EIP,2020,2020,24,75-84 yr,null,null
+Oregon,EIP,2020,2020,25,75-84 yr,null,null
+Oregon,EIP,2020,2020,26,75-84 yr,null,null
+Oregon,EIP,2020,2020,27,75-84 yr,null,null
+Oregon,EIP,2020,2020,28,75-84 yr,null,null
+Oregon,EIP,2020,2020,29,75-84 yr,null,null
+Oregon,EIP,2020,2020,30,75-84 yr,null,null
+Oregon,EIP,2020,2020,31,75-84 yr,null,null
+Oregon,EIP,2020,2020,32,75-84 yr,null,null
+Oregon,EIP,2020,2020,33,75-84 yr,null,null
+Oregon,EIP,2020,2020,34,75-84 yr,null,null
+Oregon,EIP,2020,2020,35,75-84 yr,null,null
+Oregon,EIP,2020,2020,36,75-84 yr,null,null
+Oregon,EIP,2020,2020,37,75-84 yr,null,null
+Oregon,EIP,2020,2020,38,75-84 yr,null,null
+Oregon,EIP,2020,2020,39,75-84 yr,null,null
+Oregon,EIP,2020,2020,10,85+,0,0
+Oregon,EIP,2020,2020,11,85+,0,0
+Oregon,EIP,2020,2020,12,85+,0,0
+Oregon,EIP,2020,2020,13,85+,0,0
+Oregon,EIP,2020,2020,14,85+,null,null
+Oregon,EIP,2020,2020,15,85+,null,null
+Oregon,EIP,2020,2020,16,85+,null,null
+Oregon,EIP,2020,2020,17,85+,null,null
+Oregon,EIP,2020,2020,18,85+,null,null
+Oregon,EIP,2020,2020,19,85+,null,null
+Oregon,EIP,2020,2020,20,85+,null,null
+Oregon,EIP,2020,2020,21,85+,null,null
+Oregon,EIP,2020,2020,22,85+,null,null
+Oregon,EIP,2020,2020,23,85+,null,null
+Oregon,EIP,2020,2020,24,85+,null,null
+Oregon,EIP,2020,2020,25,85+,null,null
+Oregon,EIP,2020,2020,26,85+,null,null
+Oregon,EIP,2020,2020,27,85+,null,null
+Oregon,EIP,2020,2020,28,85+,null,null
+Oregon,EIP,2020,2020,29,85+,null,null
+Oregon,EIP,2020,2020,30,85+,null,null
+Oregon,EIP,2020,2020,31,85+,null,null
+Oregon,EIP,2020,2020,32,85+,null,null
+Oregon,EIP,2020,2020,33,85+,null,null
+Oregon,EIP,2020,2020,34,85+,null,null
+Oregon,EIP,2020,2020,35,85+,null,null
+Oregon,EIP,2020,2020,36,85+,null,null
+Oregon,EIP,2020,2020,37,85+,null,null
+Oregon,EIP,2020,2020,38,85+,null,null
+Oregon,EIP,2020,2020,39,85+,null,null
+Tennessee,EIP,2020,2020,10,0-4 yr,0,0
+Tennessee,EIP,2020,2020,11,0-4 yr,0,0
+Tennessee,EIP,2020,2020,12,0-4 yr,0,0
+Tennessee,EIP,2020,2020,13,0-4 yr,0,0
+Tennessee,EIP,2020,2020,14,0-4 yr,null,null
+Tennessee,EIP,2020,2020,15,0-4 yr,null,null
+Tennessee,EIP,2020,2020,16,0-4 yr,null,null
+Tennessee,EIP,2020,2020,17,0-4 yr,null,null
+Tennessee,EIP,2020,2020,18,0-4 yr,null,null
+Tennessee,EIP,2020,2020,19,0-4 yr,null,null
+Tennessee,EIP,2020,2020,20,0-4 yr,null,null
+Tennessee,EIP,2020,2020,21,0-4 yr,null,null
+Tennessee,EIP,2020,2020,22,0-4 yr,null,null
+Tennessee,EIP,2020,2020,23,0-4 yr,null,null
+Tennessee,EIP,2020,2020,24,0-4 yr,null,null
+Tennessee,EIP,2020,2020,25,0-4 yr,null,null
+Tennessee,EIP,2020,2020,26,0-4 yr,null,null
+Tennessee,EIP,2020,2020,27,0-4 yr,null,null
+Tennessee,EIP,2020,2020,28,0-4 yr,null,null
+Tennessee,EIP,2020,2020,29,0-4 yr,null,null
+Tennessee,EIP,2020,2020,30,0-4 yr,null,null
+Tennessee,EIP,2020,2020,31,0-4 yr,null,null
+Tennessee,EIP,2020,2020,32,0-4 yr,null,null
+Tennessee,EIP,2020,2020,33,0-4 yr,null,null
+Tennessee,EIP,2020,2020,34,0-4 yr,null,null
+Tennessee,EIP,2020,2020,35,0-4 yr,null,null
+Tennessee,EIP,2020,2020,36,0-4 yr,null,null
+Tennessee,EIP,2020,2020,37,0-4 yr,null,null
+Tennessee,EIP,2020,2020,38,0-4 yr,null,null
+Tennessee,EIP,2020,2020,39,0-4 yr,null,null
+Tennessee,EIP,2020,2020,10,5-17 yr,0,0
+Tennessee,EIP,2020,2020,11,5-17 yr,0,0
+Tennessee,EIP,2020,2020,12,5-17 yr,0,0
+Tennessee,EIP,2020,2020,13,5-17 yr,0,0
+Tennessee,EIP,2020,2020,14,5-17 yr,null,null
+Tennessee,EIP,2020,2020,15,5-17 yr,null,null
+Tennessee,EIP,2020,2020,16,5-17 yr,null,null
+Tennessee,EIP,2020,2020,17,5-17 yr,null,null
+Tennessee,EIP,2020,2020,18,5-17 yr,null,null
+Tennessee,EIP,2020,2020,19,5-17 yr,null,null
+Tennessee,EIP,2020,2020,20,5-17 yr,null,null
+Tennessee,EIP,2020,2020,21,5-17 yr,null,null
+Tennessee,EIP,2020,2020,22,5-17 yr,null,null
+Tennessee,EIP,2020,2020,23,5-17 yr,null,null
+Tennessee,EIP,2020,2020,24,5-17 yr,null,null
+Tennessee,EIP,2020,2020,25,5-17 yr,null,null
+Tennessee,EIP,2020,2020,26,5-17 yr,null,null
+Tennessee,EIP,2020,2020,27,5-17 yr,null,null
+Tennessee,EIP,2020,2020,28,5-17 yr,null,null
+Tennessee,EIP,2020,2020,29,5-17 yr,null,null
+Tennessee,EIP,2020,2020,30,5-17 yr,null,null
+Tennessee,EIP,2020,2020,31,5-17 yr,null,null
+Tennessee,EIP,2020,2020,32,5-17 yr,null,null
+Tennessee,EIP,2020,2020,33,5-17 yr,null,null
+Tennessee,EIP,2020,2020,34,5-17 yr,null,null
+Tennessee,EIP,2020,2020,35,5-17 yr,null,null
+Tennessee,EIP,2020,2020,36,5-17 yr,null,null
+Tennessee,EIP,2020,2020,37,5-17 yr,null,null
+Tennessee,EIP,2020,2020,38,5-17 yr,null,null
+Tennessee,EIP,2020,2020,39,5-17 yr,null,null
+Tennessee,EIP,2020,2020,10,18-49 yr,0.1,0.1
+Tennessee,EIP,2020,2020,11,18-49 yr,0.5,0.4
+Tennessee,EIP,2020,2020,12,18-49 yr,1.6,1.1
+Tennessee,EIP,2020,2020,13,18-49 yr,4.6,2.9
+Tennessee,EIP,2020,2020,14,18-49 yr,null,null
+Tennessee,EIP,2020,2020,15,18-49 yr,null,null
+Tennessee,EIP,2020,2020,16,18-49 yr,null,null
+Tennessee,EIP,2020,2020,17,18-49 yr,null,null
+Tennessee,EIP,2020,2020,18,18-49 yr,null,null
+Tennessee,EIP,2020,2020,19,18-49 yr,null,null
+Tennessee,EIP,2020,2020,20,18-49 yr,null,null
+Tennessee,EIP,2020,2020,21,18-49 yr,null,null
+Tennessee,EIP,2020,2020,22,18-49 yr,null,null
+Tennessee,EIP,2020,2020,23,18-49 yr,null,null
+Tennessee,EIP,2020,2020,24,18-49 yr,null,null
+Tennessee,EIP,2020,2020,25,18-49 yr,null,null
+Tennessee,EIP,2020,2020,26,18-49 yr,null,null
+Tennessee,EIP,2020,2020,27,18-49 yr,null,null
+Tennessee,EIP,2020,2020,28,18-49 yr,null,null
+Tennessee,EIP,2020,2020,29,18-49 yr,null,null
+Tennessee,EIP,2020,2020,30,18-49 yr,null,null
+Tennessee,EIP,2020,2020,31,18-49 yr,null,null
+Tennessee,EIP,2020,2020,32,18-49 yr,null,null
+Tennessee,EIP,2020,2020,33,18-49 yr,null,null
+Tennessee,EIP,2020,2020,34,18-49 yr,null,null
+Tennessee,EIP,2020,2020,35,18-49 yr,null,null
+Tennessee,EIP,2020,2020,36,18-49 yr,null,null
+Tennessee,EIP,2020,2020,37,18-49 yr,null,null
+Tennessee,EIP,2020,2020,38,18-49 yr,null,null
+Tennessee,EIP,2020,2020,39,18-49 yr,null,null
+Tennessee,EIP,2020,2020,10,50-64 yr,0,0
+Tennessee,EIP,2020,2020,11,50-64 yr,0.9,0.9
+Tennessee,EIP,2020,2020,12,50-64 yr,5,4
+Tennessee,EIP,2020,2020,13,50-64 yr,12.4,7.5
+Tennessee,EIP,2020,2020,14,50-64 yr,null,null
+Tennessee,EIP,2020,2020,15,50-64 yr,null,null
+Tennessee,EIP,2020,2020,16,50-64 yr,null,null
+Tennessee,EIP,2020,2020,17,50-64 yr,null,null
+Tennessee,EIP,2020,2020,18,50-64 yr,null,null
+Tennessee,EIP,2020,2020,19,50-64 yr,null,null
+Tennessee,EIP,2020,2020,20,50-64 yr,null,null
+Tennessee,EIP,2020,2020,21,50-64 yr,null,null
+Tennessee,EIP,2020,2020,22,50-64 yr,null,null
+Tennessee,EIP,2020,2020,23,50-64 yr,null,null
+Tennessee,EIP,2020,2020,24,50-64 yr,null,null
+Tennessee,EIP,2020,2020,25,50-64 yr,null,null
+Tennessee,EIP,2020,2020,26,50-64 yr,null,null
+Tennessee,EIP,2020,2020,27,50-64 yr,null,null
+Tennessee,EIP,2020,2020,28,50-64 yr,null,null
+Tennessee,EIP,2020,2020,29,50-64 yr,null,null
+Tennessee,EIP,2020,2020,30,50-64 yr,null,null
+Tennessee,EIP,2020,2020,31,50-64 yr,null,null
+Tennessee,EIP,2020,2020,32,50-64 yr,null,null
+Tennessee,EIP,2020,2020,33,50-64 yr,null,null
+Tennessee,EIP,2020,2020,34,50-64 yr,null,null
+Tennessee,EIP,2020,2020,35,50-64 yr,null,null
+Tennessee,EIP,2020,2020,36,50-64 yr,null,null
+Tennessee,EIP,2020,2020,37,50-64 yr,null,null
+Tennessee,EIP,2020,2020,38,50-64 yr,null,null
+Tennessee,EIP,2020,2020,39,50-64 yr,null,null
+Tennessee,EIP,2020,2020,10,65+ yr,0,0
+Tennessee,EIP,2020,2020,11,65+ yr,1.3,1.3
+Tennessee,EIP,2020,2020,12,65+ yr,7.1,5.7
+Tennessee,EIP,2020,2020,13,65+ yr,19,11.9
+Tennessee,EIP,2020,2020,14,65+ yr,null,null
+Tennessee,EIP,2020,2020,15,65+ yr,null,null
+Tennessee,EIP,2020,2020,16,65+ yr,null,null
+Tennessee,EIP,2020,2020,17,65+ yr,null,null
+Tennessee,EIP,2020,2020,18,65+ yr,null,null
+Tennessee,EIP,2020,2020,19,65+ yr,null,null
+Tennessee,EIP,2020,2020,20,65+ yr,null,null
+Tennessee,EIP,2020,2020,21,65+ yr,null,null
+Tennessee,EIP,2020,2020,22,65+ yr,null,null
+Tennessee,EIP,2020,2020,23,65+ yr,null,null
+Tennessee,EIP,2020,2020,24,65+ yr,null,null
+Tennessee,EIP,2020,2020,25,65+ yr,null,null
+Tennessee,EIP,2020,2020,26,65+ yr,null,null
+Tennessee,EIP,2020,2020,27,65+ yr,null,null
+Tennessee,EIP,2020,2020,28,65+ yr,null,null
+Tennessee,EIP,2020,2020,29,65+ yr,null,null
+Tennessee,EIP,2020,2020,30,65+ yr,null,null
+Tennessee,EIP,2020,2020,31,65+ yr,null,null
+Tennessee,EIP,2020,2020,32,65+ yr,null,null
+Tennessee,EIP,2020,2020,33,65+ yr,null,null
+Tennessee,EIP,2020,2020,34,65+ yr,null,null
+Tennessee,EIP,2020,2020,35,65+ yr,null,null
+Tennessee,EIP,2020,2020,36,65+ yr,null,null
+Tennessee,EIP,2020,2020,37,65+ yr,null,null
+Tennessee,EIP,2020,2020,38,65+ yr,null,null
+Tennessee,EIP,2020,2020,39,65+ yr,null,null
+Tennessee,EIP,2020,2020,10,Overall,0.1,0.1
+Tennessee,EIP,2020,2020,11,Overall,0.6,0.5
+Tennessee,EIP,2020,2020,12,Overall,2.6,2
+Tennessee,EIP,2020,2020,13,Overall,6.8,4.2
+Tennessee,EIP,2020,2020,14,Overall,null,null
+Tennessee,EIP,2020,2020,15,Overall,null,null
+Tennessee,EIP,2020,2020,16,Overall,null,null
+Tennessee,EIP,2020,2020,17,Overall,null,null
+Tennessee,EIP,2020,2020,18,Overall,null,null
+Tennessee,EIP,2020,2020,19,Overall,null,null
+Tennessee,EIP,2020,2020,20,Overall,null,null
+Tennessee,EIP,2020,2020,21,Overall,null,null
+Tennessee,EIP,2020,2020,22,Overall,null,null
+Tennessee,EIP,2020,2020,23,Overall,null,null
+Tennessee,EIP,2020,2020,24,Overall,null,null
+Tennessee,EIP,2020,2020,25,Overall,null,null
+Tennessee,EIP,2020,2020,26,Overall,null,null
+Tennessee,EIP,2020,2020,27,Overall,null,null
+Tennessee,EIP,2020,2020,28,Overall,null,null
+Tennessee,EIP,2020,2020,29,Overall,null,null
+Tennessee,EIP,2020,2020,30,Overall,null,null
+Tennessee,EIP,2020,2020,31,Overall,null,null
+Tennessee,EIP,2020,2020,32,Overall,null,null
+Tennessee,EIP,2020,2020,33,Overall,null,null
+Tennessee,EIP,2020,2020,34,Overall,null,null
+Tennessee,EIP,2020,2020,35,Overall,null,null
+Tennessee,EIP,2020,2020,36,Overall,null,null
+Tennessee,EIP,2020,2020,37,Overall,null,null
+Tennessee,EIP,2020,2020,38,Overall,null,null
+Tennessee,EIP,2020,2020,39,Overall,null,null
+Tennessee,EIP,2020,2020,10,65-74 yr,0,0
+Tennessee,EIP,2020,2020,11,65-74 yr,1.4,1.4
+Tennessee,EIP,2020,2020,12,65-74 yr,8.6,7.2
+Tennessee,EIP,2020,2020,13,65-74 yr,20.1,11.5
+Tennessee,EIP,2020,2020,14,65-74 yr,null,null
+Tennessee,EIP,2020,2020,15,65-74 yr,null,null
+Tennessee,EIP,2020,2020,16,65-74 yr,null,null
+Tennessee,EIP,2020,2020,17,65-74 yr,null,null
+Tennessee,EIP,2020,2020,18,65-74 yr,null,null
+Tennessee,EIP,2020,2020,19,65-74 yr,null,null
+Tennessee,EIP,2020,2020,20,65-74 yr,null,null
+Tennessee,EIP,2020,2020,21,65-74 yr,null,null
+Tennessee,EIP,2020,2020,22,65-74 yr,null,null
+Tennessee,EIP,2020,2020,23,65-74 yr,null,null
+Tennessee,EIP,2020,2020,24,65-74 yr,null,null
+Tennessee,EIP,2020,2020,25,65-74 yr,null,null
+Tennessee,EIP,2020,2020,26,65-74 yr,null,null
+Tennessee,EIP,2020,2020,27,65-74 yr,null,null
+Tennessee,EIP,2020,2020,28,65-74 yr,null,null
+Tennessee,EIP,2020,2020,29,65-74 yr,null,null
+Tennessee,EIP,2020,2020,30,65-74 yr,null,null
+Tennessee,EIP,2020,2020,31,65-74 yr,null,null
+Tennessee,EIP,2020,2020,32,65-74 yr,null,null
+Tennessee,EIP,2020,2020,33,65-74 yr,null,null
+Tennessee,EIP,2020,2020,34,65-74 yr,null,null
+Tennessee,EIP,2020,2020,35,65-74 yr,null,null
+Tennessee,EIP,2020,2020,36,65-74 yr,null,null
+Tennessee,EIP,2020,2020,37,65-74 yr,null,null
+Tennessee,EIP,2020,2020,38,65-74 yr,null,null
+Tennessee,EIP,2020,2020,39,65-74 yr,null,null
+Tennessee,EIP,2020,2020,10,75-84 yr,0,0
+Tennessee,EIP,2020,2020,11,75-84 yr,1.6,1.6
+Tennessee,EIP,2020,2020,12,75-84 yr,6.3,4.7
+Tennessee,EIP,2020,2020,13,75-84 yr,20.6,14.2
+Tennessee,EIP,2020,2020,14,75-84 yr,null,null
+Tennessee,EIP,2020,2020,15,75-84 yr,null,null
+Tennessee,EIP,2020,2020,16,75-84 yr,null,null
+Tennessee,EIP,2020,2020,17,75-84 yr,null,null
+Tennessee,EIP,2020,2020,18,75-84 yr,null,null
+Tennessee,EIP,2020,2020,19,75-84 yr,null,null
+Tennessee,EIP,2020,2020,20,75-84 yr,null,null
+Tennessee,EIP,2020,2020,21,75-84 yr,null,null
+Tennessee,EIP,2020,2020,22,75-84 yr,null,null
+Tennessee,EIP,2020,2020,23,75-84 yr,null,null
+Tennessee,EIP,2020,2020,24,75-84 yr,null,null
+Tennessee,EIP,2020,2020,25,75-84 yr,null,null
+Tennessee,EIP,2020,2020,26,75-84 yr,null,null
+Tennessee,EIP,2020,2020,27,75-84 yr,null,null
+Tennessee,EIP,2020,2020,28,75-84 yr,null,null
+Tennessee,EIP,2020,2020,29,75-84 yr,null,null
+Tennessee,EIP,2020,2020,30,75-84 yr,null,null
+Tennessee,EIP,2020,2020,31,75-84 yr,null,null
+Tennessee,EIP,2020,2020,32,75-84 yr,null,null
+Tennessee,EIP,2020,2020,33,75-84 yr,null,null
+Tennessee,EIP,2020,2020,34,75-84 yr,null,null
+Tennessee,EIP,2020,2020,35,75-84 yr,null,null
+Tennessee,EIP,2020,2020,36,75-84 yr,null,null
+Tennessee,EIP,2020,2020,37,75-84 yr,null,null
+Tennessee,EIP,2020,2020,38,75-84 yr,null,null
+Tennessee,EIP,2020,2020,39,75-84 yr,null,null
+Tennessee,EIP,2020,2020,10,85+,0,0
+Tennessee,EIP,2020,2020,11,85+,0,0
+Tennessee,EIP,2020,2020,12,85+,0,0
+Tennessee,EIP,2020,2020,13,85+,8.4,8.4
+Tennessee,EIP,2020,2020,14,85+,null,null
+Tennessee,EIP,2020,2020,15,85+,null,null
+Tennessee,EIP,2020,2020,16,85+,null,null
+Tennessee,EIP,2020,2020,17,85+,null,null
+Tennessee,EIP,2020,2020,18,85+,null,null
+Tennessee,EIP,2020,2020,19,85+,null,null
+Tennessee,EIP,2020,2020,20,85+,null,null
+Tennessee,EIP,2020,2020,21,85+,null,null
+Tennessee,EIP,2020,2020,22,85+,null,null
+Tennessee,EIP,2020,2020,23,85+,null,null
+Tennessee,EIP,2020,2020,24,85+,null,null
+Tennessee,EIP,2020,2020,25,85+,null,null
+Tennessee,EIP,2020,2020,26,85+,null,null
+Tennessee,EIP,2020,2020,27,85+,null,null
+Tennessee,EIP,2020,2020,28,85+,null,null
+Tennessee,EIP,2020,2020,29,85+,null,null
+Tennessee,EIP,2020,2020,30,85+,null,null
+Tennessee,EIP,2020,2020,31,85+,null,null
+Tennessee,EIP,2020,2020,32,85+,null,null
+Tennessee,EIP,2020,2020,33,85+,null,null
+Tennessee,EIP,2020,2020,34,85+,null,null
+Tennessee,EIP,2020,2020,35,85+,null,null
+Tennessee,EIP,2020,2020,36,85+,null,null
+Tennessee,EIP,2020,2020,37,85+,null,null
+Tennessee,EIP,2020,2020,38,85+,null,null
+Tennessee,EIP,2020,2020,39,85+,null,null
+Entire Network,IHSP,2020,2020,10,0-4 yr,0,0
+Entire Network,IHSP,2020,2020,11,0-4 yr,0,0
+Entire Network,IHSP,2020,2020,12,0-4 yr,0,0
+Entire Network,IHSP,2020,2020,13,0-4 yr,0,0
+Entire Network,IHSP,2020,2020,14,0-4 yr,null,null
+Entire Network,IHSP,2020,2020,15,0-4 yr,null,null
+Entire Network,IHSP,2020,2020,16,0-4 yr,null,null
+Entire Network,IHSP,2020,2020,17,0-4 yr,null,null
+Entire Network,IHSP,2020,2020,18,0-4 yr,null,null
+Entire Network,IHSP,2020,2020,19,0-4 yr,null,null
+Entire Network,IHSP,2020,2020,20,0-4 yr,null,null
+Entire Network,IHSP,2020,2020,21,0-4 yr,null,null
+Entire Network,IHSP,2020,2020,22,0-4 yr,null,null
+Entire Network,IHSP,2020,2020,23,0-4 yr,null,null
+Entire Network,IHSP,2020,2020,24,0-4 yr,null,null
+Entire Network,IHSP,2020,2020,25,0-4 yr,null,null
+Entire Network,IHSP,2020,2020,26,0-4 yr,null,null
+Entire Network,IHSP,2020,2020,27,0-4 yr,null,null
+Entire Network,IHSP,2020,2020,28,0-4 yr,null,null
+Entire Network,IHSP,2020,2020,29,0-4 yr,null,null
+Entire Network,IHSP,2020,2020,30,0-4 yr,null,null
+Entire Network,IHSP,2020,2020,31,0-4 yr,null,null
+Entire Network,IHSP,2020,2020,32,0-4 yr,null,null
+Entire Network,IHSP,2020,2020,33,0-4 yr,null,null
+Entire Network,IHSP,2020,2020,34,0-4 yr,null,null
+Entire Network,IHSP,2020,2020,35,0-4 yr,null,null
+Entire Network,IHSP,2020,2020,36,0-4 yr,null,null
+Entire Network,IHSP,2020,2020,37,0-4 yr,null,null
+Entire Network,IHSP,2020,2020,38,0-4 yr,null,null
+Entire Network,IHSP,2020,2020,39,0-4 yr,null,null
+Entire Network,IHSP,2020,2020,10,5-17 yr,0,0
+Entire Network,IHSP,2020,2020,11,5-17 yr,0,0
+Entire Network,IHSP,2020,2020,12,5-17 yr,0,0
+Entire Network,IHSP,2020,2020,13,5-17 yr,0.1,0.1
+Entire Network,IHSP,2020,2020,14,5-17 yr,null,null
+Entire Network,IHSP,2020,2020,15,5-17 yr,null,null
+Entire Network,IHSP,2020,2020,16,5-17 yr,null,null
+Entire Network,IHSP,2020,2020,17,5-17 yr,null,null
+Entire Network,IHSP,2020,2020,18,5-17 yr,null,null
+Entire Network,IHSP,2020,2020,19,5-17 yr,null,null
+Entire Network,IHSP,2020,2020,20,5-17 yr,null,null
+Entire Network,IHSP,2020,2020,21,5-17 yr,null,null
+Entire Network,IHSP,2020,2020,22,5-17 yr,null,null
+Entire Network,IHSP,2020,2020,23,5-17 yr,null,null
+Entire Network,IHSP,2020,2020,24,5-17 yr,null,null
+Entire Network,IHSP,2020,2020,25,5-17 yr,null,null
+Entire Network,IHSP,2020,2020,26,5-17 yr,null,null
+Entire Network,IHSP,2020,2020,27,5-17 yr,null,null
+Entire Network,IHSP,2020,2020,28,5-17 yr,null,null
+Entire Network,IHSP,2020,2020,29,5-17 yr,null,null
+Entire Network,IHSP,2020,2020,30,5-17 yr,null,null
+Entire Network,IHSP,2020,2020,31,5-17 yr,null,null
+Entire Network,IHSP,2020,2020,32,5-17 yr,null,null
+Entire Network,IHSP,2020,2020,33,5-17 yr,null,null
+Entire Network,IHSP,2020,2020,34,5-17 yr,null,null
+Entire Network,IHSP,2020,2020,35,5-17 yr,null,null
+Entire Network,IHSP,2020,2020,36,5-17 yr,null,null
+Entire Network,IHSP,2020,2020,37,5-17 yr,null,null
+Entire Network,IHSP,2020,2020,38,5-17 yr,null,null
+Entire Network,IHSP,2020,2020,39,5-17 yr,null,null
+Entire Network,IHSP,2020,2020,10,18-49 yr,0,0
+Entire Network,IHSP,2020,2020,11,18-49 yr,0.1,0.1
+Entire Network,IHSP,2020,2020,12,18-49 yr,0.7,0.5
+Entire Network,IHSP,2020,2020,13,18-49 yr,2.2,1.6
+Entire Network,IHSP,2020,2020,14,18-49 yr,null,null
+Entire Network,IHSP,2020,2020,15,18-49 yr,null,null
+Entire Network,IHSP,2020,2020,16,18-49 yr,null,null
+Entire Network,IHSP,2020,2020,17,18-49 yr,null,null
+Entire Network,IHSP,2020,2020,18,18-49 yr,null,null
+Entire Network,IHSP,2020,2020,19,18-49 yr,null,null
+Entire Network,IHSP,2020,2020,20,18-49 yr,null,null
+Entire Network,IHSP,2020,2020,21,18-49 yr,null,null
+Entire Network,IHSP,2020,2020,22,18-49 yr,null,null
+Entire Network,IHSP,2020,2020,23,18-49 yr,null,null
+Entire Network,IHSP,2020,2020,24,18-49 yr,null,null
+Entire Network,IHSP,2020,2020,25,18-49 yr,null,null
+Entire Network,IHSP,2020,2020,26,18-49 yr,null,null
+Entire Network,IHSP,2020,2020,27,18-49 yr,null,null
+Entire Network,IHSP,2020,2020,28,18-49 yr,null,null
+Entire Network,IHSP,2020,2020,29,18-49 yr,null,null
+Entire Network,IHSP,2020,2020,30,18-49 yr,null,null
+Entire Network,IHSP,2020,2020,31,18-49 yr,null,null
+Entire Network,IHSP,2020,2020,32,18-49 yr,null,null
+Entire Network,IHSP,2020,2020,33,18-49 yr,null,null
+Entire Network,IHSP,2020,2020,34,18-49 yr,null,null
+Entire Network,IHSP,2020,2020,35,18-49 yr,null,null
+Entire Network,IHSP,2020,2020,36,18-49 yr,null,null
+Entire Network,IHSP,2020,2020,37,18-49 yr,null,null
+Entire Network,IHSP,2020,2020,38,18-49 yr,null,null
+Entire Network,IHSP,2020,2020,39,18-49 yr,null,null
+Entire Network,IHSP,2020,2020,10,50-64 yr,0,0
+Entire Network,IHSP,2020,2020,11,50-64 yr,0.1,0.1
+Entire Network,IHSP,2020,2020,12,50-64 yr,2.4,2.3
+Entire Network,IHSP,2020,2020,13,50-64 yr,7,4.6
+Entire Network,IHSP,2020,2020,14,50-64 yr,null,null
+Entire Network,IHSP,2020,2020,15,50-64 yr,null,null
+Entire Network,IHSP,2020,2020,16,50-64 yr,null,null
+Entire Network,IHSP,2020,2020,17,50-64 yr,null,null
+Entire Network,IHSP,2020,2020,18,50-64 yr,null,null
+Entire Network,IHSP,2020,2020,19,50-64 yr,null,null
+Entire Network,IHSP,2020,2020,20,50-64 yr,null,null
+Entire Network,IHSP,2020,2020,21,50-64 yr,null,null
+Entire Network,IHSP,2020,2020,22,50-64 yr,null,null
+Entire Network,IHSP,2020,2020,23,50-64 yr,null,null
+Entire Network,IHSP,2020,2020,24,50-64 yr,null,null
+Entire Network,IHSP,2020,2020,25,50-64 yr,null,null
+Entire Network,IHSP,2020,2020,26,50-64 yr,null,null
+Entire Network,IHSP,2020,2020,27,50-64 yr,null,null
+Entire Network,IHSP,2020,2020,28,50-64 yr,null,null
+Entire Network,IHSP,2020,2020,29,50-64 yr,null,null
+Entire Network,IHSP,2020,2020,30,50-64 yr,null,null
+Entire Network,IHSP,2020,2020,31,50-64 yr,null,null
+Entire Network,IHSP,2020,2020,32,50-64 yr,null,null
+Entire Network,IHSP,2020,2020,33,50-64 yr,null,null
+Entire Network,IHSP,2020,2020,34,50-64 yr,null,null
+Entire Network,IHSP,2020,2020,35,50-64 yr,null,null
+Entire Network,IHSP,2020,2020,36,50-64 yr,null,null
+Entire Network,IHSP,2020,2020,37,50-64 yr,null,null
+Entire Network,IHSP,2020,2020,38,50-64 yr,null,null
+Entire Network,IHSP,2020,2020,39,50-64 yr,null,null
+Entire Network,IHSP,2020,2020,10,65+ yr,0.2,0.2
+Entire Network,IHSP,2020,2020,11,65+ yr,0.3,0.2
+Entire Network,IHSP,2020,2020,12,65+ yr,5.8,5.5
+Entire Network,IHSP,2020,2020,13,65+ yr,13.8,8
+Entire Network,IHSP,2020,2020,14,65+ yr,null,null
+Entire Network,IHSP,2020,2020,15,65+ yr,null,null
+Entire Network,IHSP,2020,2020,16,65+ yr,null,null
+Entire Network,IHSP,2020,2020,17,65+ yr,null,null
+Entire Network,IHSP,2020,2020,18,65+ yr,null,null
+Entire Network,IHSP,2020,2020,19,65+ yr,null,null
+Entire Network,IHSP,2020,2020,20,65+ yr,null,null
+Entire Network,IHSP,2020,2020,21,65+ yr,null,null
+Entire Network,IHSP,2020,2020,22,65+ yr,null,null
+Entire Network,IHSP,2020,2020,23,65+ yr,null,null
+Entire Network,IHSP,2020,2020,24,65+ yr,null,null
+Entire Network,IHSP,2020,2020,25,65+ yr,null,null
+Entire Network,IHSP,2020,2020,26,65+ yr,null,null
+Entire Network,IHSP,2020,2020,27,65+ yr,null,null
+Entire Network,IHSP,2020,2020,28,65+ yr,null,null
+Entire Network,IHSP,2020,2020,29,65+ yr,null,null
+Entire Network,IHSP,2020,2020,30,65+ yr,null,null
+Entire Network,IHSP,2020,2020,31,65+ yr,null,null
+Entire Network,IHSP,2020,2020,32,65+ yr,null,null
+Entire Network,IHSP,2020,2020,33,65+ yr,null,null
+Entire Network,IHSP,2020,2020,34,65+ yr,null,null
+Entire Network,IHSP,2020,2020,35,65+ yr,null,null
+Entire Network,IHSP,2020,2020,36,65+ yr,null,null
+Entire Network,IHSP,2020,2020,37,65+ yr,null,null
+Entire Network,IHSP,2020,2020,38,65+ yr,null,null
+Entire Network,IHSP,2020,2020,39,65+ yr,null,null
+Entire Network,IHSP,2020,2020,10,Overall,0,0
+Entire Network,IHSP,2020,2020,11,Overall,0.1,0.1
+Entire Network,IHSP,2020,2020,12,Overall,1.5,1.4
+Entire Network,IHSP,2020,2020,13,Overall,4.1,2.6
+Entire Network,IHSP,2020,2020,14,Overall,null,null
+Entire Network,IHSP,2020,2020,15,Overall,null,null
+Entire Network,IHSP,2020,2020,16,Overall,null,null
+Entire Network,IHSP,2020,2020,17,Overall,null,null
+Entire Network,IHSP,2020,2020,18,Overall,null,null
+Entire Network,IHSP,2020,2020,19,Overall,null,null
+Entire Network,IHSP,2020,2020,20,Overall,null,null
+Entire Network,IHSP,2020,2020,21,Overall,null,null
+Entire Network,IHSP,2020,2020,22,Overall,null,null
+Entire Network,IHSP,2020,2020,23,Overall,null,null
+Entire Network,IHSP,2020,2020,24,Overall,null,null
+Entire Network,IHSP,2020,2020,25,Overall,null,null
+Entire Network,IHSP,2020,2020,26,Overall,null,null
+Entire Network,IHSP,2020,2020,27,Overall,null,null
+Entire Network,IHSP,2020,2020,28,Overall,null,null
+Entire Network,IHSP,2020,2020,29,Overall,null,null
+Entire Network,IHSP,2020,2020,30,Overall,null,null
+Entire Network,IHSP,2020,2020,31,Overall,null,null
+Entire Network,IHSP,2020,2020,32,Overall,null,null
+Entire Network,IHSP,2020,2020,33,Overall,null,null
+Entire Network,IHSP,2020,2020,34,Overall,null,null
+Entire Network,IHSP,2020,2020,35,Overall,null,null
+Entire Network,IHSP,2020,2020,36,Overall,null,null
+Entire Network,IHSP,2020,2020,37,Overall,null,null
+Entire Network,IHSP,2020,2020,38,Overall,null,null
+Entire Network,IHSP,2020,2020,39,Overall,null,null
+Entire Network,IHSP,2020,2020,10,65-74 yr,0.3,0.3
+Entire Network,IHSP,2020,2020,11,65-74 yr,0.5,0.3
+Entire Network,IHSP,2020,2020,12,65-74 yr,5.1,4.5
+Entire Network,IHSP,2020,2020,13,65-74 yr,9.9,4.8
+Entire Network,IHSP,2020,2020,14,65-74 yr,null,null
+Entire Network,IHSP,2020,2020,15,65-74 yr,null,null
+Entire Network,IHSP,2020,2020,16,65-74 yr,null,null
+Entire Network,IHSP,2020,2020,17,65-74 yr,null,null
+Entire Network,IHSP,2020,2020,18,65-74 yr,null,null
+Entire Network,IHSP,2020,2020,19,65-74 yr,null,null
+Entire Network,IHSP,2020,2020,20,65-74 yr,null,null
+Entire Network,IHSP,2020,2020,21,65-74 yr,null,null
+Entire Network,IHSP,2020,2020,22,65-74 yr,null,null
+Entire Network,IHSP,2020,2020,23,65-74 yr,null,null
+Entire Network,IHSP,2020,2020,24,65-74 yr,null,null
+Entire Network,IHSP,2020,2020,25,65-74 yr,null,null
+Entire Network,IHSP,2020,2020,26,65-74 yr,null,null
+Entire Network,IHSP,2020,2020,27,65-74 yr,null,null
+Entire Network,IHSP,2020,2020,28,65-74 yr,null,null
+Entire Network,IHSP,2020,2020,29,65-74 yr,null,null
+Entire Network,IHSP,2020,2020,30,65-74 yr,null,null
+Entire Network,IHSP,2020,2020,31,65-74 yr,null,null
+Entire Network,IHSP,2020,2020,32,65-74 yr,null,null
+Entire Network,IHSP,2020,2020,33,65-74 yr,null,null
+Entire Network,IHSP,2020,2020,34,65-74 yr,null,null
+Entire Network,IHSP,2020,2020,35,65-74 yr,null,null
+Entire Network,IHSP,2020,2020,36,65-74 yr,null,null
+Entire Network,IHSP,2020,2020,37,65-74 yr,null,null
+Entire Network,IHSP,2020,2020,38,65-74 yr,null,null
+Entire Network,IHSP,2020,2020,39,65-74 yr,null,null
+Entire Network,IHSP,2020,2020,10,75-84 yr,0,0
+Entire Network,IHSP,2020,2020,11,75-84 yr,0,0
+Entire Network,IHSP,2020,2020,12,75-84 yr,6.8,6.8
+Entire Network,IHSP,2020,2020,13,75-84 yr,20.4,13.6
+Entire Network,IHSP,2020,2020,14,75-84 yr,null,null
+Entire Network,IHSP,2020,2020,15,75-84 yr,null,null
+Entire Network,IHSP,2020,2020,16,75-84 yr,null,null
+Entire Network,IHSP,2020,2020,17,75-84 yr,null,null
+Entire Network,IHSP,2020,2020,18,75-84 yr,null,null
+Entire Network,IHSP,2020,2020,19,75-84 yr,null,null
+Entire Network,IHSP,2020,2020,20,75-84 yr,null,null
+Entire Network,IHSP,2020,2020,21,75-84 yr,null,null
+Entire Network,IHSP,2020,2020,22,75-84 yr,null,null
+Entire Network,IHSP,2020,2020,23,75-84 yr,null,null
+Entire Network,IHSP,2020,2020,24,75-84 yr,null,null
+Entire Network,IHSP,2020,2020,25,75-84 yr,null,null
+Entire Network,IHSP,2020,2020,26,75-84 yr,null,null
+Entire Network,IHSP,2020,2020,27,75-84 yr,null,null
+Entire Network,IHSP,2020,2020,28,75-84 yr,null,null
+Entire Network,IHSP,2020,2020,29,75-84 yr,null,null
+Entire Network,IHSP,2020,2020,30,75-84 yr,null,null
+Entire Network,IHSP,2020,2020,31,75-84 yr,null,null
+Entire Network,IHSP,2020,2020,32,75-84 yr,null,null
+Entire Network,IHSP,2020,2020,33,75-84 yr,null,null
+Entire Network,IHSP,2020,2020,34,75-84 yr,null,null
+Entire Network,IHSP,2020,2020,35,75-84 yr,null,null
+Entire Network,IHSP,2020,2020,36,75-84 yr,null,null
+Entire Network,IHSP,2020,2020,37,75-84 yr,null,null
+Entire Network,IHSP,2020,2020,38,75-84 yr,null,null
+Entire Network,IHSP,2020,2020,39,75-84 yr,null,null
+Entire Network,IHSP,2020,2020,10,85+,0,0
+Entire Network,IHSP,2020,2020,11,85+,0,0
+Entire Network,IHSP,2020,2020,12,85+,7,7
+Entire Network,IHSP,2020,2020,13,85+,18.2,11.2
+Entire Network,IHSP,2020,2020,14,85+,null,null
+Entire Network,IHSP,2020,2020,15,85+,null,null
+Entire Network,IHSP,2020,2020,16,85+,null,null
+Entire Network,IHSP,2020,2020,17,85+,null,null
+Entire Network,IHSP,2020,2020,18,85+,null,null
+Entire Network,IHSP,2020,2020,19,85+,null,null
+Entire Network,IHSP,2020,2020,20,85+,null,null
+Entire Network,IHSP,2020,2020,21,85+,null,null
+Entire Network,IHSP,2020,2020,22,85+,null,null
+Entire Network,IHSP,2020,2020,23,85+,null,null
+Entire Network,IHSP,2020,2020,24,85+,null,null
+Entire Network,IHSP,2020,2020,25,85+,null,null
+Entire Network,IHSP,2020,2020,26,85+,null,null
+Entire Network,IHSP,2020,2020,27,85+,null,null
+Entire Network,IHSP,2020,2020,28,85+,null,null
+Entire Network,IHSP,2020,2020,29,85+,null,null
+Entire Network,IHSP,2020,2020,30,85+,null,null
+Entire Network,IHSP,2020,2020,31,85+,null,null
+Entire Network,IHSP,2020,2020,32,85+,null,null
+Entire Network,IHSP,2020,2020,33,85+,null,null
+Entire Network,IHSP,2020,2020,34,85+,null,null
+Entire Network,IHSP,2020,2020,35,85+,null,null
+Entire Network,IHSP,2020,2020,36,85+,null,null
+Entire Network,IHSP,2020,2020,37,85+,null,null
+Entire Network,IHSP,2020,2020,38,85+,null,null
+Entire Network,IHSP,2020,2020,39,85+,null,null
+Iowa,IHSP,2020,2020,10,0-4 yr,0,0
+Iowa,IHSP,2020,2020,11,0-4 yr,0,0
+Iowa,IHSP,2020,2020,12,0-4 yr,0,0
+Iowa,IHSP,2020,2020,13,0-4 yr,0,0
+Iowa,IHSP,2020,2020,14,0-4 yr,null,null
+Iowa,IHSP,2020,2020,15,0-4 yr,null,null
+Iowa,IHSP,2020,2020,16,0-4 yr,null,null
+Iowa,IHSP,2020,2020,17,0-4 yr,null,null
+Iowa,IHSP,2020,2020,18,0-4 yr,null,null
+Iowa,IHSP,2020,2020,19,0-4 yr,null,null
+Iowa,IHSP,2020,2020,20,0-4 yr,null,null
+Iowa,IHSP,2020,2020,21,0-4 yr,null,null
+Iowa,IHSP,2020,2020,22,0-4 yr,null,null
+Iowa,IHSP,2020,2020,23,0-4 yr,null,null
+Iowa,IHSP,2020,2020,24,0-4 yr,null,null
+Iowa,IHSP,2020,2020,25,0-4 yr,null,null
+Iowa,IHSP,2020,2020,26,0-4 yr,null,null
+Iowa,IHSP,2020,2020,27,0-4 yr,null,null
+Iowa,IHSP,2020,2020,28,0-4 yr,null,null
+Iowa,IHSP,2020,2020,29,0-4 yr,null,null
+Iowa,IHSP,2020,2020,30,0-4 yr,null,null
+Iowa,IHSP,2020,2020,31,0-4 yr,null,null
+Iowa,IHSP,2020,2020,32,0-4 yr,null,null
+Iowa,IHSP,2020,2020,33,0-4 yr,null,null
+Iowa,IHSP,2020,2020,34,0-4 yr,null,null
+Iowa,IHSP,2020,2020,35,0-4 yr,null,null
+Iowa,IHSP,2020,2020,36,0-4 yr,null,null
+Iowa,IHSP,2020,2020,37,0-4 yr,null,null
+Iowa,IHSP,2020,2020,38,0-4 yr,null,null
+Iowa,IHSP,2020,2020,39,0-4 yr,null,null
+Iowa,IHSP,2020,2020,10,5-17 yr,0,0
+Iowa,IHSP,2020,2020,11,5-17 yr,0,0
+Iowa,IHSP,2020,2020,12,5-17 yr,0,0
+Iowa,IHSP,2020,2020,13,5-17 yr,0,0
+Iowa,IHSP,2020,2020,14,5-17 yr,null,null
+Iowa,IHSP,2020,2020,15,5-17 yr,null,null
+Iowa,IHSP,2020,2020,16,5-17 yr,null,null
+Iowa,IHSP,2020,2020,17,5-17 yr,null,null
+Iowa,IHSP,2020,2020,18,5-17 yr,null,null
+Iowa,IHSP,2020,2020,19,5-17 yr,null,null
+Iowa,IHSP,2020,2020,20,5-17 yr,null,null
+Iowa,IHSP,2020,2020,21,5-17 yr,null,null
+Iowa,IHSP,2020,2020,22,5-17 yr,null,null
+Iowa,IHSP,2020,2020,23,5-17 yr,null,null
+Iowa,IHSP,2020,2020,24,5-17 yr,null,null
+Iowa,IHSP,2020,2020,25,5-17 yr,null,null
+Iowa,IHSP,2020,2020,26,5-17 yr,null,null
+Iowa,IHSP,2020,2020,27,5-17 yr,null,null
+Iowa,IHSP,2020,2020,28,5-17 yr,null,null
+Iowa,IHSP,2020,2020,29,5-17 yr,null,null
+Iowa,IHSP,2020,2020,30,5-17 yr,null,null
+Iowa,IHSP,2020,2020,31,5-17 yr,null,null
+Iowa,IHSP,2020,2020,32,5-17 yr,null,null
+Iowa,IHSP,2020,2020,33,5-17 yr,null,null
+Iowa,IHSP,2020,2020,34,5-17 yr,null,null
+Iowa,IHSP,2020,2020,35,5-17 yr,null,null
+Iowa,IHSP,2020,2020,36,5-17 yr,null,null
+Iowa,IHSP,2020,2020,37,5-17 yr,null,null
+Iowa,IHSP,2020,2020,38,5-17 yr,null,null
+Iowa,IHSP,2020,2020,39,5-17 yr,null,null
+Iowa,IHSP,2020,2020,10,18-49 yr,0,0
+Iowa,IHSP,2020,2020,11,18-49 yr,0,0
+Iowa,IHSP,2020,2020,12,18-49 yr,0,0
+Iowa,IHSP,2020,2020,13,18-49 yr,0,0
+Iowa,IHSP,2020,2020,14,18-49 yr,null,null
+Iowa,IHSP,2020,2020,15,18-49 yr,null,null
+Iowa,IHSP,2020,2020,16,18-49 yr,null,null
+Iowa,IHSP,2020,2020,17,18-49 yr,null,null
+Iowa,IHSP,2020,2020,18,18-49 yr,null,null
+Iowa,IHSP,2020,2020,19,18-49 yr,null,null
+Iowa,IHSP,2020,2020,20,18-49 yr,null,null
+Iowa,IHSP,2020,2020,21,18-49 yr,null,null
+Iowa,IHSP,2020,2020,22,18-49 yr,null,null
+Iowa,IHSP,2020,2020,23,18-49 yr,null,null
+Iowa,IHSP,2020,2020,24,18-49 yr,null,null
+Iowa,IHSP,2020,2020,25,18-49 yr,null,null
+Iowa,IHSP,2020,2020,26,18-49 yr,null,null
+Iowa,IHSP,2020,2020,27,18-49 yr,null,null
+Iowa,IHSP,2020,2020,28,18-49 yr,null,null
+Iowa,IHSP,2020,2020,29,18-49 yr,null,null
+Iowa,IHSP,2020,2020,30,18-49 yr,null,null
+Iowa,IHSP,2020,2020,31,18-49 yr,null,null
+Iowa,IHSP,2020,2020,32,18-49 yr,null,null
+Iowa,IHSP,2020,2020,33,18-49 yr,null,null
+Iowa,IHSP,2020,2020,34,18-49 yr,null,null
+Iowa,IHSP,2020,2020,35,18-49 yr,null,null
+Iowa,IHSP,2020,2020,36,18-49 yr,null,null
+Iowa,IHSP,2020,2020,37,18-49 yr,null,null
+Iowa,IHSP,2020,2020,38,18-49 yr,null,null
+Iowa,IHSP,2020,2020,39,18-49 yr,null,null
+Iowa,IHSP,2020,2020,10,50-64 yr,0,0
+Iowa,IHSP,2020,2020,11,50-64 yr,0,0
+Iowa,IHSP,2020,2020,12,50-64 yr,0,0
+Iowa,IHSP,2020,2020,13,50-64 yr,0,0
+Iowa,IHSP,2020,2020,14,50-64 yr,null,null
+Iowa,IHSP,2020,2020,15,50-64 yr,null,null
+Iowa,IHSP,2020,2020,16,50-64 yr,null,null
+Iowa,IHSP,2020,2020,17,50-64 yr,null,null
+Iowa,IHSP,2020,2020,18,50-64 yr,null,null
+Iowa,IHSP,2020,2020,19,50-64 yr,null,null
+Iowa,IHSP,2020,2020,20,50-64 yr,null,null
+Iowa,IHSP,2020,2020,21,50-64 yr,null,null
+Iowa,IHSP,2020,2020,22,50-64 yr,null,null
+Iowa,IHSP,2020,2020,23,50-64 yr,null,null
+Iowa,IHSP,2020,2020,24,50-64 yr,null,null
+Iowa,IHSP,2020,2020,25,50-64 yr,null,null
+Iowa,IHSP,2020,2020,26,50-64 yr,null,null
+Iowa,IHSP,2020,2020,27,50-64 yr,null,null
+Iowa,IHSP,2020,2020,28,50-64 yr,null,null
+Iowa,IHSP,2020,2020,29,50-64 yr,null,null
+Iowa,IHSP,2020,2020,30,50-64 yr,null,null
+Iowa,IHSP,2020,2020,31,50-64 yr,null,null
+Iowa,IHSP,2020,2020,32,50-64 yr,null,null
+Iowa,IHSP,2020,2020,33,50-64 yr,null,null
+Iowa,IHSP,2020,2020,34,50-64 yr,null,null
+Iowa,IHSP,2020,2020,35,50-64 yr,null,null
+Iowa,IHSP,2020,2020,36,50-64 yr,null,null
+Iowa,IHSP,2020,2020,37,50-64 yr,null,null
+Iowa,IHSP,2020,2020,38,50-64 yr,null,null
+Iowa,IHSP,2020,2020,39,50-64 yr,null,null
+Iowa,IHSP,2020,2020,10,65+ yr,0,0
+Iowa,IHSP,2020,2020,11,65+ yr,0,0
+Iowa,IHSP,2020,2020,12,65+ yr,4.6,4.6
+Iowa,IHSP,2020,2020,13,65+ yr,4.6,0
+Iowa,IHSP,2020,2020,14,65+ yr,null,null
+Iowa,IHSP,2020,2020,15,65+ yr,null,null
+Iowa,IHSP,2020,2020,16,65+ yr,null,null
+Iowa,IHSP,2020,2020,17,65+ yr,null,null
+Iowa,IHSP,2020,2020,18,65+ yr,null,null
+Iowa,IHSP,2020,2020,19,65+ yr,null,null
+Iowa,IHSP,2020,2020,20,65+ yr,null,null
+Iowa,IHSP,2020,2020,21,65+ yr,null,null
+Iowa,IHSP,2020,2020,22,65+ yr,null,null
+Iowa,IHSP,2020,2020,23,65+ yr,null,null
+Iowa,IHSP,2020,2020,24,65+ yr,null,null
+Iowa,IHSP,2020,2020,25,65+ yr,null,null
+Iowa,IHSP,2020,2020,26,65+ yr,null,null
+Iowa,IHSP,2020,2020,27,65+ yr,null,null
+Iowa,IHSP,2020,2020,28,65+ yr,null,null
+Iowa,IHSP,2020,2020,29,65+ yr,null,null
+Iowa,IHSP,2020,2020,30,65+ yr,null,null
+Iowa,IHSP,2020,2020,31,65+ yr,null,null
+Iowa,IHSP,2020,2020,32,65+ yr,null,null
+Iowa,IHSP,2020,2020,33,65+ yr,null,null
+Iowa,IHSP,2020,2020,34,65+ yr,null,null
+Iowa,IHSP,2020,2020,35,65+ yr,null,null
+Iowa,IHSP,2020,2020,36,65+ yr,null,null
+Iowa,IHSP,2020,2020,37,65+ yr,null,null
+Iowa,IHSP,2020,2020,38,65+ yr,null,null
+Iowa,IHSP,2020,2020,39,65+ yr,null,null
+Iowa,IHSP,2020,2020,10,Overall,0,0
+Iowa,IHSP,2020,2020,11,Overall,0,0
+Iowa,IHSP,2020,2020,12,Overall,0.8,0.8
+Iowa,IHSP,2020,2020,13,Overall,0.8,0
+Iowa,IHSP,2020,2020,14,Overall,null,null
+Iowa,IHSP,2020,2020,15,Overall,null,null
+Iowa,IHSP,2020,2020,16,Overall,null,null
+Iowa,IHSP,2020,2020,17,Overall,null,null
+Iowa,IHSP,2020,2020,18,Overall,null,null
+Iowa,IHSP,2020,2020,19,Overall,null,null
+Iowa,IHSP,2020,2020,20,Overall,null,null
+Iowa,IHSP,2020,2020,21,Overall,null,null
+Iowa,IHSP,2020,2020,22,Overall,null,null
+Iowa,IHSP,2020,2020,23,Overall,null,null
+Iowa,IHSP,2020,2020,24,Overall,null,null
+Iowa,IHSP,2020,2020,25,Overall,null,null
+Iowa,IHSP,2020,2020,26,Overall,null,null
+Iowa,IHSP,2020,2020,27,Overall,null,null
+Iowa,IHSP,2020,2020,28,Overall,null,null
+Iowa,IHSP,2020,2020,29,Overall,null,null
+Iowa,IHSP,2020,2020,30,Overall,null,null
+Iowa,IHSP,2020,2020,31,Overall,null,null
+Iowa,IHSP,2020,2020,32,Overall,null,null
+Iowa,IHSP,2020,2020,33,Overall,null,null
+Iowa,IHSP,2020,2020,34,Overall,null,null
+Iowa,IHSP,2020,2020,35,Overall,null,null
+Iowa,IHSP,2020,2020,36,Overall,null,null
+Iowa,IHSP,2020,2020,37,Overall,null,null
+Iowa,IHSP,2020,2020,38,Overall,null,null
+Iowa,IHSP,2020,2020,39,Overall,null,null
+Iowa,IHSP,2020,2020,10,65-74 yr,0,0
+Iowa,IHSP,2020,2020,11,65-74 yr,0,0
+Iowa,IHSP,2020,2020,12,65-74 yr,0,0
+Iowa,IHSP,2020,2020,13,65-74 yr,0,0
+Iowa,IHSP,2020,2020,14,65-74 yr,null,null
+Iowa,IHSP,2020,2020,15,65-74 yr,null,null
+Iowa,IHSP,2020,2020,16,65-74 yr,null,null
+Iowa,IHSP,2020,2020,17,65-74 yr,null,null
+Iowa,IHSP,2020,2020,18,65-74 yr,null,null
+Iowa,IHSP,2020,2020,19,65-74 yr,null,null
+Iowa,IHSP,2020,2020,20,65-74 yr,null,null
+Iowa,IHSP,2020,2020,21,65-74 yr,null,null
+Iowa,IHSP,2020,2020,22,65-74 yr,null,null
+Iowa,IHSP,2020,2020,23,65-74 yr,null,null
+Iowa,IHSP,2020,2020,24,65-74 yr,null,null
+Iowa,IHSP,2020,2020,25,65-74 yr,null,null
+Iowa,IHSP,2020,2020,26,65-74 yr,null,null
+Iowa,IHSP,2020,2020,27,65-74 yr,null,null
+Iowa,IHSP,2020,2020,28,65-74 yr,null,null
+Iowa,IHSP,2020,2020,29,65-74 yr,null,null
+Iowa,IHSP,2020,2020,30,65-74 yr,null,null
+Iowa,IHSP,2020,2020,31,65-74 yr,null,null
+Iowa,IHSP,2020,2020,32,65-74 yr,null,null
+Iowa,IHSP,2020,2020,33,65-74 yr,null,null
+Iowa,IHSP,2020,2020,34,65-74 yr,null,null
+Iowa,IHSP,2020,2020,35,65-74 yr,null,null
+Iowa,IHSP,2020,2020,36,65-74 yr,null,null
+Iowa,IHSP,2020,2020,37,65-74 yr,null,null
+Iowa,IHSP,2020,2020,38,65-74 yr,null,null
+Iowa,IHSP,2020,2020,39,65-74 yr,null,null
+Iowa,IHSP,2020,2020,10,75-84 yr,0,0
+Iowa,IHSP,2020,2020,11,75-84 yr,0,0
+Iowa,IHSP,2020,2020,12,75-84 yr,15.9,15.9
+Iowa,IHSP,2020,2020,13,75-84 yr,15.9,0
+Iowa,IHSP,2020,2020,14,75-84 yr,null,null
+Iowa,IHSP,2020,2020,15,75-84 yr,null,null
+Iowa,IHSP,2020,2020,16,75-84 yr,null,null
+Iowa,IHSP,2020,2020,17,75-84 yr,null,null
+Iowa,IHSP,2020,2020,18,75-84 yr,null,null
+Iowa,IHSP,2020,2020,19,75-84 yr,null,null
+Iowa,IHSP,2020,2020,20,75-84 yr,null,null
+Iowa,IHSP,2020,2020,21,75-84 yr,null,null
+Iowa,IHSP,2020,2020,22,75-84 yr,null,null
+Iowa,IHSP,2020,2020,23,75-84 yr,null,null
+Iowa,IHSP,2020,2020,24,75-84 yr,null,null
+Iowa,IHSP,2020,2020,25,75-84 yr,null,null
+Iowa,IHSP,2020,2020,26,75-84 yr,null,null
+Iowa,IHSP,2020,2020,27,75-84 yr,null,null
+Iowa,IHSP,2020,2020,28,75-84 yr,null,null
+Iowa,IHSP,2020,2020,29,75-84 yr,null,null
+Iowa,IHSP,2020,2020,30,75-84 yr,null,null
+Iowa,IHSP,2020,2020,31,75-84 yr,null,null
+Iowa,IHSP,2020,2020,32,75-84 yr,null,null
+Iowa,IHSP,2020,2020,33,75-84 yr,null,null
+Iowa,IHSP,2020,2020,34,75-84 yr,null,null
+Iowa,IHSP,2020,2020,35,75-84 yr,null,null
+Iowa,IHSP,2020,2020,36,75-84 yr,null,null
+Iowa,IHSP,2020,2020,37,75-84 yr,null,null
+Iowa,IHSP,2020,2020,38,75-84 yr,null,null
+Iowa,IHSP,2020,2020,39,75-84 yr,null,null
+Iowa,IHSP,2020,2020,10,85+,0,0
+Iowa,IHSP,2020,2020,11,85+,0,0
+Iowa,IHSP,2020,2020,12,85+,0,0
+Iowa,IHSP,2020,2020,13,85+,0,0
+Iowa,IHSP,2020,2020,14,85+,null,null
+Iowa,IHSP,2020,2020,15,85+,null,null
+Iowa,IHSP,2020,2020,16,85+,null,null
+Iowa,IHSP,2020,2020,17,85+,null,null
+Iowa,IHSP,2020,2020,18,85+,null,null
+Iowa,IHSP,2020,2020,19,85+,null,null
+Iowa,IHSP,2020,2020,20,85+,null,null
+Iowa,IHSP,2020,2020,21,85+,null,null
+Iowa,IHSP,2020,2020,22,85+,null,null
+Iowa,IHSP,2020,2020,23,85+,null,null
+Iowa,IHSP,2020,2020,24,85+,null,null
+Iowa,IHSP,2020,2020,25,85+,null,null
+Iowa,IHSP,2020,2020,26,85+,null,null
+Iowa,IHSP,2020,2020,27,85+,null,null
+Iowa,IHSP,2020,2020,28,85+,null,null
+Iowa,IHSP,2020,2020,29,85+,null,null
+Iowa,IHSP,2020,2020,30,85+,null,null
+Iowa,IHSP,2020,2020,31,85+,null,null
+Iowa,IHSP,2020,2020,32,85+,null,null
+Iowa,IHSP,2020,2020,33,85+,null,null
+Iowa,IHSP,2020,2020,34,85+,null,null
+Iowa,IHSP,2020,2020,35,85+,null,null
+Iowa,IHSP,2020,2020,36,85+,null,null
+Iowa,IHSP,2020,2020,37,85+,null,null
+Iowa,IHSP,2020,2020,38,85+,null,null
+Iowa,IHSP,2020,2020,39,85+,null,null
+Michigan,IHSP,2020,2020,10,0-4 yr,0,0
+Michigan,IHSP,2020,2020,11,0-4 yr,0,0
+Michigan,IHSP,2020,2020,12,0-4 yr,0,0
+Michigan,IHSP,2020,2020,13,0-4 yr,0,0
+Michigan,IHSP,2020,2020,14,0-4 yr,null,null
+Michigan,IHSP,2020,2020,15,0-4 yr,null,null
+Michigan,IHSP,2020,2020,16,0-4 yr,null,null
+Michigan,IHSP,2020,2020,17,0-4 yr,null,null
+Michigan,IHSP,2020,2020,18,0-4 yr,null,null
+Michigan,IHSP,2020,2020,19,0-4 yr,null,null
+Michigan,IHSP,2020,2020,20,0-4 yr,null,null
+Michigan,IHSP,2020,2020,21,0-4 yr,null,null
+Michigan,IHSP,2020,2020,22,0-4 yr,null,null
+Michigan,IHSP,2020,2020,23,0-4 yr,null,null
+Michigan,IHSP,2020,2020,24,0-4 yr,null,null
+Michigan,IHSP,2020,2020,25,0-4 yr,null,null
+Michigan,IHSP,2020,2020,26,0-4 yr,null,null
+Michigan,IHSP,2020,2020,27,0-4 yr,null,null
+Michigan,IHSP,2020,2020,28,0-4 yr,null,null
+Michigan,IHSP,2020,2020,29,0-4 yr,null,null
+Michigan,IHSP,2020,2020,30,0-4 yr,null,null
+Michigan,IHSP,2020,2020,31,0-4 yr,null,null
+Michigan,IHSP,2020,2020,32,0-4 yr,null,null
+Michigan,IHSP,2020,2020,33,0-4 yr,null,null
+Michigan,IHSP,2020,2020,34,0-4 yr,null,null
+Michigan,IHSP,2020,2020,35,0-4 yr,null,null
+Michigan,IHSP,2020,2020,36,0-4 yr,null,null
+Michigan,IHSP,2020,2020,37,0-4 yr,null,null
+Michigan,IHSP,2020,2020,38,0-4 yr,null,null
+Michigan,IHSP,2020,2020,39,0-4 yr,null,null
+Michigan,IHSP,2020,2020,10,5-17 yr,0,0
+Michigan,IHSP,2020,2020,11,5-17 yr,0,0
+Michigan,IHSP,2020,2020,12,5-17 yr,0,0
+Michigan,IHSP,2020,2020,13,5-17 yr,0.5,0.5
+Michigan,IHSP,2020,2020,14,5-17 yr,null,null
+Michigan,IHSP,2020,2020,15,5-17 yr,null,null
+Michigan,IHSP,2020,2020,16,5-17 yr,null,null
+Michigan,IHSP,2020,2020,17,5-17 yr,null,null
+Michigan,IHSP,2020,2020,18,5-17 yr,null,null
+Michigan,IHSP,2020,2020,19,5-17 yr,null,null
+Michigan,IHSP,2020,2020,20,5-17 yr,null,null
+Michigan,IHSP,2020,2020,21,5-17 yr,null,null
+Michigan,IHSP,2020,2020,22,5-17 yr,null,null
+Michigan,IHSP,2020,2020,23,5-17 yr,null,null
+Michigan,IHSP,2020,2020,24,5-17 yr,null,null
+Michigan,IHSP,2020,2020,25,5-17 yr,null,null
+Michigan,IHSP,2020,2020,26,5-17 yr,null,null
+Michigan,IHSP,2020,2020,27,5-17 yr,null,null
+Michigan,IHSP,2020,2020,28,5-17 yr,null,null
+Michigan,IHSP,2020,2020,29,5-17 yr,null,null
+Michigan,IHSP,2020,2020,30,5-17 yr,null,null
+Michigan,IHSP,2020,2020,31,5-17 yr,null,null
+Michigan,IHSP,2020,2020,32,5-17 yr,null,null
+Michigan,IHSP,2020,2020,33,5-17 yr,null,null
+Michigan,IHSP,2020,2020,34,5-17 yr,null,null
+Michigan,IHSP,2020,2020,35,5-17 yr,null,null
+Michigan,IHSP,2020,2020,36,5-17 yr,null,null
+Michigan,IHSP,2020,2020,37,5-17 yr,null,null
+Michigan,IHSP,2020,2020,38,5-17 yr,null,null
+Michigan,IHSP,2020,2020,39,5-17 yr,null,null
+Michigan,IHSP,2020,2020,10,18-49 yr,0,0
+Michigan,IHSP,2020,2020,11,18-49 yr,0,0
+Michigan,IHSP,2020,2020,12,18-49 yr,1.2,1.2
+Michigan,IHSP,2020,2020,13,18-49 yr,6.5,5.3
+Michigan,IHSP,2020,2020,14,18-49 yr,null,null
+Michigan,IHSP,2020,2020,15,18-49 yr,null,null
+Michigan,IHSP,2020,2020,16,18-49 yr,null,null
+Michigan,IHSP,2020,2020,17,18-49 yr,null,null
+Michigan,IHSP,2020,2020,18,18-49 yr,null,null
+Michigan,IHSP,2020,2020,19,18-49 yr,null,null
+Michigan,IHSP,2020,2020,20,18-49 yr,null,null
+Michigan,IHSP,2020,2020,21,18-49 yr,null,null
+Michigan,IHSP,2020,2020,22,18-49 yr,null,null
+Michigan,IHSP,2020,2020,23,18-49 yr,null,null
+Michigan,IHSP,2020,2020,24,18-49 yr,null,null
+Michigan,IHSP,2020,2020,25,18-49 yr,null,null
+Michigan,IHSP,2020,2020,26,18-49 yr,null,null
+Michigan,IHSP,2020,2020,27,18-49 yr,null,null
+Michigan,IHSP,2020,2020,28,18-49 yr,null,null
+Michigan,IHSP,2020,2020,29,18-49 yr,null,null
+Michigan,IHSP,2020,2020,30,18-49 yr,null,null
+Michigan,IHSP,2020,2020,31,18-49 yr,null,null
+Michigan,IHSP,2020,2020,32,18-49 yr,null,null
+Michigan,IHSP,2020,2020,33,18-49 yr,null,null
+Michigan,IHSP,2020,2020,34,18-49 yr,null,null
+Michigan,IHSP,2020,2020,35,18-49 yr,null,null
+Michigan,IHSP,2020,2020,36,18-49 yr,null,null
+Michigan,IHSP,2020,2020,37,18-49 yr,null,null
+Michigan,IHSP,2020,2020,38,18-49 yr,null,null
+Michigan,IHSP,2020,2020,39,18-49 yr,null,null
+Michigan,IHSP,2020,2020,10,50-64 yr,0,0
+Michigan,IHSP,2020,2020,11,50-64 yr,0.4,0.4
+Michigan,IHSP,2020,2020,12,50-64 yr,7.1,6.7
+Michigan,IHSP,2020,2020,13,50-64 yr,18.9,11.7
+Michigan,IHSP,2020,2020,14,50-64 yr,null,null
+Michigan,IHSP,2020,2020,15,50-64 yr,null,null
+Michigan,IHSP,2020,2020,16,50-64 yr,null,null
+Michigan,IHSP,2020,2020,17,50-64 yr,null,null
+Michigan,IHSP,2020,2020,18,50-64 yr,null,null
+Michigan,IHSP,2020,2020,19,50-64 yr,null,null
+Michigan,IHSP,2020,2020,20,50-64 yr,null,null
+Michigan,IHSP,2020,2020,21,50-64 yr,null,null
+Michigan,IHSP,2020,2020,22,50-64 yr,null,null
+Michigan,IHSP,2020,2020,23,50-64 yr,null,null
+Michigan,IHSP,2020,2020,24,50-64 yr,null,null
+Michigan,IHSP,2020,2020,25,50-64 yr,null,null
+Michigan,IHSP,2020,2020,26,50-64 yr,null,null
+Michigan,IHSP,2020,2020,27,50-64 yr,null,null
+Michigan,IHSP,2020,2020,28,50-64 yr,null,null
+Michigan,IHSP,2020,2020,29,50-64 yr,null,null
+Michigan,IHSP,2020,2020,30,50-64 yr,null,null
+Michigan,IHSP,2020,2020,31,50-64 yr,null,null
+Michigan,IHSP,2020,2020,32,50-64 yr,null,null
+Michigan,IHSP,2020,2020,33,50-64 yr,null,null
+Michigan,IHSP,2020,2020,34,50-64 yr,null,null
+Michigan,IHSP,2020,2020,35,50-64 yr,null,null
+Michigan,IHSP,2020,2020,36,50-64 yr,null,null
+Michigan,IHSP,2020,2020,37,50-64 yr,null,null
+Michigan,IHSP,2020,2020,38,50-64 yr,null,null
+Michigan,IHSP,2020,2020,39,50-64 yr,null,null
+Michigan,IHSP,2020,2020,10,65+ yr,0.5,0.5
+Michigan,IHSP,2020,2020,11,65+ yr,0.5,0
+Michigan,IHSP,2020,2020,12,65+ yr,14.3,13.8
+Michigan,IHSP,2020,2020,13,65+ yr,37.3,23
+Michigan,IHSP,2020,2020,14,65+ yr,null,null
+Michigan,IHSP,2020,2020,15,65+ yr,null,null
+Michigan,IHSP,2020,2020,16,65+ yr,null,null
+Michigan,IHSP,2020,2020,17,65+ yr,null,null
+Michigan,IHSP,2020,2020,18,65+ yr,null,null
+Michigan,IHSP,2020,2020,19,65+ yr,null,null
+Michigan,IHSP,2020,2020,20,65+ yr,null,null
+Michigan,IHSP,2020,2020,21,65+ yr,null,null
+Michigan,IHSP,2020,2020,22,65+ yr,null,null
+Michigan,IHSP,2020,2020,23,65+ yr,null,null
+Michigan,IHSP,2020,2020,24,65+ yr,null,null
+Michigan,IHSP,2020,2020,25,65+ yr,null,null
+Michigan,IHSP,2020,2020,26,65+ yr,null,null
+Michigan,IHSP,2020,2020,27,65+ yr,null,null
+Michigan,IHSP,2020,2020,28,65+ yr,null,null
+Michigan,IHSP,2020,2020,29,65+ yr,null,null
+Michigan,IHSP,2020,2020,30,65+ yr,null,null
+Michigan,IHSP,2020,2020,31,65+ yr,null,null
+Michigan,IHSP,2020,2020,32,65+ yr,null,null
+Michigan,IHSP,2020,2020,33,65+ yr,null,null
+Michigan,IHSP,2020,2020,34,65+ yr,null,null
+Michigan,IHSP,2020,2020,35,65+ yr,null,null
+Michigan,IHSP,2020,2020,36,65+ yr,null,null
+Michigan,IHSP,2020,2020,37,65+ yr,null,null
+Michigan,IHSP,2020,2020,38,65+ yr,null,null
+Michigan,IHSP,2020,2020,39,65+ yr,null,null
+Michigan,IHSP,2020,2020,10,Overall,0.1,0.1
+Michigan,IHSP,2020,2020,11,Overall,0.2,0.1
+Michigan,IHSP,2020,2020,12,Overall,4.1,4
+Michigan,IHSP,2020,2020,13,Overall,12.4,8.3
+Michigan,IHSP,2020,2020,14,Overall,null,null
+Michigan,IHSP,2020,2020,15,Overall,null,null
+Michigan,IHSP,2020,2020,16,Overall,null,null
+Michigan,IHSP,2020,2020,17,Overall,null,null
+Michigan,IHSP,2020,2020,18,Overall,null,null
+Michigan,IHSP,2020,2020,19,Overall,null,null
+Michigan,IHSP,2020,2020,20,Overall,null,null
+Michigan,IHSP,2020,2020,21,Overall,null,null
+Michigan,IHSP,2020,2020,22,Overall,null,null
+Michigan,IHSP,2020,2020,23,Overall,null,null
+Michigan,IHSP,2020,2020,24,Overall,null,null
+Michigan,IHSP,2020,2020,25,Overall,null,null
+Michigan,IHSP,2020,2020,26,Overall,null,null
+Michigan,IHSP,2020,2020,27,Overall,null,null
+Michigan,IHSP,2020,2020,28,Overall,null,null
+Michigan,IHSP,2020,2020,29,Overall,null,null
+Michigan,IHSP,2020,2020,30,Overall,null,null
+Michigan,IHSP,2020,2020,31,Overall,null,null
+Michigan,IHSP,2020,2020,32,Overall,null,null
+Michigan,IHSP,2020,2020,33,Overall,null,null
+Michigan,IHSP,2020,2020,34,Overall,null,null
+Michigan,IHSP,2020,2020,35,Overall,null,null
+Michigan,IHSP,2020,2020,36,Overall,null,null
+Michigan,IHSP,2020,2020,37,Overall,null,null
+Michigan,IHSP,2020,2020,38,Overall,null,null
+Michigan,IHSP,2020,2020,39,Overall,null,null
+Michigan,IHSP,2020,2020,10,65-74 yr,0.9,0.9
+Michigan,IHSP,2020,2020,11,65-74 yr,0.9,0
+Michigan,IHSP,2020,2020,12,65-74 yr,12.9,12
+Michigan,IHSP,2020,2020,13,65-74 yr,26.6,13.7
+Michigan,IHSP,2020,2020,14,65-74 yr,null,null
+Michigan,IHSP,2020,2020,15,65-74 yr,null,null
+Michigan,IHSP,2020,2020,16,65-74 yr,null,null
+Michigan,IHSP,2020,2020,17,65-74 yr,null,null
+Michigan,IHSP,2020,2020,18,65-74 yr,null,null
+Michigan,IHSP,2020,2020,19,65-74 yr,null,null
+Michigan,IHSP,2020,2020,20,65-74 yr,null,null
+Michigan,IHSP,2020,2020,21,65-74 yr,null,null
+Michigan,IHSP,2020,2020,22,65-74 yr,null,null
+Michigan,IHSP,2020,2020,23,65-74 yr,null,null
+Michigan,IHSP,2020,2020,24,65-74 yr,null,null
+Michigan,IHSP,2020,2020,25,65-74 yr,null,null
+Michigan,IHSP,2020,2020,26,65-74 yr,null,null
+Michigan,IHSP,2020,2020,27,65-74 yr,null,null
+Michigan,IHSP,2020,2020,28,65-74 yr,null,null
+Michigan,IHSP,2020,2020,29,65-74 yr,null,null
+Michigan,IHSP,2020,2020,30,65-74 yr,null,null
+Michigan,IHSP,2020,2020,31,65-74 yr,null,null
+Michigan,IHSP,2020,2020,32,65-74 yr,null,null
+Michigan,IHSP,2020,2020,33,65-74 yr,null,null
+Michigan,IHSP,2020,2020,34,65-74 yr,null,null
+Michigan,IHSP,2020,2020,35,65-74 yr,null,null
+Michigan,IHSP,2020,2020,36,65-74 yr,null,null
+Michigan,IHSP,2020,2020,37,65-74 yr,null,null
+Michigan,IHSP,2020,2020,38,65-74 yr,null,null
+Michigan,IHSP,2020,2020,39,65-74 yr,null,null
+Michigan,IHSP,2020,2020,10,75-84 yr,0,0
+Michigan,IHSP,2020,2020,11,75-84 yr,0,0
+Michigan,IHSP,2020,2020,12,75-84 yr,14.3,14.3
+Michigan,IHSP,2020,2020,13,75-84 yr,51.9,37.6
+Michigan,IHSP,2020,2020,14,75-84 yr,null,null
+Michigan,IHSP,2020,2020,15,75-84 yr,null,null
+Michigan,IHSP,2020,2020,16,75-84 yr,null,null
+Michigan,IHSP,2020,2020,17,75-84 yr,null,null
+Michigan,IHSP,2020,2020,18,75-84 yr,null,null
+Michigan,IHSP,2020,2020,19,75-84 yr,null,null
+Michigan,IHSP,2020,2020,20,75-84 yr,null,null
+Michigan,IHSP,2020,2020,21,75-84 yr,null,null
+Michigan,IHSP,2020,2020,22,75-84 yr,null,null
+Michigan,IHSP,2020,2020,23,75-84 yr,null,null
+Michigan,IHSP,2020,2020,24,75-84 yr,null,null
+Michigan,IHSP,2020,2020,25,75-84 yr,null,null
+Michigan,IHSP,2020,2020,26,75-84 yr,null,null
+Michigan,IHSP,2020,2020,27,75-84 yr,null,null
+Michigan,IHSP,2020,2020,28,75-84 yr,null,null
+Michigan,IHSP,2020,2020,29,75-84 yr,null,null
+Michigan,IHSP,2020,2020,30,75-84 yr,null,null
+Michigan,IHSP,2020,2020,31,75-84 yr,null,null
+Michigan,IHSP,2020,2020,32,75-84 yr,null,null
+Michigan,IHSP,2020,2020,33,75-84 yr,null,null
+Michigan,IHSP,2020,2020,34,75-84 yr,null,null
+Michigan,IHSP,2020,2020,35,75-84 yr,null,null
+Michigan,IHSP,2020,2020,36,75-84 yr,null,null
+Michigan,IHSP,2020,2020,37,75-84 yr,null,null
+Michigan,IHSP,2020,2020,38,75-84 yr,null,null
+Michigan,IHSP,2020,2020,39,75-84 yr,null,null
+Michigan,IHSP,2020,2020,10,85+,0,0
+Michigan,IHSP,2020,2020,11,85+,0,0
+Michigan,IHSP,2020,2020,12,85+,21.3,21.3
+Michigan,IHSP,2020,2020,13,85+,55.4,34.1
+Michigan,IHSP,2020,2020,14,85+,null,null
+Michigan,IHSP,2020,2020,15,85+,null,null
+Michigan,IHSP,2020,2020,16,85+,null,null
+Michigan,IHSP,2020,2020,17,85+,null,null
+Michigan,IHSP,2020,2020,18,85+,null,null
+Michigan,IHSP,2020,2020,19,85+,null,null
+Michigan,IHSP,2020,2020,20,85+,null,null
+Michigan,IHSP,2020,2020,21,85+,null,null
+Michigan,IHSP,2020,2020,22,85+,null,null
+Michigan,IHSP,2020,2020,23,85+,null,null
+Michigan,IHSP,2020,2020,24,85+,null,null
+Michigan,IHSP,2020,2020,25,85+,null,null
+Michigan,IHSP,2020,2020,26,85+,null,null
+Michigan,IHSP,2020,2020,27,85+,null,null
+Michigan,IHSP,2020,2020,28,85+,null,null
+Michigan,IHSP,2020,2020,29,85+,null,null
+Michigan,IHSP,2020,2020,30,85+,null,null
+Michigan,IHSP,2020,2020,31,85+,null,null
+Michigan,IHSP,2020,2020,32,85+,null,null
+Michigan,IHSP,2020,2020,33,85+,null,null
+Michigan,IHSP,2020,2020,34,85+,null,null
+Michigan,IHSP,2020,2020,35,85+,null,null
+Michigan,IHSP,2020,2020,36,85+,null,null
+Michigan,IHSP,2020,2020,37,85+,null,null
+Michigan,IHSP,2020,2020,38,85+,null,null
+Michigan,IHSP,2020,2020,39,85+,null,null
+Ohio,IHSP,2020,2020,10,0-4 yr,0,0
+Ohio,IHSP,2020,2020,11,0-4 yr,0,0
+Ohio,IHSP,2020,2020,12,0-4 yr,0,0
+Ohio,IHSP,2020,2020,13,0-4 yr,0,0
+Ohio,IHSP,2020,2020,14,0-4 yr,null,null
+Ohio,IHSP,2020,2020,15,0-4 yr,null,null
+Ohio,IHSP,2020,2020,16,0-4 yr,null,null
+Ohio,IHSP,2020,2020,17,0-4 yr,null,null
+Ohio,IHSP,2020,2020,18,0-4 yr,null,null
+Ohio,IHSP,2020,2020,19,0-4 yr,null,null
+Ohio,IHSP,2020,2020,20,0-4 yr,null,null
+Ohio,IHSP,2020,2020,21,0-4 yr,null,null
+Ohio,IHSP,2020,2020,22,0-4 yr,null,null
+Ohio,IHSP,2020,2020,23,0-4 yr,null,null
+Ohio,IHSP,2020,2020,24,0-4 yr,null,null
+Ohio,IHSP,2020,2020,25,0-4 yr,null,null
+Ohio,IHSP,2020,2020,26,0-4 yr,null,null
+Ohio,IHSP,2020,2020,27,0-4 yr,null,null
+Ohio,IHSP,2020,2020,28,0-4 yr,null,null
+Ohio,IHSP,2020,2020,29,0-4 yr,null,null
+Ohio,IHSP,2020,2020,30,0-4 yr,null,null
+Ohio,IHSP,2020,2020,31,0-4 yr,null,null
+Ohio,IHSP,2020,2020,32,0-4 yr,null,null
+Ohio,IHSP,2020,2020,33,0-4 yr,null,null
+Ohio,IHSP,2020,2020,34,0-4 yr,null,null
+Ohio,IHSP,2020,2020,35,0-4 yr,null,null
+Ohio,IHSP,2020,2020,36,0-4 yr,null,null
+Ohio,IHSP,2020,2020,37,0-4 yr,null,null
+Ohio,IHSP,2020,2020,38,0-4 yr,null,null
+Ohio,IHSP,2020,2020,39,0-4 yr,null,null
+Ohio,IHSP,2020,2020,10,5-17 yr,0,0
+Ohio,IHSP,2020,2020,11,5-17 yr,0,0
+Ohio,IHSP,2020,2020,12,5-17 yr,0,0
+Ohio,IHSP,2020,2020,13,5-17 yr,0,0
+Ohio,IHSP,2020,2020,14,5-17 yr,null,null
+Ohio,IHSP,2020,2020,15,5-17 yr,null,null
+Ohio,IHSP,2020,2020,16,5-17 yr,null,null
+Ohio,IHSP,2020,2020,17,5-17 yr,null,null
+Ohio,IHSP,2020,2020,18,5-17 yr,null,null
+Ohio,IHSP,2020,2020,19,5-17 yr,null,null
+Ohio,IHSP,2020,2020,20,5-17 yr,null,null
+Ohio,IHSP,2020,2020,21,5-17 yr,null,null
+Ohio,IHSP,2020,2020,22,5-17 yr,null,null
+Ohio,IHSP,2020,2020,23,5-17 yr,null,null
+Ohio,IHSP,2020,2020,24,5-17 yr,null,null
+Ohio,IHSP,2020,2020,25,5-17 yr,null,null
+Ohio,IHSP,2020,2020,26,5-17 yr,null,null
+Ohio,IHSP,2020,2020,27,5-17 yr,null,null
+Ohio,IHSP,2020,2020,28,5-17 yr,null,null
+Ohio,IHSP,2020,2020,29,5-17 yr,null,null
+Ohio,IHSP,2020,2020,30,5-17 yr,null,null
+Ohio,IHSP,2020,2020,31,5-17 yr,null,null
+Ohio,IHSP,2020,2020,32,5-17 yr,null,null
+Ohio,IHSP,2020,2020,33,5-17 yr,null,null
+Ohio,IHSP,2020,2020,34,5-17 yr,null,null
+Ohio,IHSP,2020,2020,35,5-17 yr,null,null
+Ohio,IHSP,2020,2020,36,5-17 yr,null,null
+Ohio,IHSP,2020,2020,37,5-17 yr,null,null
+Ohio,IHSP,2020,2020,38,5-17 yr,null,null
+Ohio,IHSP,2020,2020,39,5-17 yr,null,null
+Ohio,IHSP,2020,2020,10,18-49 yr,0,0
+Ohio,IHSP,2020,2020,11,18-49 yr,0.1,0.1
+Ohio,IHSP,2020,2020,12,18-49 yr,0.2,0.1
+Ohio,IHSP,2020,2020,13,18-49 yr,0.3,0.1
+Ohio,IHSP,2020,2020,14,18-49 yr,null,null
+Ohio,IHSP,2020,2020,15,18-49 yr,null,null
+Ohio,IHSP,2020,2020,16,18-49 yr,null,null
+Ohio,IHSP,2020,2020,17,18-49 yr,null,null
+Ohio,IHSP,2020,2020,18,18-49 yr,null,null
+Ohio,IHSP,2020,2020,19,18-49 yr,null,null
+Ohio,IHSP,2020,2020,20,18-49 yr,null,null
+Ohio,IHSP,2020,2020,21,18-49 yr,null,null
+Ohio,IHSP,2020,2020,22,18-49 yr,null,null
+Ohio,IHSP,2020,2020,23,18-49 yr,null,null
+Ohio,IHSP,2020,2020,24,18-49 yr,null,null
+Ohio,IHSP,2020,2020,25,18-49 yr,null,null
+Ohio,IHSP,2020,2020,26,18-49 yr,null,null
+Ohio,IHSP,2020,2020,27,18-49 yr,null,null
+Ohio,IHSP,2020,2020,28,18-49 yr,null,null
+Ohio,IHSP,2020,2020,29,18-49 yr,null,null
+Ohio,IHSP,2020,2020,30,18-49 yr,null,null
+Ohio,IHSP,2020,2020,31,18-49 yr,null,null
+Ohio,IHSP,2020,2020,32,18-49 yr,null,null
+Ohio,IHSP,2020,2020,33,18-49 yr,null,null
+Ohio,IHSP,2020,2020,34,18-49 yr,null,null
+Ohio,IHSP,2020,2020,35,18-49 yr,null,null
+Ohio,IHSP,2020,2020,36,18-49 yr,null,null
+Ohio,IHSP,2020,2020,37,18-49 yr,null,null
+Ohio,IHSP,2020,2020,38,18-49 yr,null,null
+Ohio,IHSP,2020,2020,39,18-49 yr,null,null
+Ohio,IHSP,2020,2020,10,50-64 yr,0,0
+Ohio,IHSP,2020,2020,11,50-64 yr,0,0
+Ohio,IHSP,2020,2020,12,50-64 yr,0,0
+Ohio,IHSP,2020,2020,13,50-64 yr,0,0
+Ohio,IHSP,2020,2020,14,50-64 yr,null,null
+Ohio,IHSP,2020,2020,15,50-64 yr,null,null
+Ohio,IHSP,2020,2020,16,50-64 yr,null,null
+Ohio,IHSP,2020,2020,17,50-64 yr,null,null
+Ohio,IHSP,2020,2020,18,50-64 yr,null,null
+Ohio,IHSP,2020,2020,19,50-64 yr,null,null
+Ohio,IHSP,2020,2020,20,50-64 yr,null,null
+Ohio,IHSP,2020,2020,21,50-64 yr,null,null
+Ohio,IHSP,2020,2020,22,50-64 yr,null,null
+Ohio,IHSP,2020,2020,23,50-64 yr,null,null
+Ohio,IHSP,2020,2020,24,50-64 yr,null,null
+Ohio,IHSP,2020,2020,25,50-64 yr,null,null
+Ohio,IHSP,2020,2020,26,50-64 yr,null,null
+Ohio,IHSP,2020,2020,27,50-64 yr,null,null
+Ohio,IHSP,2020,2020,28,50-64 yr,null,null
+Ohio,IHSP,2020,2020,29,50-64 yr,null,null
+Ohio,IHSP,2020,2020,30,50-64 yr,null,null
+Ohio,IHSP,2020,2020,31,50-64 yr,null,null
+Ohio,IHSP,2020,2020,32,50-64 yr,null,null
+Ohio,IHSP,2020,2020,33,50-64 yr,null,null
+Ohio,IHSP,2020,2020,34,50-64 yr,null,null
+Ohio,IHSP,2020,2020,35,50-64 yr,null,null
+Ohio,IHSP,2020,2020,36,50-64 yr,null,null
+Ohio,IHSP,2020,2020,37,50-64 yr,null,null
+Ohio,IHSP,2020,2020,38,50-64 yr,null,null
+Ohio,IHSP,2020,2020,39,50-64 yr,null,null
+Ohio,IHSP,2020,2020,10,65+ yr,0,0
+Ohio,IHSP,2020,2020,11,65+ yr,0.4,0.4
+Ohio,IHSP,2020,2020,12,65+ yr,0.7,0.4
+Ohio,IHSP,2020,2020,13,65+ yr,1.1,0.4
+Ohio,IHSP,2020,2020,14,65+ yr,null,null
+Ohio,IHSP,2020,2020,15,65+ yr,null,null
+Ohio,IHSP,2020,2020,16,65+ yr,null,null
+Ohio,IHSP,2020,2020,17,65+ yr,null,null
+Ohio,IHSP,2020,2020,18,65+ yr,null,null
+Ohio,IHSP,2020,2020,19,65+ yr,null,null
+Ohio,IHSP,2020,2020,20,65+ yr,null,null
+Ohio,IHSP,2020,2020,21,65+ yr,null,null
+Ohio,IHSP,2020,2020,22,65+ yr,null,null
+Ohio,IHSP,2020,2020,23,65+ yr,null,null
+Ohio,IHSP,2020,2020,24,65+ yr,null,null
+Ohio,IHSP,2020,2020,25,65+ yr,null,null
+Ohio,IHSP,2020,2020,26,65+ yr,null,null
+Ohio,IHSP,2020,2020,27,65+ yr,null,null
+Ohio,IHSP,2020,2020,28,65+ yr,null,null
+Ohio,IHSP,2020,2020,29,65+ yr,null,null
+Ohio,IHSP,2020,2020,30,65+ yr,null,null
+Ohio,IHSP,2020,2020,31,65+ yr,null,null
+Ohio,IHSP,2020,2020,32,65+ yr,null,null
+Ohio,IHSP,2020,2020,33,65+ yr,null,null
+Ohio,IHSP,2020,2020,34,65+ yr,null,null
+Ohio,IHSP,2020,2020,35,65+ yr,null,null
+Ohio,IHSP,2020,2020,36,65+ yr,null,null
+Ohio,IHSP,2020,2020,37,65+ yr,null,null
+Ohio,IHSP,2020,2020,38,65+ yr,null,null
+Ohio,IHSP,2020,2020,39,65+ yr,null,null
+Ohio,IHSP,2020,2020,10,Overall,0,0
+Ohio,IHSP,2020,2020,11,Overall,0.1,0.1
+Ohio,IHSP,2020,2020,12,Overall,0.2,0.1
+Ohio,IHSP,2020,2020,13,Overall,0.3,0.1
+Ohio,IHSP,2020,2020,14,Overall,null,null
+Ohio,IHSP,2020,2020,15,Overall,null,null
+Ohio,IHSP,2020,2020,16,Overall,null,null
+Ohio,IHSP,2020,2020,17,Overall,null,null
+Ohio,IHSP,2020,2020,18,Overall,null,null
+Ohio,IHSP,2020,2020,19,Overall,null,null
+Ohio,IHSP,2020,2020,20,Overall,null,null
+Ohio,IHSP,2020,2020,21,Overall,null,null
+Ohio,IHSP,2020,2020,22,Overall,null,null
+Ohio,IHSP,2020,2020,23,Overall,null,null
+Ohio,IHSP,2020,2020,24,Overall,null,null
+Ohio,IHSP,2020,2020,25,Overall,null,null
+Ohio,IHSP,2020,2020,26,Overall,null,null
+Ohio,IHSP,2020,2020,27,Overall,null,null
+Ohio,IHSP,2020,2020,28,Overall,null,null
+Ohio,IHSP,2020,2020,29,Overall,null,null
+Ohio,IHSP,2020,2020,30,Overall,null,null
+Ohio,IHSP,2020,2020,31,Overall,null,null
+Ohio,IHSP,2020,2020,32,Overall,null,null
+Ohio,IHSP,2020,2020,33,Overall,null,null
+Ohio,IHSP,2020,2020,34,Overall,null,null
+Ohio,IHSP,2020,2020,35,Overall,null,null
+Ohio,IHSP,2020,2020,36,Overall,null,null
+Ohio,IHSP,2020,2020,37,Overall,null,null
+Ohio,IHSP,2020,2020,38,Overall,null,null
+Ohio,IHSP,2020,2020,39,Overall,null,null
+Ohio,IHSP,2020,2020,10,65-74 yr,0,0
+Ohio,IHSP,2020,2020,11,65-74 yr,0.6,0.6
+Ohio,IHSP,2020,2020,12,65-74 yr,0.6,0
+Ohio,IHSP,2020,2020,13,65-74 yr,1.2,0.6
+Ohio,IHSP,2020,2020,14,65-74 yr,null,null
+Ohio,IHSP,2020,2020,15,65-74 yr,null,null
+Ohio,IHSP,2020,2020,16,65-74 yr,null,null
+Ohio,IHSP,2020,2020,17,65-74 yr,null,null
+Ohio,IHSP,2020,2020,18,65-74 yr,null,null
+Ohio,IHSP,2020,2020,19,65-74 yr,null,null
+Ohio,IHSP,2020,2020,20,65-74 yr,null,null
+Ohio,IHSP,2020,2020,21,65-74 yr,null,null
+Ohio,IHSP,2020,2020,22,65-74 yr,null,null
+Ohio,IHSP,2020,2020,23,65-74 yr,null,null
+Ohio,IHSP,2020,2020,24,65-74 yr,null,null
+Ohio,IHSP,2020,2020,25,65-74 yr,null,null
+Ohio,IHSP,2020,2020,26,65-74 yr,null,null
+Ohio,IHSP,2020,2020,27,65-74 yr,null,null
+Ohio,IHSP,2020,2020,28,65-74 yr,null,null
+Ohio,IHSP,2020,2020,29,65-74 yr,null,null
+Ohio,IHSP,2020,2020,30,65-74 yr,null,null
+Ohio,IHSP,2020,2020,31,65-74 yr,null,null
+Ohio,IHSP,2020,2020,32,65-74 yr,null,null
+Ohio,IHSP,2020,2020,33,65-74 yr,null,null
+Ohio,IHSP,2020,2020,34,65-74 yr,null,null
+Ohio,IHSP,2020,2020,35,65-74 yr,null,null
+Ohio,IHSP,2020,2020,36,65-74 yr,null,null
+Ohio,IHSP,2020,2020,37,65-74 yr,null,null
+Ohio,IHSP,2020,2020,38,65-74 yr,null,null
+Ohio,IHSP,2020,2020,39,65-74 yr,null,null
+Ohio,IHSP,2020,2020,10,75-84 yr,0,0
+Ohio,IHSP,2020,2020,11,75-84 yr,0,0
+Ohio,IHSP,2020,2020,12,75-84 yr,1.3,1.3
+Ohio,IHSP,2020,2020,13,75-84 yr,1.3,0
+Ohio,IHSP,2020,2020,14,75-84 yr,null,null
+Ohio,IHSP,2020,2020,15,75-84 yr,null,null
+Ohio,IHSP,2020,2020,16,75-84 yr,null,null
+Ohio,IHSP,2020,2020,17,75-84 yr,null,null
+Ohio,IHSP,2020,2020,18,75-84 yr,null,null
+Ohio,IHSP,2020,2020,19,75-84 yr,null,null
+Ohio,IHSP,2020,2020,20,75-84 yr,null,null
+Ohio,IHSP,2020,2020,21,75-84 yr,null,null
+Ohio,IHSP,2020,2020,22,75-84 yr,null,null
+Ohio,IHSP,2020,2020,23,75-84 yr,null,null
+Ohio,IHSP,2020,2020,24,75-84 yr,null,null
+Ohio,IHSP,2020,2020,25,75-84 yr,null,null
+Ohio,IHSP,2020,2020,26,75-84 yr,null,null
+Ohio,IHSP,2020,2020,27,75-84 yr,null,null
+Ohio,IHSP,2020,2020,28,75-84 yr,null,null
+Ohio,IHSP,2020,2020,29,75-84 yr,null,null
+Ohio,IHSP,2020,2020,30,75-84 yr,null,null
+Ohio,IHSP,2020,2020,31,75-84 yr,null,null
+Ohio,IHSP,2020,2020,32,75-84 yr,null,null
+Ohio,IHSP,2020,2020,33,75-84 yr,null,null
+Ohio,IHSP,2020,2020,34,75-84 yr,null,null
+Ohio,IHSP,2020,2020,35,75-84 yr,null,null
+Ohio,IHSP,2020,2020,36,75-84 yr,null,null
+Ohio,IHSP,2020,2020,37,75-84 yr,null,null
+Ohio,IHSP,2020,2020,38,75-84 yr,null,null
+Ohio,IHSP,2020,2020,39,75-84 yr,null,null
+Ohio,IHSP,2020,2020,10,85+,0,0
+Ohio,IHSP,2020,2020,11,85+,0,0
+Ohio,IHSP,2020,2020,12,85+,0,0
+Ohio,IHSP,2020,2020,13,85+,0,0
+Ohio,IHSP,2020,2020,14,85+,null,null
+Ohio,IHSP,2020,2020,15,85+,null,null
+Ohio,IHSP,2020,2020,16,85+,null,null
+Ohio,IHSP,2020,2020,17,85+,null,null
+Ohio,IHSP,2020,2020,18,85+,null,null
+Ohio,IHSP,2020,2020,19,85+,null,null
+Ohio,IHSP,2020,2020,20,85+,null,null
+Ohio,IHSP,2020,2020,21,85+,null,null
+Ohio,IHSP,2020,2020,22,85+,null,null
+Ohio,IHSP,2020,2020,23,85+,null,null
+Ohio,IHSP,2020,2020,24,85+,null,null
+Ohio,IHSP,2020,2020,25,85+,null,null
+Ohio,IHSP,2020,2020,26,85+,null,null
+Ohio,IHSP,2020,2020,27,85+,null,null
+Ohio,IHSP,2020,2020,28,85+,null,null
+Ohio,IHSP,2020,2020,29,85+,null,null
+Ohio,IHSP,2020,2020,30,85+,null,null
+Ohio,IHSP,2020,2020,31,85+,null,null
+Ohio,IHSP,2020,2020,32,85+,null,null
+Ohio,IHSP,2020,2020,33,85+,null,null
+Ohio,IHSP,2020,2020,34,85+,null,null
+Ohio,IHSP,2020,2020,35,85+,null,null
+Ohio,IHSP,2020,2020,36,85+,null,null
+Ohio,IHSP,2020,2020,37,85+,null,null
+Ohio,IHSP,2020,2020,38,85+,null,null
+Ohio,IHSP,2020,2020,39,85+,null,null
+Utah,IHSP,2020,2020,10,0-4 yr,0,0
+Utah,IHSP,2020,2020,11,0-4 yr,0,0
+Utah,IHSP,2020,2020,12,0-4 yr,0,0
+Utah,IHSP,2020,2020,13,0-4 yr,0,0
+Utah,IHSP,2020,2020,14,0-4 yr,null,null
+Utah,IHSP,2020,2020,15,0-4 yr,null,null
+Utah,IHSP,2020,2020,16,0-4 yr,null,null
+Utah,IHSP,2020,2020,17,0-4 yr,null,null
+Utah,IHSP,2020,2020,18,0-4 yr,null,null
+Utah,IHSP,2020,2020,19,0-4 yr,null,null
+Utah,IHSP,2020,2020,20,0-4 yr,null,null
+Utah,IHSP,2020,2020,21,0-4 yr,null,null
+Utah,IHSP,2020,2020,22,0-4 yr,null,null
+Utah,IHSP,2020,2020,23,0-4 yr,null,null
+Utah,IHSP,2020,2020,24,0-4 yr,null,null
+Utah,IHSP,2020,2020,25,0-4 yr,null,null
+Utah,IHSP,2020,2020,26,0-4 yr,null,null
+Utah,IHSP,2020,2020,27,0-4 yr,null,null
+Utah,IHSP,2020,2020,28,0-4 yr,null,null
+Utah,IHSP,2020,2020,29,0-4 yr,null,null
+Utah,IHSP,2020,2020,30,0-4 yr,null,null
+Utah,IHSP,2020,2020,31,0-4 yr,null,null
+Utah,IHSP,2020,2020,32,0-4 yr,null,null
+Utah,IHSP,2020,2020,33,0-4 yr,null,null
+Utah,IHSP,2020,2020,34,0-4 yr,null,null
+Utah,IHSP,2020,2020,35,0-4 yr,null,null
+Utah,IHSP,2020,2020,36,0-4 yr,null,null
+Utah,IHSP,2020,2020,37,0-4 yr,null,null
+Utah,IHSP,2020,2020,38,0-4 yr,null,null
+Utah,IHSP,2020,2020,39,0-4 yr,null,null
+Utah,IHSP,2020,2020,10,5-17 yr,0,0
+Utah,IHSP,2020,2020,11,5-17 yr,0,0
+Utah,IHSP,2020,2020,12,5-17 yr,0,0
+Utah,IHSP,2020,2020,13,5-17 yr,0,0
+Utah,IHSP,2020,2020,14,5-17 yr,null,null
+Utah,IHSP,2020,2020,15,5-17 yr,null,null
+Utah,IHSP,2020,2020,16,5-17 yr,null,null
+Utah,IHSP,2020,2020,17,5-17 yr,null,null
+Utah,IHSP,2020,2020,18,5-17 yr,null,null
+Utah,IHSP,2020,2020,19,5-17 yr,null,null
+Utah,IHSP,2020,2020,20,5-17 yr,null,null
+Utah,IHSP,2020,2020,21,5-17 yr,null,null
+Utah,IHSP,2020,2020,22,5-17 yr,null,null
+Utah,IHSP,2020,2020,23,5-17 yr,null,null
+Utah,IHSP,2020,2020,24,5-17 yr,null,null
+Utah,IHSP,2020,2020,25,5-17 yr,null,null
+Utah,IHSP,2020,2020,26,5-17 yr,null,null
+Utah,IHSP,2020,2020,27,5-17 yr,null,null
+Utah,IHSP,2020,2020,28,5-17 yr,null,null
+Utah,IHSP,2020,2020,29,5-17 yr,null,null
+Utah,IHSP,2020,2020,30,5-17 yr,null,null
+Utah,IHSP,2020,2020,31,5-17 yr,null,null
+Utah,IHSP,2020,2020,32,5-17 yr,null,null
+Utah,IHSP,2020,2020,33,5-17 yr,null,null
+Utah,IHSP,2020,2020,34,5-17 yr,null,null
+Utah,IHSP,2020,2020,35,5-17 yr,null,null
+Utah,IHSP,2020,2020,36,5-17 yr,null,null
+Utah,IHSP,2020,2020,37,5-17 yr,null,null
+Utah,IHSP,2020,2020,38,5-17 yr,null,null
+Utah,IHSP,2020,2020,39,5-17 yr,null,null
+Utah,IHSP,2020,2020,10,18-49 yr,0,0
+Utah,IHSP,2020,2020,11,18-49 yr,0.4,0.4
+Utah,IHSP,2020,2020,12,18-49 yr,0.9,0.6
+Utah,IHSP,2020,2020,13,18-49 yr,1.3,0.4
+Utah,IHSP,2020,2020,14,18-49 yr,null,null
+Utah,IHSP,2020,2020,15,18-49 yr,null,null
+Utah,IHSP,2020,2020,16,18-49 yr,null,null
+Utah,IHSP,2020,2020,17,18-49 yr,null,null
+Utah,IHSP,2020,2020,18,18-49 yr,null,null
+Utah,IHSP,2020,2020,19,18-49 yr,null,null
+Utah,IHSP,2020,2020,20,18-49 yr,null,null
+Utah,IHSP,2020,2020,21,18-49 yr,null,null
+Utah,IHSP,2020,2020,22,18-49 yr,null,null
+Utah,IHSP,2020,2020,23,18-49 yr,null,null
+Utah,IHSP,2020,2020,24,18-49 yr,null,null
+Utah,IHSP,2020,2020,25,18-49 yr,null,null
+Utah,IHSP,2020,2020,26,18-49 yr,null,null
+Utah,IHSP,2020,2020,27,18-49 yr,null,null
+Utah,IHSP,2020,2020,28,18-49 yr,null,null
+Utah,IHSP,2020,2020,29,18-49 yr,null,null
+Utah,IHSP,2020,2020,30,18-49 yr,null,null
+Utah,IHSP,2020,2020,31,18-49 yr,null,null
+Utah,IHSP,2020,2020,32,18-49 yr,null,null
+Utah,IHSP,2020,2020,33,18-49 yr,null,null
+Utah,IHSP,2020,2020,34,18-49 yr,null,null
+Utah,IHSP,2020,2020,35,18-49 yr,null,null
+Utah,IHSP,2020,2020,36,18-49 yr,null,null
+Utah,IHSP,2020,2020,37,18-49 yr,null,null
+Utah,IHSP,2020,2020,38,18-49 yr,null,null
+Utah,IHSP,2020,2020,39,18-49 yr,null,null
+Utah,IHSP,2020,2020,10,50-64 yr,0,0
+Utah,IHSP,2020,2020,11,50-64 yr,0,0
+Utah,IHSP,2020,2020,12,50-64 yr,1.7,1.7
+Utah,IHSP,2020,2020,13,50-64 yr,7.4,5.7
+Utah,IHSP,2020,2020,14,50-64 yr,null,null
+Utah,IHSP,2020,2020,15,50-64 yr,null,null
+Utah,IHSP,2020,2020,16,50-64 yr,null,null
+Utah,IHSP,2020,2020,17,50-64 yr,null,null
+Utah,IHSP,2020,2020,18,50-64 yr,null,null
+Utah,IHSP,2020,2020,19,50-64 yr,null,null
+Utah,IHSP,2020,2020,20,50-64 yr,null,null
+Utah,IHSP,2020,2020,21,50-64 yr,null,null
+Utah,IHSP,2020,2020,22,50-64 yr,null,null
+Utah,IHSP,2020,2020,23,50-64 yr,null,null
+Utah,IHSP,2020,2020,24,50-64 yr,null,null
+Utah,IHSP,2020,2020,25,50-64 yr,null,null
+Utah,IHSP,2020,2020,26,50-64 yr,null,null
+Utah,IHSP,2020,2020,27,50-64 yr,null,null
+Utah,IHSP,2020,2020,28,50-64 yr,null,null
+Utah,IHSP,2020,2020,29,50-64 yr,null,null
+Utah,IHSP,2020,2020,30,50-64 yr,null,null
+Utah,IHSP,2020,2020,31,50-64 yr,null,null
+Utah,IHSP,2020,2020,32,50-64 yr,null,null
+Utah,IHSP,2020,2020,33,50-64 yr,null,null
+Utah,IHSP,2020,2020,34,50-64 yr,null,null
+Utah,IHSP,2020,2020,35,50-64 yr,null,null
+Utah,IHSP,2020,2020,36,50-64 yr,null,null
+Utah,IHSP,2020,2020,37,50-64 yr,null,null
+Utah,IHSP,2020,2020,38,50-64 yr,null,null
+Utah,IHSP,2020,2020,39,50-64 yr,null,null
+Utah,IHSP,2020,2020,10,65+ yr,0,0
+Utah,IHSP,2020,2020,11,65+ yr,0,0
+Utah,IHSP,2020,2020,12,65+ yr,4,4
+Utah,IHSP,2020,2020,13,65+ yr,7.2,3.2
+Utah,IHSP,2020,2020,14,65+ yr,null,null
+Utah,IHSP,2020,2020,15,65+ yr,null,null
+Utah,IHSP,2020,2020,16,65+ yr,null,null
+Utah,IHSP,2020,2020,17,65+ yr,null,null
+Utah,IHSP,2020,2020,18,65+ yr,null,null
+Utah,IHSP,2020,2020,19,65+ yr,null,null
+Utah,IHSP,2020,2020,20,65+ yr,null,null
+Utah,IHSP,2020,2020,21,65+ yr,null,null
+Utah,IHSP,2020,2020,22,65+ yr,null,null
+Utah,IHSP,2020,2020,23,65+ yr,null,null
+Utah,IHSP,2020,2020,24,65+ yr,null,null
+Utah,IHSP,2020,2020,25,65+ yr,null,null
+Utah,IHSP,2020,2020,26,65+ yr,null,null
+Utah,IHSP,2020,2020,27,65+ yr,null,null
+Utah,IHSP,2020,2020,28,65+ yr,null,null
+Utah,IHSP,2020,2020,29,65+ yr,null,null
+Utah,IHSP,2020,2020,30,65+ yr,null,null
+Utah,IHSP,2020,2020,31,65+ yr,null,null
+Utah,IHSP,2020,2020,32,65+ yr,null,null
+Utah,IHSP,2020,2020,33,65+ yr,null,null
+Utah,IHSP,2020,2020,34,65+ yr,null,null
+Utah,IHSP,2020,2020,35,65+ yr,null,null
+Utah,IHSP,2020,2020,36,65+ yr,null,null
+Utah,IHSP,2020,2020,37,65+ yr,null,null
+Utah,IHSP,2020,2020,38,65+ yr,null,null
+Utah,IHSP,2020,2020,39,65+ yr,null,null
+Utah,IHSP,2020,2020,10,Overall,0,0
+Utah,IHSP,2020,2020,11,Overall,0.2,0.2
+Utah,IHSP,2020,2020,12,Overall,1.1,1
+Utah,IHSP,2020,2020,13,Overall,2.5,1.4
+Utah,IHSP,2020,2020,14,Overall,null,null
+Utah,IHSP,2020,2020,15,Overall,null,null
+Utah,IHSP,2020,2020,16,Overall,null,null
+Utah,IHSP,2020,2020,17,Overall,null,null
+Utah,IHSP,2020,2020,18,Overall,null,null
+Utah,IHSP,2020,2020,19,Overall,null,null
+Utah,IHSP,2020,2020,20,Overall,null,null
+Utah,IHSP,2020,2020,21,Overall,null,null
+Utah,IHSP,2020,2020,22,Overall,null,null
+Utah,IHSP,2020,2020,23,Overall,null,null
+Utah,IHSP,2020,2020,24,Overall,null,null
+Utah,IHSP,2020,2020,25,Overall,null,null
+Utah,IHSP,2020,2020,26,Overall,null,null
+Utah,IHSP,2020,2020,27,Overall,null,null
+Utah,IHSP,2020,2020,28,Overall,null,null
+Utah,IHSP,2020,2020,29,Overall,null,null
+Utah,IHSP,2020,2020,30,Overall,null,null
+Utah,IHSP,2020,2020,31,Overall,null,null
+Utah,IHSP,2020,2020,32,Overall,null,null
+Utah,IHSP,2020,2020,33,Overall,null,null
+Utah,IHSP,2020,2020,34,Overall,null,null
+Utah,IHSP,2020,2020,35,Overall,null,null
+Utah,IHSP,2020,2020,36,Overall,null,null
+Utah,IHSP,2020,2020,37,Overall,null,null
+Utah,IHSP,2020,2020,38,Overall,null,null
+Utah,IHSP,2020,2020,39,Overall,null,null
+Utah,IHSP,2020,2020,10,65-74 yr,0,0
+Utah,IHSP,2020,2020,11,65-74 yr,0,0
+Utah,IHSP,2020,2020,12,65-74 yr,3.9,3.9
+Utah,IHSP,2020,2020,13,65-74 yr,5.2,1.3
+Utah,IHSP,2020,2020,14,65-74 yr,null,null
+Utah,IHSP,2020,2020,15,65-74 yr,null,null
+Utah,IHSP,2020,2020,16,65-74 yr,null,null
+Utah,IHSP,2020,2020,17,65-74 yr,null,null
+Utah,IHSP,2020,2020,18,65-74 yr,null,null
+Utah,IHSP,2020,2020,19,65-74 yr,null,null
+Utah,IHSP,2020,2020,20,65-74 yr,null,null
+Utah,IHSP,2020,2020,21,65-74 yr,null,null
+Utah,IHSP,2020,2020,22,65-74 yr,null,null
+Utah,IHSP,2020,2020,23,65-74 yr,null,null
+Utah,IHSP,2020,2020,24,65-74 yr,null,null
+Utah,IHSP,2020,2020,25,65-74 yr,null,null
+Utah,IHSP,2020,2020,26,65-74 yr,null,null
+Utah,IHSP,2020,2020,27,65-74 yr,null,null
+Utah,IHSP,2020,2020,28,65-74 yr,null,null
+Utah,IHSP,2020,2020,29,65-74 yr,null,null
+Utah,IHSP,2020,2020,30,65-74 yr,null,null
+Utah,IHSP,2020,2020,31,65-74 yr,null,null
+Utah,IHSP,2020,2020,32,65-74 yr,null,null
+Utah,IHSP,2020,2020,33,65-74 yr,null,null
+Utah,IHSP,2020,2020,34,65-74 yr,null,null
+Utah,IHSP,2020,2020,35,65-74 yr,null,null
+Utah,IHSP,2020,2020,36,65-74 yr,null,null
+Utah,IHSP,2020,2020,37,65-74 yr,null,null
+Utah,IHSP,2020,2020,38,65-74 yr,null,null
+Utah,IHSP,2020,2020,39,65-74 yr,null,null
+Utah,IHSP,2020,2020,10,75-84 yr,0,0
+Utah,IHSP,2020,2020,11,75-84 yr,0,0
+Utah,IHSP,2020,2020,12,75-84 yr,5.7,5.7
+Utah,IHSP,2020,2020,13,75-84 yr,14.3,8.6
+Utah,IHSP,2020,2020,14,75-84 yr,null,null
+Utah,IHSP,2020,2020,15,75-84 yr,null,null
+Utah,IHSP,2020,2020,16,75-84 yr,null,null
+Utah,IHSP,2020,2020,17,75-84 yr,null,null
+Utah,IHSP,2020,2020,18,75-84 yr,null,null
+Utah,IHSP,2020,2020,19,75-84 yr,null,null
+Utah,IHSP,2020,2020,20,75-84 yr,null,null
+Utah,IHSP,2020,2020,21,75-84 yr,null,null
+Utah,IHSP,2020,2020,22,75-84 yr,null,null
+Utah,IHSP,2020,2020,23,75-84 yr,null,null
+Utah,IHSP,2020,2020,24,75-84 yr,null,null
+Utah,IHSP,2020,2020,25,75-84 yr,null,null
+Utah,IHSP,2020,2020,26,75-84 yr,null,null
+Utah,IHSP,2020,2020,27,75-84 yr,null,null
+Utah,IHSP,2020,2020,28,75-84 yr,null,null
+Utah,IHSP,2020,2020,29,75-84 yr,null,null
+Utah,IHSP,2020,2020,30,75-84 yr,null,null
+Utah,IHSP,2020,2020,31,75-84 yr,null,null
+Utah,IHSP,2020,2020,32,75-84 yr,null,null
+Utah,IHSP,2020,2020,33,75-84 yr,null,null
+Utah,IHSP,2020,2020,34,75-84 yr,null,null
+Utah,IHSP,2020,2020,35,75-84 yr,null,null
+Utah,IHSP,2020,2020,36,75-84 yr,null,null
+Utah,IHSP,2020,2020,37,75-84 yr,null,null
+Utah,IHSP,2020,2020,38,75-84 yr,null,null
+Utah,IHSP,2020,2020,39,75-84 yr,null,null
+Utah,IHSP,2020,2020,10,85+,0,0
+Utah,IHSP,2020,2020,11,85+,0,0
+Utah,IHSP,2020,2020,12,85+,0,0
+Utah,IHSP,2020,2020,13,85+,0,0
+Utah,IHSP,2020,2020,14,85+,null,null
+Utah,IHSP,2020,2020,15,85+,null,null
+Utah,IHSP,2020,2020,16,85+,null,null
+Utah,IHSP,2020,2020,17,85+,null,null
+Utah,IHSP,2020,2020,18,85+,null,null
+Utah,IHSP,2020,2020,19,85+,null,null
+Utah,IHSP,2020,2020,20,85+,null,null
+Utah,IHSP,2020,2020,21,85+,null,null
+Utah,IHSP,2020,2020,22,85+,null,null
+Utah,IHSP,2020,2020,23,85+,null,null
+Utah,IHSP,2020,2020,24,85+,null,null
+Utah,IHSP,2020,2020,25,85+,null,null
+Utah,IHSP,2020,2020,26,85+,null,null
+Utah,IHSP,2020,2020,27,85+,null,null
+Utah,IHSP,2020,2020,28,85+,null,null
+Utah,IHSP,2020,2020,29,85+,null,null
+Utah,IHSP,2020,2020,30,85+,null,null
+Utah,IHSP,2020,2020,31,85+,null,null
+Utah,IHSP,2020,2020,32,85+,null,null
+Utah,IHSP,2020,2020,33,85+,null,null
+Utah,IHSP,2020,2020,34,85+,null,null
+Utah,IHSP,2020,2020,35,85+,null,null
+Utah,IHSP,2020,2020,36,85+,null,null
+Utah,IHSP,2020,2020,37,85+,null,null
+Utah,IHSP,2020,2020,38,85+,null,null
+Utah,IHSP,2020,2020,39,85+,null,null
