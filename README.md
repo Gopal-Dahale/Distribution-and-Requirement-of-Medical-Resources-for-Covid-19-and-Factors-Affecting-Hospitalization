@@ -10,4 +10,11 @@
   - This was done using SIR/SEIR compartmental mathematical model.
 - Estimating the percentage of hospitalized and infected people who may need ventilators or medical supervision.
 
-For more information, visit [here]()
+## Group Members
+- [Abinash Acharya](https://github.com/abinash84)
+- [Asad Abidi](https://github.com/asad-abd)
+- [Ashutosh Soni](https://github.com/ashutosh952)
+- [Gopal Ramesh Dahale](https://github.com/Gopal-Dahale)
+- [Himanshu Sekhar Nayak](https://github.com/himanshuhsn)
+
+For more information, visit [here](https://github.com/Gopal-Dahale/Distribution-and-Requirement-of-Medical-Resources-for-Covid-19-and-Factors-Affecting-Hospitalization/blob/main/Project%20Report.pdf)
